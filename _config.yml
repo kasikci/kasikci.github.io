@@ -1,0 +1,11 @@
+title:        systems seminars
+tagline:      'Systems Seminars'
+description:  'EPFL IC Systems seminars'
+url:          http://andhyde.com
+author:
+  name:       Baris Kasikci
+  email:      baris.kasikci@epfl.ch
+markdown:     rdiscount
+permalink:    pretty
+pygments:     true
+paginate:     1
