@@ -55,14 +55,14 @@ body {
 
 body {
   font-family: "Open Sans", Helvetica, Arial, sans-serif;
-  font-size: 16px;
+  font-size: 14px;
   line-height: 1.5;
   color: #454441;
   background-color: #fff;
 }
 @media (min-width: 990px) {
   body {
-    font-size: 18px;
+    font-size: 14px;
   }
 }
 
@@ -73,7 +73,7 @@ h1, h2, h3, h4, h5, h6 {
   text-rendering: optimizeLegibility;
 }
 h1 {
-  font-size: 40px;
+  font-size: 32px;
 }
 h2 {
   margin-top: 20px;
