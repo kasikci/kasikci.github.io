@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>systems seminars</title>
+ <link href="/atom.xml" rel="self"/>
+ <link href="/"/>
+ <updated>2014-03-12T16:30:58+01:00</updated>
+ <id></id>
+ <author>
+   <name>Baris Kasikci</name>
+   <email>baris.kasikci@epfl.ch</email>
+ </author>
+
+ 
+ <entry>
+   <title>CLyDE Mid-Flight: What we have learnt so far about the SSD-Based IO Stack</title>
+   <link href="/2014/02/14/CLyDE-Mid-Flight-What-we-have-learnt-so-far-about-the-SSD-Based-IO-Stack/"/>
+   <updated>2014-02-14T00:00:00+01:00</updated>
+   <id>/2014/02/14/CLyDE-Mid-Flight-What-we-have-learnt-so-far-about-the-SSD-Based-IO-Stack</id>
+   <content type="html">&lt;h3&gt;Abstract&lt;/h3&gt;
+
+&lt;p&gt;The quest for energy proportional systems and the growing performance gap between processors and magnetic disks has led to the adoption of SSDs as secondary storage of choice for a large range of systems.  Indeed, SSDs offer great performance (tens of flash chips wired in parallel can deliver hundreds of thousands accesses per second) with low energy consumption. This evolution introduces a mismatch between the simple disk model that underlies the design of today’s database systems and the complex SSDs of today’s computers. This mismatch leads to unpredictable performance, with orders of magnitude slowdown in IO latency that can hit an application anytime. To attack this problem, the obvious approach is to construct models that capture SSDs&#39; performance behaviour. However, our previous work has shown the limits of this approach because (a) performance characteristics and energy profiles vary significantly across SSDs, and (b) performance varies in time on a single device based on the history of accesses. The CLyDe project is based on the insight that the strict layering that has been so successful for designing database systems on top of magnetic disks is no longer applicable to SSDs. In other words, our central hypothesis is that the complexity of flash devices cannot be abstracted away as it results in unpredictable and suboptimal performance. We postulate that database system designers need a clear and stable distinction between efficient and inefficient patterns of access to secondary storage, so that they can adapt space allocation strategies, data representation or query processing algorithms. We propose that (i) SSDs should expose this distinction instead of aggressively mitigating the impact of inefficient patterns at the expense of the efficient ones, and (ii) that operating system and database system should explicitly provide mechanisms to ensure that efficient access patterns are favoured.  We thus advocate a co-design of SSD controllers, operating system and database system with appropriate cross-layer optimisations.
+In this talk, I will report on the lessons we have learnt so far in the project. In particular, I will describe the SSD simulation frameworks that we have developed to explore cross layer designs: EagleTree and LightNVM. I will discuss our findings on the importance of scheduling within an SSD. I will present our contribution to the re-design of the Linux block layer, that makes it possible for Linux to keep up with SSD performance on multi-socket systems. Finally, I will present preliminary results on the co-design of file system and SSDs.&lt;/p&gt;
+
+&lt;p&gt;CLyDE is a joint project between IT University of Copenhagen and INRIA Paris Rocquencourt, started in 2012 and funded by the Danish Council for Independent Research.&lt;/p&gt;
+
+&lt;h3&gt;Biography&lt;/h3&gt;
+
+&lt;p&gt;Philippe Bonnet is associate professor at IT University of Copenhagen. Philippe is an experimental computer scientist focused on building/tuning systems for performance and energy efficiency. Philippe&#39;s research interests include database tuning, flash-based database systems, secure personal data management, sensor data engineering.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Diagnosing Production-Run Concurrency-Bug Failures</title>
+   <link href="/2014/02/03/Diagnosing-Production-Run-Concurrency-Bug-Failures/"/>
+   <updated>2014-02-03T00:00:00+01:00</updated>
+   <id>/2014/02/03/Diagnosing-Production-Run-Concurrency-Bug-Failures</id>
+   <content type="html">&lt;h3&gt;Abstract&lt;/h3&gt;
+
+&lt;p&gt;Failures caused by software bugs are widespread in production runs, causing severe losses for end users. Unfortunately, diagnosing production-run failures, especially failures caused by concurrency bugs in multi-threaded software, is challenging. Existing work cannot satisfy privacy, run-time overhead, diagnosis capability, and diagnosis latency requirements all at once.&lt;/p&gt;
+
+&lt;p&gt;This talk will present a series of attempts from our group to address the above challenges. Our first attempt, called CCI, applies the cooperative bug isolation (CBI) approach, which was initially designed for sequential bugs, to concurrency bugs. Our carefully designed interleaving predicates and sampling schemes allow CCI to diagnose a wide variety of concurrency-bug failures with decent overhead. Our second attempt, called PBI, further improves the performance and preserves the diagnosis capability of CCI through a novel use of hardware performance counters. Our final attempt, called LXR, addresses the long diagnosis latency problem of CCI and PBI. Different from CCI and PBI that both obtain run-time information through sampling, LXR obtains run-time information through hardware support that maintains recent execution history with negligible overhead. I will conclude the talk by discussing other research in my group that tackles concurrency bugs and performance bugs.&lt;/p&gt;
+
+&lt;h3&gt;Biography&lt;/h3&gt;
+
+&lt;p&gt;Shan Lu is the Claire Boothe Luce Assistant Professor of Computer Sciences at University of Wisconsin, Madison. She earned her Ph.D. at University of Illinois, Urbana-Champaign, in 2008, where she completed a thesis on &quot;Understanding, Detecting, and Exposing Concurrency Bugs&quot;. At University of Wisconsin, her group works on detecting, diagnosing, and fixing concurrency bugs and performance bugs. Shan Lu won NSF Career Award in 2010, and the Distinguished Educator Alumnus Award from Department of Computer Science at University of Illinois in 2013. Her co-authored papers won the Best Paper Award at USENIX FAST in 2013, ACM-SIGPLAN CACM Research Highlight Nomation in 2011, and IEEE Micro Top Picks in 2006. She currently serves as the Information Director of ACM-SIGOPS.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
