@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "CLyDE Mid-Flight: What we have learnt so far about the SSD-Based IO Stack"
-who: Prof. Philippe Bonnet
-institution: IT University of Copenhagen
-host: Prof. Anastasia Ailamaki
-when: Friday, February 14, 2014 @ 12:00pm
-where: Room BC 410
-notes: Sandwiches will be available before the talk as of 11:45am
+who: "Prof. Philippe Bonnet"
+institution: "IT University of Copenhagen"
+host: "Prof. Anastasia Ailamaki"
+when: "Friday, February 14, 2014 @ 12:00pm"
+where: "Room BC 410"
+notes: "Sandwiches will be available before the talk as of 11:45am"
 ---
 
 ### Abstract
