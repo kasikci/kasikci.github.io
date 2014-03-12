@@ -1,6 +1,5 @@
 # Steps to publish: (taken from [randymorris](https://github.com/randymorris))
 
-
 * Make changes in the source branch
 * Build and test the site locally
 * Commit changes to source branch
