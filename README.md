@@ -1,3 +1,16 @@
+# Steps to publish: (taken from [randymorris](https://github.com/randymorris))
+
+* Make changes in the source branch
+* Build and test the site locally
+* Commit changes to source branch
+* git publish-website which consists of the following steps
+    - git branch -D master
+    - git checkout -b master
+    - git filter-branch --subdirectory-filter _site/ -f
+    - git checkout source
+    - git push --all origin
+
+
 # [Hyde](http://andhyde.com)
 
 An elegant open source, mobile first theme for [Jekyll](https://github.com/mojombo/jekyll). It includes lightweight styles and placeholder content to get you up and running with a simple blog in no time.
