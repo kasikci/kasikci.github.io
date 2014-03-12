@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+
+  <head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+
+  <title>
+    CLyDE Mid-Flight: What we have learnt so far about the SSD-Based IO Stack &middot; 
+    Systems Seminars
+  </title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/public/css/hyde.css">
+  <link rel="stylesheet" href="/public/css/syntax.css">
+  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:300,400italic,400,600,700|Abril+Fatface">
+
+  <!-- Icons -->
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/public/touch-icon-144-precomposed.png">
+  <link rel="shortcut icon" href="/public/favicon.png">
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+</head>
+
+
+  <body class="theme-base-08 layout-reverse">
+
+    <header class="masthead">
+      <div class="masthead-inner">
+        <a href="/"> <h1>systems seminars</h1> </a>
+        <p class="lead">EPFL IC Systems seminars</p>
+
+        <div class="colophon">
+          <ul class="colophon-links">
+            <li>
+              <a href="/archives/">archives</a>
+            </li>
+            <li>
+              <a href="https://github.com/kasikci/kasikci.github.io">github</a>
+            </li>
+            <li>
+              <a href="mailto:baris.kasikci@epfl.ch" target="_top">contact</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </header>
+
+    <div class="content container">
+      <div class="post">
+  <h1>CLyDE Mid-Flight: What we have learnt so far about the SSD-Based IO Stack</h1>
+  <span class="post-date">Prof. Philippe Bonnet</span>
+  <span class="post-date">IT University of Copenhagen</span>
+  <span class="post-date">Friday, February 14, 2014 @ 12:00pm</span>
+  <span class="post-date">Room BC 410</span>
+  <span class="post-date">invited by: Prof. Anastasia Ailamaki</span>
+  <br>
+  <span class="post-date">Sandwiches will be available before the talk as of 11:45am</span>
+  <h3>Abstract</h3>
+
+<p>The quest for energy proportional systems and the growing performance gap between processors and magnetic disks has led to the adoption of SSDs as secondary storage of choice for a large range of systems.  Indeed, SSDs offer great performance (tens of flash chips wired in parallel can deliver hundreds of thousands accesses per second) with low energy consumption. This evolution introduces a mismatch between the simple disk model that underlies the design of today’s database systems and the complex SSDs of today’s computers. This mismatch leads to unpredictable performance, with orders of magnitude slowdown in IO latency that can hit an application anytime. To attack this problem, the obvious approach is to construct models that capture SSDs' performance behaviour. However, our previous work has shown the limits of this approach because (a) performance characteristics and energy profiles vary significantly across SSDs, and (b) performance varies in time on a single device based on the history of accesses. The CLyDe project is based on the insight that the strict layering that has been so successful for designing database systems on top of magnetic disks is no longer applicable to SSDs. In other words, our central hypothesis is that the complexity of flash devices cannot be abstracted away as it results in unpredictable and suboptimal performance. We postulate that database system designers need a clear and stable distinction between efficient and inefficient patterns of access to secondary storage, so that they can adapt space allocation strategies, data representation or query processing algorithms. We propose that (i) SSDs should expose this distinction instead of aggressively mitigating the impact of inefficient patterns at the expense of the efficient ones, and (ii) that operating system and database system should explicitly provide mechanisms to ensure that efficient access patterns are favoured.  We thus advocate a co-design of SSD controllers, operating system and database system with appropriate cross-layer optimisations.
+In this talk, I will report on the lessons we have learnt so far in the project. In particular, I will describe the SSD simulation frameworks that we have developed to explore cross layer designs: EagleTree and LightNVM. I will discuss our findings on the importance of scheduling within an SSD. I will present our contribution to the re-design of the Linux block layer, that makes it possible for Linux to keep up with SSD performance on multi-socket systems. Finally, I will present preliminary results on the co-design of file system and SSDs.</p>
+
+<p>CLyDE is a joint project between IT University of Copenhagen and INRIA Paris Rocquencourt, started in 2012 and funded by the Danish Council for Independent Research.</p>
+
+<h3>Biography</h3>
+
+<p>Philippe Bonnet is associate professor at IT University of Copenhagen. Philippe is an experimental computer scientist focused on building/tuning systems for performance and energy efficiency. Philippe's research interests include database tuning, flash-based database systems, secure personal data management, sensor data engineering.</p>
+
+</div>
+
+    </div>
+</div>
+
+  </body>
+</html>
