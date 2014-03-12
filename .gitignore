@@ -1,7 +1,16 @@
 # Ignore docs files
 _gh_pages
-_site
 .ruby-version
+
+#ignore all files in _site except the archive that needs to be generated using a plugin. GitHub does not allow this on the server side :S
+_site/2014/
+_site/404.html
+_site/LICENSE.md
+_site/README.md
+_site/atom.xml
+_site/index.html
+_site/page2/
+_site/public/
 
 # Numerous always-ignore extensions
 *.diff
