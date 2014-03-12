@@ -272,6 +272,7 @@ a:focus {
     bottom: 0;
     width: 25%;
     margin-bottom: 0;
+    font-size: 18px;
   }
   .masthead-inner {
     position: absolute;
@@ -388,6 +389,7 @@ a:focus {
   float: left;
   width: 50%;
   padding: 20px;
+  font-size: 16pt;
 }
 .pagination a:first-child,
 .pagination span:first-child {
