@@ -252,3 +252,8 @@ a.sidebar-nav-item:focus {
 .message {
   font-size: 18px
 }
+
+.publication {
+  font-size: 16px;
+  padding-left: 318px;
+}
