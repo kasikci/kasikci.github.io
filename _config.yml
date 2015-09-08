@@ -1,10 +1,26 @@
-title:        systems seminar
-tagline:      'Systems Seminar'
-description:  'EPFL IC Systems seminar'
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Baris Kasikci
+tagline:          
+description:      'I am interested in making computer systems more reliable and secure'
+url:              
+baseurl:          /
+
 author:
-  name:       Baris Kasikci
-  email:      baris.kasikci@epfl.ch
-markdown:     rdiscount
-permalink:    pretty
-pygments:     true
-paginate:     3
+  name:           Baris Kasikci
+  url:            bariskasikci.net
+
+paginate:	  5
+
+# Custom vars
+version:          
+
+github:
+  repo:           
