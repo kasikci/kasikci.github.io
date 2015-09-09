@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Baris Kasikci
+tagline:          
+description:      'I am interested in making computer systems more reliable and secure'
+url:              
+baseurl:          /
+
+author:
+  name:           Baris Kasikci
+  url:            bariskasikci.net
+
+paginate:	  5
+
+# Custom vars
+version:          
+
+github:
+  repo:           
