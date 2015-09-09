@@ -3,28 +3,22 @@ layout: page
 title: Teaching
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+## Teaching Assistantship
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+During my PhD, I TAed for the following courses:
 
-There are currently two themes built on Poole:
+* [Programming II](http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775702&ww_x_anneeacad=213638028&ww_i_section=945244&ww_i_niveau=6683111&ww_c_langue=en) (1st year undergraduate programming course), 2010
+* [Software Engineering](http://sweng.epfl.ch/) (3rd year undergraduate software engineering course), 2011-2013
+* [Principles of Computer Systems](http://pocs.epfl.ch/) (Graduate level systems course), 2014
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+## Lectures
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+Here are two lectures I gave on design patterns as part of the [Software Engineering](http://sweng.epfl.ch/) course at EPFL.
 
-## Setup
+<a href="http://klewel.com/conferences/epfl-sweng-2011/index.php?talkID=20">Design patterns I</a>
+<a href="http://klewel.com/conferences/epfl-sweng-2011/index.php?talkID=20"><img class="talkSnapshotImg" src="http://www.klewel.com/conferences/epfl-sweng-2011/21/snapshot.jpg" border="0">
+</a>
 
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+<a href="http://klewel.com/conferences/epfl-sweng-2011/index.php?talkID=21">Design patterns II</a>
+<a href="http://klewel.com/conferences/epfl-sweng-2011/index.php?talkID=21">
+<img class="talkSnapshotImg" src="http://www.klewel.com/conferences/epfl-sweng-2011/22/snapshot.jpg" border="0"></a>
