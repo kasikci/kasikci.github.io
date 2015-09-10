@@ -35,9 +35,9 @@ RaceMob users experience an average runtime overhead of about 2%, which is order
 
 Data races are one of the main causes of concurrency problems in multithreaded programs. Whether all data races are bad, or some are harmful and others are harmless, is still the subject of vigorous scientific debate. What is clear, however, is that today’s code has many data races, and fixing data races without introducing bugs is time consuming. Therefore, it is important to efficiently identify data races in code and understand their consequences to prioritize their resolution. 
 
-In our ASPLOS'12 paper, we presented Portend+, a tool that not only detects races but also automatically classifies them based on their potential consequences: Could they lead to crashes or hangs? Could their effects be visible outside the program? Do they appear to be harmless? 
+In our [ASPLOS'12 paper](http://dslab.epfl.ch/pubs/portend.pdf), we presented Portend, a tool that not only detects races but also automatically classifies them based on their potential consequences: Could they lead to crashes or hangs? Could their effects be visible outside the program? Do they appear to be harmless? 
 
-Because data races and their effects are closely related to the underlying language's or hardware's memory model, we explored the effects of 
+Because data races and their effects are closely related to the underlying language's or hardware's memory model, we explored the consequences of data races under weak memory models in our [TOPLAS'15 paper](http://dslab.epfl.ch/pubs/portend+.pdf)
 
 Portend achieves high accuracy (99%) by efficiently analyzing multiple paths and multiple thread schedules in combination, and by performing symbolic comparison between program outputs. 
 

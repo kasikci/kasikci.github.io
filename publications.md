@@ -6,7 +6,7 @@ title: Publications
 ### Conference Papers
 <hr>
 
-<a href="http://dslab.epfl.ch/pubs/gist.pdf" title="gist"><img src="http://www.bariskasikci.net/gist.png" width="313" height="149" ALIGN="left" alt="gist"></a> 
+<a href="http://dslab.epfl.ch/pubs/gist.pdf" title="gist"><img src="{{ site.baseurl }}public/gist.png" width="313" height="149" ALIGN="left" alt="gist"></a> 
 
 <p class="publication">
 Failure Sketching: A Technique for Automated Root Cause Diagnosis of In-Production Failures. <b>Baris Kasikci</b>, Benjamin Scubert, Cristiano Pereira, Gilles Pokam, George Candea. Symposium on Operating Systems Principles (SOSP), Monterey, CA, Oct 2015
@@ -15,7 +15,7 @@ Failure Sketching: A Technique for Automated Root Cause Diagnosis of In-Producti
 </p>
 
 <p>
-<a href="http://dslab.epfl.ch/pubs/bfs.pdf" title="lcc by kasikci, on Flickr"><img src="http://www.bariskasikci.net/lcc.jpg" width="313" height="149" ALIGN="left" alt="BfS"></a>
+<a href="http://dslab.epfl.ch/pubs/bfs.pdf" title="lcc by kasikci, on Flickr"><img src="{{ site.baseurl }}public/lcc.png" width="313" height="149" ALIGN="left" alt="BfS"></a>
 </p>
 
 <p class="publication">
@@ -25,7 +25,7 @@ Efficient Tracing of Cold Code Via Bias-Free Sampling. <b>Baris Kasikci</b>, Tho
 </p>
 
 <p>
-<a href="http://dslab.epfl.ch/pubs/RaceMob.pdf" title="res by kasikci, on Flickr"><img src="http://farm6.staticflickr.com/5345/9192040357_18b3e16ba3_b.jpg" width="313" height="149" ALIGN="left" alt="racemob"></a> 
+<a href="http://dslab.epfl.ch/pubs/RaceMob.pdf" title="res by kasikci, on Flickr"><img src="{{ site.baseurl }}public/racemob.jpg" width="313" height="149" ALIGN="left" alt="racemob"></a> 
 </p>
 
 <p class="publication">
@@ -35,7 +35,7 @@ RaceMob: Crowdsourced Data Race Detection. <b>Baris Kasikci</b>, Cristian Zamfir
 </p>
 
 <p>
-<a href="http://dslab.epfl.ch/pubs/portend.pdf" title="portend"><img src="http://bariskasikci.net/portend.png" width="313" height="149" ALIGN="left" alt="portend-logo"></a> 
+<a href="http://dslab.epfl.ch/pubs/portend.pdf" title="portend"><img src="{{ site.baseurl }}public/portend.png" width="313" height="149" ALIGN="left" alt="portend-logo"></a> 
 </p>
 
 <p class="publication">

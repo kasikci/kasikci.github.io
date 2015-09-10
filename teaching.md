@@ -3,7 +3,7 @@ layout: page
 title: Teaching
 ---
 
-## Teaching Assistantship
+### Teaching Assistantship
 
 During my PhD, I TAed for the following courses:
 
