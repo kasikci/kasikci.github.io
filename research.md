@@ -37,9 +37,9 @@ Data races are one of the main causes of concurrency problems in multithreaded p
 
 In our [ASPLOS'12 paper](http://dslab.epfl.ch/pubs/portend.pdf), we presented Portend, a tool that not only detects races but also automatically classifies them based on their potential consequences: Could they lead to crashes or hangs? Could their effects be visible outside the program? Do they appear to be harmless? 
 
-Because data races and their effects are closely related to the underlying language's or hardware's memory model, we explored the consequences of data races under weak memory models in our [TOPLAS'15 paper](http://dslab.epfl.ch/pubs/portend+.pdf)
+Because data races and their effects are closely related to the underlying languages' or hardware's memory model, we explored the consequences of data races under weak memory models in our [TOPLAS'15 paper](http://dslab.epfl.ch/pubs/portend+.pdf). In this work, we showed that modeling the effect of the memory model, leads to a more accurate classification of data races.
 
-Portend achieves high accuracy (99%) by efficiently analyzing multiple paths and multiple thread schedules in combination, and by performing symbolic comparison between program outputs. 
+Overall, Portend achieves high accuracy (99%) by efficiently analyzing multiple paths and multiple thread schedules in combination, taking into account the effects of the underlying memory model, and by performing symbolic comparison between program outputs. 
 
 ### BfS: Efficient Tracing of Cold Code via Bias-Free Sampling
 

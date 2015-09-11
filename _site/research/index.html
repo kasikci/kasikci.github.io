@@ -132,9 +132,9 @@ My research focuses on making software systems more reliable and secure. Below a
 
 <p>In our <a href="http://dslab.epfl.ch/pubs/portend.pdf">ASPLOS&#39;12 paper</a>, we presented Portend, a tool that not only detects races but also automatically classifies them based on their potential consequences: Could they lead to crashes or hangs? Could their effects be visible outside the program? Do they appear to be harmless? </p>
 
-<p>Because data races and their effects are closely related to the underlying language&#39;s or hardware&#39;s memory model, we explored the consequences of data races under weak memory models in our <a href="http://dslab.epfl.ch/pubs/portend+.pdf">TOPLAS&#39;15 paper</a></p>
+<p>Because data races and their effects are closely related to the underlying languages&#39; or hardware&#39;s memory model, we explored the consequences of data races under weak memory models in our <a href="http://dslab.epfl.ch/pubs/portend+.pdf">TOPLAS&#39;15 paper</a>. In this work, we showed that modeling the effect of the memory model, leads to a more accurate classification of data races.</p>
 
-<p>Portend achieves high accuracy (99%) by efficiently analyzing multiple paths and multiple thread schedules in combination, and by performing symbolic comparison between program outputs. </p>
+<p>Overall, Portend achieves high accuracy (99%) by efficiently analyzing multiple paths and multiple thread schedules in combination, taking into account the effects of the underlying memory model, and by performing symbolic comparison between program outputs. </p>
 
 <h3>BfS: Efficient Tracing of Cold Code via Bias-Free Sampling</h3>
 
