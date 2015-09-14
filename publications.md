@@ -9,7 +9,7 @@ title: Publications
 <a href="http://dslab.epfl.ch/pubs/gist.pdf" title="gist"><img src="{{ site.baseurl }}public/gist.png" width="313" height="149" ALIGN="left" alt="gist"></a> 
 
 <p class="publication">
-Failure Sketching: A Technique for Automated Root Cause Diagnosis of In-Production Failures. <b>Baris Kasikci</b>, Benjamin Scubert, Cristiano Pereira, Gilles Pokam, George Candea. Symposium on Operating Systems Principles (SOSP), Monterey, CA, Oct 2015
+Failure Sketching: A Technique for Automated Root Cause Diagnosis of In-Production Failures. <b>Baris Kasikci</b>, Benjamin Schubert, Cristiano Pereira, Gilles Pokam, George Candea. Symposium on Operating Systems Principles (SOSP), Monterey, CA, Oct 2015
 <br>
 <br>
 </p>
