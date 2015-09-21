@@ -41,7 +41,7 @@ Because data races and their effects are closely related to the underlying langu
 
 Overall, Portend achieves high accuracy (99%) by efficiently analyzing multiple paths and multiple thread schedules in combination, taking into account the effects of the underlying memory model, and by performing symbolic comparison between program outputs. 
 
-### BfS: Efficient Tracing of Cold Code via Bias-Free Sampling
+#### BfS: Efficient Tracing of Cold Code via Bias-Free Sampling
 
 Bugs often lurk in code that is infrequently executed (i.e., cold code), so testing and debugging requires tracing such code. Alas, the location of cold code is generally not known a priori and, by definition, cold code is elusive during execution. Thus, programs either incur unnecessary runtime overhead to “catch” cold code, or they must employ sampling, in which case many executions are required to sample the cold code even once.
 
