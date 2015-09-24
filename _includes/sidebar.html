@@ -9,37 +9,25 @@
      <h1>
       {{ site.title }}
 </h1>
+      {{ site.description }} | <a href="{{ site.baseurl }}public/cv.pdf">CV</a> 
 
-      <p class="lead">{{ site.description }}</p>
+<hr>
 
 
-      baris.kasikci@epfl.ch | <a target="_blank" href="{{ site.baseurl }}AC17B59F.asc">GPG</a>
+      baris.kasikci@epfl.ch | <a target="_blank" href="https://pgp.mit.edu/pks/lookup?search=0xAC17B59F&op=index">GPG</a>
 
 <hr>
 
     </div>
 
     <nav class="sidebar-nav">
-      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
+            <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
 
-      {% comment %}
-        The code below dynamically generates a sidebar nav of pages with
-        `layout: page` in the front-matter. See readme for usage.
-      {% endcomment %}
+            <a class="sidebar-nav-item{% if page.url == site.pages[5].url %} active{% endif %}" href="{{ site.pages[5].url }}">{{ site.pages[5].title }}</a>
+            <a class="sidebar-nav-item{% if page.url == site.pages[4].url %} active{% endif %}" href="{{ site.pages[4].url }}">{{ site.pages[4].title }}</a>
+            <a class="sidebar-nav-item{% if page.url == site.pages[6].url %} active{% endif %}" href="{{ site.pages[6].url }}">{{ site.pages[6].title }}</a>
+            <a class="sidebar-nav-item{% if page.url == site.pages[2].url %} active{% endif %}" href="{{ site.pages[2].url }}">{{ site.pages[2].title }}</a>
 
-            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.pages[5].url }}">{{ site.pages[5].title }}</a>
-            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.pages[4].url }}">{{ site.pages[4].title }}</a>
-            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.pages[6].url }}">{{ site.pages[6].title }}</a>
-            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.pages[2].url }}">{{ site.pages[2].title }}</a>
-
-<!--       {% assign pages_list = site.pages %} -->
-<!--       {% for node in pages_list %} -->
-<!--         {% if node.title != null %} -->
-<!--           {% if node.layout == "page" %} -->
-<!--             <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a> -->
-<!--           {% endif %} -->
-<!--         {% endif %} -->
-<!--       {% endfor %} -->
 
     </nav>
   </div>
