@@ -4,7 +4,7 @@
  <title>Baris Kasikci</title>
  <link href="/atom.xml" rel="self"/>
  <link href="/"/>
- <updated>2015-09-24T00:16:50-07:00</updated>
+ <updated>2015-09-24T16:10:13-07:00</updated>
  <id></id>
  <author>
    <name>Baris Kasikci</name>
@@ -33,7 +33,7 @@
    <content type="html">&lt;ul&gt;
 &lt;li&gt;Our &lt;a href=&quot;http://dslab.epfl.ch/pubs/gist.pdf&quot;&gt;paper&lt;/a&gt; on automated root cause diagnosis is accepted to &lt;a href=&quot;http://www.ssrc.ucsc.edu/sosp15/&quot;&gt;SOSP&amp;#39;15&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;Our &lt;a href=&quot;http://dslab.epfl.ch/pubs/failure-sketches.pdf&quot;&gt;paper&lt;/a&gt; on failure sketches is accepted to &lt;a href=&quot;https://www.usenix.org/conference/hotos15&quot;&gt;HotOS&amp;#39;15&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;I am serving as a reviewer for Transactions on Software Engineering &lt;a href=&quot;http://www.computer.org/web/tse&quot;&gt;(TOSEM&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;I am serving as a reviewer for Transactions on Software Engineering &lt;a href=&quot;http://www.computer.org/web/tse&quot;&gt;(TSE&lt;/a&gt;).&lt;/li&gt;
 &lt;li&gt;I am spending the summer 2015  at Intel working together with &lt;a href=&quot;http://cseweb.ucsd.edu/%7Ecpereira/&quot;&gt;Cristiano Pereira&lt;/a&gt; and &lt;a href=&quot;https://sites.google.com/site/gillespokam/home&quot;&gt;Gilles Pokam&lt;/a&gt; on new techniques for automated debugging and security applications of hardware tracing.&lt;/li&gt;
 &lt;/ul&gt;
 </content>
