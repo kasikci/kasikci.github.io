@@ -10,12 +10,15 @@ baris.kasikci@epfl.ch
 
 <hr>
 
-EPFL IC IIF DSLAB INN 321 
+EPFL IC DSLAB
 <br>
-Station 14 CH-1015 
+Room INN 321
 <br>
-Lausanne, Switzerland
-
+Station 14
+<br>
+Lausanne 1015
+<br>
+Switzerland
 
 <hr>
 

@@ -10,11 +10,11 @@ title: Publications
 <b> Baris Kasikci </b>, Benjamin Schubert, Cristiano Pereira, Gilles Pokam, George Candea. <br>
 *Symposium on Operating Systems Principles ([**SOSP**](http://www.ssrc.ucsc.edu/sosp15/))*, Monterey, CA, Oct 2015
 
-2. [Efficient Tracing of Cold Code Via Bias-Free Sampling](http://dslab.epfl.ch/pubs/bfs.pdf) [<a href="https://2459d6dc103cb5933875-c0245c5c937c5dedcca3f1764ecc9b2f.ssl.cf2.rackcdn.com/atc14/kasikci.mp4">talk</a> | <a href="https://www.usenix.org/sites/default/files/conference/protected-files/atc14_slides_kasikci.pdf">slides</a>] <br> 
+2. [Efficient Tracing of Cold Code Via Bias-Free Sampling](http://dslab.epfl.ch/pubs/bfs.pdf) [<a href="https://2459d6dc103cb5933875-c0245c5c937c5dedcca3f1764ecc9b2f.ssl.cf2.rackcdn.com/atc14/kasikci.mp4">talk video</a> | <a href="https://www.usenix.org/sites/default/files/conference/protected-files/atc14_slides_kasikci.pdf">slides</a>] <br> 
 <b>Baris Kasikci</b>, Thomas Ball, George Candea, John Erickson, Madanlal Musuvathi <br>
 *USENIX Annual Technical Conference ([**Usenix ATC**](https://www.usenix.org/conference/atc14))*, Philadelphia, PA, June 2014
 
-3. [RaceMob: Crowdsourced Data Race Detection](http://dslab.epfl.ch/pubs/RaceMob.pdf) [<a href="https://www.youtube.com/watch?v=yPpgtTdDzIk">talk</a> | <a href= "http://sigops.org/sosp/sosp13/talks/kasikci_racemob_se08_03.pdf">slides</a>] <br>
+3. [RaceMob: Crowdsourced Data Race Detection](http://dslab.epfl.ch/pubs/RaceMob.pdf) [<a href="https://www.youtube.com/watch?v=yPpgtTdDzIk">talk video</a> | <a href= "http://sigops.org/sosp/sosp13/talks/kasikci_racemob_se08_03.pdf">slides</a>] <br>
 <b>Baris Kasikci</b>, Cristian Zamfir, and George Candea <br>
 *Symposium on Operating Systems Principles ([**SOSP**](http://sigops.org/sosp/sosp13/)), Nemacolin Woodlands Resort*, PA, November 2013
 
