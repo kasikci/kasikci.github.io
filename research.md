@@ -19,7 +19,7 @@ We initially proposed the idea of failure sketches in our [ HotOS'15 paper](http
 
 Our [SOSP'15 paper](http://dslab.epfl.ch/pubs/gist.pdf) presents the detailed design and formalization of our failure sketching technique. We report on our prototype implementation called Gist that uses real hardware ([Intel Processor Trace](https://software.intel.com/en-us/blogs/2013/09/18/processor-tracing)). We evaluated the prototype on real-world systems, and described the insights we gained from the design and implementation effort.
 
-More recently, together with [Cristiano Pereira](http://cseweb.ucsd.edu/~cpereira/) and [Gilles Pokam](https://sites.google.com/site/gillespokam/home) from Intel, I am looking into using failure sketches and hardware tracing for security auditing
+More recently, together with [Cristiano Pereira](http://cseweb.ucsd.edu/~cpereira/) and [Gilles Pokam](https://sites.google.com/site/gillespokam/home) from Intel, I am looking into using failure sketches and hardware tracing for security auditing.
 
 #### RaceMob: Detecting In-Production Data Races
 
