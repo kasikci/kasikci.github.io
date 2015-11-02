@@ -4,7 +4,7 @@
  <title>Baris Kasikci's Home Page</title>
  <link href="/atom.xml" rel="self"/>
  <link href="/"/>
- <updated>2015-10-29T22:37:20+01:00</updated>
+ <updated>2015-11-02T14:34:14+01:00</updated>
  <id></id>
  <author>
    <name>Baris Kasikci</name>
@@ -17,7 +17,7 @@
    <link href="/2015/08/07/bio/"/>
    <updated>2015-08-07T00:00:00+02:00</updated>
    <id>/2015/08/07/bio</id>
-   <content type="html">&lt;p&gt;I am a final year PhD candidate in the Dependable Systems Laboratory &lt;a href=&quot;http://dslab.epfl.ch/&quot;&gt;(DSLAB)&lt;/a&gt; at EPFL, advised by &lt;a href=&quot;http://people.epfl.ch/george.candea&quot;&gt;George Candea&lt;/a&gt;. My research is centered around building techniques, tools and environments that will ultimately help us build more reliable and secure software. I am interested in finding solutions that will allow programmers to debug their code in an easier way. I strive to find efficient ways to detect, classify and perform root cause diagnosis of bugs. I am also interested in efficient runtime instrumentation and program analysis under various memory models.&lt;/p&gt;
+   <content type="html">&lt;p&gt;I am a final year PhD candidate in the Dependable Systems Laboratory &lt;a href=&quot;http://dslab.epfl.ch/&quot;&gt;(DSLAB)&lt;/a&gt; at EPFL, advised by &lt;a href=&quot;http://people.epfl.ch/george.candea&quot;&gt;George Candea&lt;/a&gt;. My research is centered around developing techniques, tools and environments that help build more reliable and secure software. I am interested in finding solutions that allow programmers to better reason about their code, and that efficiently detect bugs, classify them, and diagnose their root cause. I especially focus on bugs that manifest in production, because they are hard and time consuming. I am also interested in efficient runtime instrumentation, hardware and runtime support for enhancing system security, and program analysis under various memory models.&lt;/p&gt;
 
 &lt;p&gt;I am one of the four recipients of the &lt;a href=&quot;https://labs.vmware.com/academic/vmware-2014-2015-graduate-fellowships&quot; target=&quot;_top&quot;&gt;VMware 2014-2015 Graduate Fellowship&lt;/a&gt;.&lt;/p&gt;
 
