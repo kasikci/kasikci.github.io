@@ -4,7 +4,7 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
+# relative_permalinks: true
 
 # Setup
 title:            Baris Kasikci's Home Page
@@ -17,7 +17,10 @@ author:
   name:           Baris Kasikci
   url:            bariskasikci.net
 
-paginate:	  5
+gems: [jekyll-paginate]
+paginate: 5
+paginate_path: "page:num"
+#paginate:	  5
 
 # Custom vars
 version:          
