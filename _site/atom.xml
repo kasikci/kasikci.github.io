@@ -4,7 +4,7 @@
  <title>Baris Kasikci's Home Page</title>
  <link href="/atom.xml" rel="self"/>
  <link href="/"/>
- <updated>2015-12-04T03:25:11+01:00</updated>
+ <updated>2015-12-28T22:56:08+02:00</updated>
  <id></id>
  <author>
    <name>Baris Kasikci</name>
@@ -15,9 +15,9 @@
  <entry>
    <title>Bio</title>
    <link href="/2015/08/07/bio/"/>
-   <updated>2015-08-07T00:00:00+02:00</updated>
+   <updated>2015-08-07T00:00:00+03:00</updated>
    <id>/2015/08/07/bio</id>
-   <content type="html">&lt;p&gt;I am a final year PhD candidate in the Dependable Systems Laboratory &lt;a href=&quot;http://dslab.epfl.ch/&quot;&gt;(DSLAB)&lt;/a&gt; at EPFL, advised by &lt;a href=&quot;http://people.epfl.ch/george.candea&quot;&gt;George Candea&lt;/a&gt;. My research is centered around developing techniques, tools and environments that help build more reliable and secure software. I am interested in finding solutions that allow programmers to better reason about their code, and that efficiently detect bugs, classify them, and diagnose their root cause. I especially focus on bugs that manifest in production, because they are hard and time consuming. I am also interested in efficient runtime instrumentation, hardware and runtime support for enhancing system security, and program analysis under various memory models.&lt;/p&gt;
+   <content type="html">&lt;p&gt;I am a final year PhD candidate in the Dependable Systems Laboratory &lt;a href=&quot;http://dslab.epfl.ch/&quot;&gt;(DSLAB)&lt;/a&gt; at EPFL, advised by &lt;a href=&quot;http://people.epfl.ch/george.candea&quot;&gt;George Candea&lt;/a&gt;. My research is centered around developing techniques, tools and environments that help developers build more reliable and secure software. I am interested in finding solutions that allow programmers to better reason about their code, and that efficiently detect bugs, classify them, and diagnose their root cause. I especially focus on bugs that manifest in production, because they are hard and time consuming. I am also interested in efficient runtime instrumentation, hardware and runtime support for enhancing system security, and program analysis under various memory models.&lt;/p&gt;
 
 &lt;p&gt;I am one of the four recipients of the &lt;a href=&quot;https://labs.vmware.com/academic/vmware-2014-2015-graduate-fellowships&quot; target=&quot;_top&quot;&gt;VMware 2014-2015 Graduate Fellowship&lt;/a&gt;.&lt;/p&gt;
 
@@ -28,7 +28,7 @@
  <entry>
    <title>News</title>
    <link href="/2015/08/06/news/"/>
-   <updated>2015-08-06T00:00:00+02:00</updated>
+   <updated>2015-08-06T00:00:00+03:00</updated>
    <id>/2015/08/06/news</id>
    <content type="html">&lt;ul&gt;
 &lt;li&gt;Our &lt;a href=&quot;http://dslab.epfl.ch/pubs/gist.pdf&quot;&gt;paper&lt;/a&gt; on automated root cause diagnosis will be presented at &lt;a href=&quot;http://www.ssrc.ucsc.edu/sosp15/&quot;&gt;SOSP&amp;#39;15&lt;/a&gt; (Oct. 2015)&lt;/li&gt;
