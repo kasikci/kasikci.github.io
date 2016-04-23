@@ -4,7 +4,7 @@
  <title>Baris Kasikci's Home Page</title>
  <link href="/atom.xml" rel="self"/>
  <link href="/"/>
- <updated>2016-04-18T23:24:23+01:00</updated>
+ <updated>2016-04-24T00:54:49+02:00</updated>
  <id></id>
  <author>
    <name>Baris Kasikci</name>
@@ -15,7 +15,7 @@
  <entry>
    <title>Bio</title>
    <link href="/2015/08/07/bio/"/>
-   <updated>2015-08-07T00:00:00+01:00</updated>
+   <updated>2015-08-07T00:00:00+02:00</updated>
    <id>/2015/08/07/bio</id>
    <content type="html">&lt;p&gt;I completed my Ph.D. in the Dependable Systems Laboratory &lt;a href=&quot;http://dslab.epfl.ch/&quot;&gt;(DSLAB)&lt;/a&gt; at EPFL, advised by &lt;a href=&quot;http://people.epfl.ch/george.candea&quot;&gt;George Candea&lt;/a&gt;. My research is centered around developing techniques, tools, and environments that help developers build more reliable and secure software. I am interested in finding solutions that allow programmers to better reason about their code, and that efficiently detect bugs, classify them, and diagnose their root cause. I especially focus on bugs that manifest in production, because they are hard and time-consuming. I am also interested in efficient runtime instrumentation, hardware and runtime support for enhancing system security, and program analysis under various memory models.&lt;/p&gt;
 
@@ -28,10 +28,10 @@
  <entry>
    <title>News</title>
    <link href="/2015/08/06/news/"/>
-   <updated>2015-08-06T00:00:00+01:00</updated>
+   <updated>2015-08-06T00:00:00+02:00</updated>
    <id>/2015/08/06/news</id>
    <content type="html">&lt;p class=&quot;message&quot;&gt;
-I received the &lt;a href=&quot;http://www.eurosys.org/awards/needham-award&quot;&gt;Roger Needham PhD Award&lt;/a&gt; for the best PhD thesis in computer systems in Europe (May 2016).
+I received the &lt;a href=&quot;http://www.eurosys.org/awards/needham-award&quot;&gt;Roger Needham PhD Award&lt;/a&gt; for the best PhD thesis in computer systems in Europe (April 2016).
 &lt;/p&gt;
 
 &lt;ul&gt;
