@@ -4,7 +4,7 @@
  <title>Baris Kasikci's Home Page</title>
  <link href="/atom.xml" rel="self"/>
  <link href="/"/>
- <updated>2016-07-07T14:18:26+02:00</updated>
+ <updated>2016-07-07T14:34:44+02:00</updated>
  <id></id>
  <author>
    <name>Baris Kasikci</name>
@@ -19,7 +19,7 @@
    <id>/2015/08/07/bio</id>
    <content type="html">&lt;p&gt;I completed my Ph.D. in the Dependable Systems Laboratory &lt;a href=&quot;http://dslab.epfl.ch/&quot;&gt;(DSLAB)&lt;/a&gt; at EPFL, advised by &lt;a href=&quot;http://people.epfl.ch/george.candea&quot;&gt;George Candea&lt;/a&gt;. My research is centered around developing techniques, tools, and environments that help developers build more reliable and secure software. I am interested in finding solutions that allow programmers to better reason about their code, and that efficiently detect bugs, classify them, and diagnose their root cause. I especially focus on bugs that manifest in production, because they are hard and time-consuming. I am also interested in efficient runtime instrumentation, hardware and runtime support for enhancing system security, and program analysis under various memory models.&lt;/p&gt;
 
-&lt;p&gt;I am one of the four recipients of the &lt;a href=&quot;https://labs.vmware.com/academic/vmware-2014-2015-graduate-fellowships&quot; target=&quot;_top&quot;&gt;VMware 2014-2015 Graduate Fellowship&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I am the recepient of the 2016 &lt;a href=&quot;http://www.eurosys.org/awards/needham-award&quot;&gt;Roger Needham PhD Award&lt;/a&gt; for the best PhD thesis in computer systems in Europe. I am one of the four recipients of the &lt;a href=&quot;https://labs.vmware.com/academic/vmware-2014-2015-graduate-fellowships&quot; target=&quot;_top&quot;&gt;VMware 2014-2015 Graduate Fellowship&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;During my Ph.D., I interned at Microsoft Research, VMware, and Intel. Before starting my Ph.D., I worked as a software engineer for four years, mainly developing real-time embedded systems software. Before joining EPFL, I was working for &lt;a href=&quot;http://www.siemens.com/corporate-technology/en/index.php&quot;&gt;Siemens Corporate Technology&lt;/a&gt;. More details can be found in my &lt;a href=&quot;/public/cv.pdf&quot;&gt;CV&lt;/a&gt;.&lt;/p&gt;
 </content>
@@ -31,7 +31,7 @@
    <updated>2015-08-06T00:00:00+02:00</updated>
    <id>/2015/08/06/news</id>
    <content type="html">&lt;p class=&quot;message&quot;&gt;
-I will be starting as assistant professor of EECS at the University of Michigan in Fall 2017. Until then, I will be working as a researcher in the Systems and Networking group at Microsoft Research in Cambridge (Jul. 2016).
+I will be starting as an assistant professor of EECS at the University of Michigan in Fall 2017. Until then, I will be working as a researcher in the Systems and Networking group at Microsoft Research in Cambridge (Jul. 2016).
 &lt;/p&gt;
 
 &lt;ul&gt;
