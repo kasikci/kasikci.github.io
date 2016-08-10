@@ -6,7 +6,7 @@ title: Contact
 
 <hr>
 
-baris.kasikci@epfl.ch
+barisk@microsoft.com
 
 <hr>
 
