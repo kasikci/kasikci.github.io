@@ -3,7 +3,7 @@ layout: page
 title: Prospective students
 ---
 
-I do research in the general area of computer systems. I build systems that solve real-world problems. I am interested in a broad range of topics in computer systems such as reliability, security, performance analysis, and system support for emerging hardware architectures. I am interested in systems challenges on a single node as well as in a distributed setting. In my research, I employ a variety of techniques  from operating systems, programming languages, and software engineering.
+I do research in the general area of computer systems. I build systems that solve real-world problems. I work on a broad range of topics in computer systems such as reliability, security, performance analysis, and system support for emerging hardware architectures. I am interested in systems challenges on a single node as well as in a distributed setting. In my research, I employ a variety of techniques from operating systems, programming languages, and software engineering.
 
   I am always looking to incorporate insights from different areas of computer science such as machine learning, formal methods, and computer architecture. However, I do not do research in these areas, and as such, if your primary interest is in advancing the state of the art in those areas, working with someone else is a better option for you.
 
