@@ -4,7 +4,7 @@
  <title>Baris Kasikci's Home Page</title>
  <link href="/atom.xml" rel="self"/>
  <link href="/"/>
- <updated>2016-08-10T19:54:55+01:00</updated>
+ <updated>2016-09-18T22:35:42+01:00</updated>
  <id></id>
  <author>
    <name>Baris Kasikci</name>
@@ -13,10 +13,21 @@
 
  
  <entry>
+   <title></title>
+   <link href="/2015/08/10/"/>
+   <updated>2015-08-10T00:00:00+01:00</updated>
+   <id>/2015/08/</id>
+   <content type="html">&lt;p class=&quot;message&quot;&gt;
+I will be starting as an assistant professor of EECS at the University of Michigan in Fall 2017. &lt;b&gt;I am looking for creative and motivated students to work with. If you know how to hack, read &lt;a href=&quot;/work-with-me&quot;&gt;this&lt;/a&gt;&lt;/b&gt;. 
+&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Bio</title>
-   <link href="/2015/08/07/bio/"/>
-   <updated>2015-08-07T00:00:00+01:00</updated>
-   <id>/2015/08/07/bio</id>
+   <link href="/2015/08/09/bio/"/>
+   <updated>2015-08-09T00:00:00+01:00</updated>
+   <id>/2015/08/09/bio</id>
    <content type="html">&lt;p&gt;I am a researcher in the &lt;a href=&quot;https://www.microsoft.com/en-us/research/group/cambridge-systems-and-networking/&quot;&gt;Systems and Networking Group&lt;/a&gt; at Microsoft Research Cambridge. I completed my Ph.D. in the Dependable Systems Laboratory &lt;a href=&quot;http://dslab.epfl.ch/&quot;&gt;(DSLAB)&lt;/a&gt; at EPFL, advised by &lt;a href=&quot;http://people.epfl.ch/george.candea&quot;&gt;George Candea&lt;/a&gt;. My research is centered around developing techniques, tools, and environments that help developers build more reliable and secure software. I am interested in finding solutions that allow programmers to better reason about their code, and that efficiently detect bugs, classify them, and diagnose their root cause. I especially focus on bugs that manifest in production, because they are hard and time-consuming. I am also interested in efficient runtime instrumentation, hardware and runtime support for enhancing system security, and program analysis under various memory models.&lt;/p&gt;
 
 &lt;p&gt;I am the recepient of the 2016 &lt;a href=&quot;http://www.eurosys.org/awards/needham-award&quot;&gt;Roger Needham PhD Award&lt;/a&gt; for the best PhD thesis in computer systems in Europe. I am one of the four recipients of the &lt;a href=&quot;https://labs.vmware.com/academic/vmware-2014-2015-graduate-fellowships&quot; target=&quot;_top&quot;&gt;VMware 2014-2015 Graduate Fellowship&lt;/a&gt;.&lt;/p&gt;
@@ -27,13 +38,10 @@
  
  <entry>
    <title>News</title>
-   <link href="/2015/08/06/news/"/>
-   <updated>2015-08-06T00:00:00+01:00</updated>
-   <id>/2015/08/06/news</id>
-   <content type="html">&lt;p class=&quot;message&quot;&gt;
-I will be starting as an assistant professor of EECS at the University of Michigan in Fall 2017. Until then, I will be working as a researcher in the Systems and Networking group at Microsoft Research in Cambridge.
-&lt;/p&gt;
-&lt;ul&gt;
+   <link href="/2015/08/08/news/"/>
+   <updated>2015-08-08T00:00:00+01:00</updated>
+   <id>/2015/08/08/news</id>
+   <content type="html">&lt;ul&gt;
   &lt;li&gt;I received the &lt;a href=&quot;http://www.eurosys.org/awards/needham-award&quot;&gt;Roger Needham PhD Award&lt;/a&gt; for the best PhD thesis in computer systems in Europe (Apr. 2016)&lt;/li&gt;
   &lt;li&gt;Our &lt;a href=&quot;http://dslab.epfl.ch/pubs/gist.pdf&quot;&gt;paper&lt;/a&gt; on automated root cause diagnosis will be presented at &lt;a href=&quot;http://www.ssrc.ucsc.edu/sosp15/&quot;&gt;SOSP’15&lt;/a&gt; (Oct. 2015)&lt;/li&gt;
   &lt;li&gt;I will serve as a reviewer for ACM Transactions on Software Engineering and Methodology &lt;a href=&quot;http://tosem.acm.org/&quot;&gt;TOSEM&lt;/a&gt;. (Aug. 2015)&lt;/li&gt;

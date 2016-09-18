@@ -58,7 +58,8 @@
 <hr>
 
 
-      barisk@microsoft.com | <a target="_blank" href="https://pgp.mit.edu/pks/lookup?search=0xAC17B59F&op=index">GPG</a>
+barisk@microsoft.com
+barisk@umich.edu | <a target="_blank" href="https://pgp.mit.edu/pks/lookup?search=0xAC17B59F&op=index">GPG</a>
 
 <hr>
 
@@ -111,13 +112,13 @@ My research focuses on making software systems more reliable and secure. Below a
 
 <h4 id="portend-classifying-data-races-according-to-their-consequences">Portend: Classifying Data Races According to Their Consequences</h4>
 
-<p>Data races are one of the main causes of concurrency problems in multithreaded programs. Whether all data races are bad, or some are harmful and others are harmless, is still the subject of vigorous scientific debate. What is clear, however, is that today’s code has many data races, and fixing data races without introducing bugs is time consuming. Therefore, it is important to efficiently identify data races in code and understand their consequences to prioritize their resolution. </p>
+<p>Data races are one of the main causes of concurrency problems in multithreaded programs. Whether all data races are bad, or some are harmful and others are harmless, is still the subject of vigorous scientific debate. What is clear, however, is that today’s code has many data races, and fixing data races without introducing bugs is time consuming. Therefore, it is important to efficiently identify data races in code and understand their consequences to prioritize their resolution.</p>
 
-<p>In our <a href="http://dslab.epfl.ch/pubs/portend.pdf">ASPLOS’12 paper</a>, we presented Portend, a tool that not only detects races but also automatically classifies them based on their potential consequences: Could they lead to crashes or hangs? Could their effects be visible outside the program? Do they appear to be harmless? </p>
+<p>In our <a href="http://dslab.epfl.ch/pubs/portend.pdf">ASPLOS’12 paper</a>, we presented Portend, a tool that not only detects races but also automatically classifies them based on their potential consequences: Could they lead to crashes or hangs? Could their effects be visible outside the program? Do they appear to be harmless?</p>
 
 <p>Because data races and their effects are closely related to the underlying languages’ or hardware’s memory model, we explored the consequences of data races under weak memory models in our <a href="http://dslab.epfl.ch/pubs/portend+.pdf">TOPLAS’15 paper</a>. In this work, we showed that modeling the effect of the memory model, leads to a more accurate classification of data races.</p>
 
-<p>Overall, Portend achieves high accuracy (99%) by efficiently analyzing multiple paths and multiple thread schedules in combination, taking into account the effects of the underlying memory model, and by performing symbolic comparison between program outputs. </p>
+<p>Overall, Portend achieves high accuracy (99%) by efficiently analyzing multiple paths and multiple thread schedules in combination, taking into account the effects of the underlying memory model, and by performing symbolic comparison between program outputs.</p>
 
 <h4 id="bfs-efficient-tracing-of-cold-code-via-bias-free-sampling">BfS: Efficient Tracing of Cold Code via Bias-Free Sampling</h4>
 

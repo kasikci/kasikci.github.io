@@ -7,22 +7,22 @@ title: Contact
 <hr>
 
 barisk@microsoft.com
+<br>
+barisk@umich.edu
+    
+<hr>
+
+Microsoft Research
+<br>
+21 Station Road
+<br>
+Cambridge, CB1 2FB
+<br>
+United Kingdom
 
 <hr>
 
-EPFL IC DSLAB
-<br>
-Room INN 321
-<br>
-Station 14
-<br>
-Lausanne 1015
-<br>
-Switzerland
-
-<hr>
-
-+41 21 693 75 09
++44 (1223) 479756
 
 <hr>
 
