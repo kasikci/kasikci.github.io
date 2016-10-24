@@ -5,6 +5,11 @@ title: Teaching
 
 # EECS 582: Advanced Operating Systems (F'17)
 
+<p class="message">
+<b>Students asking about the course capacity:</b> Please enroll in the waiting list and show up to the first day of class where we'll discuss the course content in detail. This will help you understand if the EECS 582 is suited for you. Note that the primary audience for this course is graduate students interested in systems research.
+ </p>
+
+
 ## Course Description
 
 Building a large computer system requires understanding the complex interactions between multiple layers in the computing stack such as applications, runtimes, the operating system, and hardware. Building large systems is different than building algorithms: systems are more complex, and their requirements are less well-defined. Good system designers understand the right trade-offs between performance, utility, usability, and reliability. 
