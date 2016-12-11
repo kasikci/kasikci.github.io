@@ -1,0 +1,12 @@
+---
+layout: page
+title: News
+---
+
+### News
+<hr>
+
+* I will serve as a reviewer for ACM Transactions on Software Engineering and Methodology [TOSEM](http://tosem.acm.org/). (Aug. 2015)
+* I will serve as a reviewer for ACM Transactions on Software Engineering [TSE](http://www.computer.org/web/tse). (Jul. 2015)
+* Our [paper](http://dslab.epfl.ch/pubs/failure-sketches.pdf) on failure sketches will be presented at [HotOS'15](https://www.usenix.org/conference/hotos15). (May 2015)
+* I will be spending the summer at Intel working together with [Cristiano Pereira](http://cseweb.ucsd.edu/~cpereira/) and [Gilles Pokam](https://sites.google.com/site/gillespokam/home) on new techniques for automated debugging and security applications of hardware tracing. (Apr. 2015)
