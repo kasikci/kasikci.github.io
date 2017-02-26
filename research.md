@@ -6,7 +6,7 @@ title: Research
 <p class="message">
 To get a general idea about my research interests, see my recent <a href="{{ site.baseurl }}public/research-statement.pdf"><b>research statement</b></a>.<br>
 
-We have multiple project openings. If interested in the below projects, please read <a href="{{ site.baseurl }}work-with-me"><b>this</b></a>.
+If interested in the below active projects, please read <a href="{{ site.baseurl }}work-with-me"><b>this</b></a>.
   
 </p>
 
