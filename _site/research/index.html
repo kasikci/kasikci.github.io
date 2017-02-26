@@ -59,7 +59,7 @@
 
 
 barisk@microsoft.com
-barisk@umich.edu | <a target="_blank" href="https://pgp.mit.edu/pks/lookup?search=0xAC17B59F&op=index">GPG</a>
+barisk@umich.edu | <a target="_blank" href="https://pgp.mit.edu/pks/lookup?search=0xAC17B59F&op=index">PGP</a>
 
 <hr>
 
@@ -83,50 +83,60 @@ barisk@umich.edu | <a target="_blank" href="https://pgp.mit.edu/pks/lookup?searc
       <div class="page">
   <h1 class="page-title">Research</h1>
   <p class="message">
-My research focuses on making software systems more reliable and secure. Below are some of my main ongoing and past projects.
+To get a general idea about my research interests, see my recent <a href="/public/research-statement.pdf"><b>research statement</b></a>.<br />
+
+We have multiple project openings. If interested in the below projects, please read <a href="/work-with-me"><b>this</b></a>.
+  
 </p>
 
-<h4 id="gist-root-cause-diagnosis-of-in-production-failures">Gist: Root Cause Diagnosis of In-Production Failures</h4>
+<div class="row">
+      <div class="colleft">
+          <div class="panel">
+            <b> Hardware-software co-design for performance analysis: </b>
 
-<p>Developers spend a lot of time searching for the root causes of software failures. For this, they traditionally try to reproduce those failures, but unfortunately many failures are so hard to reproduce in a test environment that developers spend days or weeks as ad-hoc detectives. The shortcomings of many solutions proposed for this problem prevent their use in practice.</p>
+  As Moore’s Law nears an end, performance improvements are increasingly realized through parallelization of computation and increased heterogeneity of architectures. This increase in complexity makes it harder to tune the performance of applications. While modern hardware increasingly has support for understanding performance, such support is difficult to use. In this project, we will design intuitive means of specifying and automatically checking performance expectations from a system. If checks fail, we will identify the causes of performance issues. Ideal candidates for this project will be comfortable hacking inside and outside the kernel and have C/C++ as their mother tongue.
+  <br />
+          </div>
+      </div>
+      <div class="colright">
+          <div class="panel">
+            <b> Big data and machine learning for improving system reliability and performance: </b>
+  Computer systems produce many by-products (e.g., logs, core dumps, network messages, etc.) as a result of their execution. Developers use such by-products to identify and fix correctness bugs as well as performance problems whenever they encounter them. However, the vast majority of these by-products goes unused. In this project, we explore how this large body of lost information can be used to train intelligent systems capable of improving the  reliability and performance of computer systems. Ideal candidates for this project will have working knowledge of big data analytics systems and machine learning algorithms as well as excellent system building skills.
+          </div>
+      </div>
+      <div class="colleft">
+          <div class="panel">
+            <b> System support for efficient secure computing: </b>
+ Hardware advances such as Intel SGX guarantee confidentiality and  integrity of computations in the presence of potentially malicious privileged software. Intel SGX enables this by establishing a secure container which is hosted by trusted hardware, which is very useful from a security perspective. In its current state, Intel SGX has important performance limitations. In this project we will design programming languages techniques and systems support to enable Intel SGX to be more efficient. Ideal candidates for this project will be black belt kernel hackers, who are very comfortable with C/C++. Working knowledge of Intel SGX is a big plus.
 
-<p>As part of this work, we propose failure sketching, an automated debugging technique that provides developers with an explanation (“failure sketch”) of the root cause of a failure that occurred in production. A failure sketch only contains program statements that lead to the failure, and it clearly shows the differences between failing and successful runs; these differences guide developers to the root cause. Our approach combines static program analysis with a cooperative and adaptive form of dynamic program analysis that uses a brand new hardware feature.</p>
+            </div>
+  
+      </div>
+      <div class="colright">
+          <div class="panel">
+  <b> System support for emerging heterogeneous hardware:</b>
 
-<p>To help developers pinpoint root causes, we showed in our <a href="http://dslab.epfl.ch/pubs/res.pdf">HotOS’13 paper</a> that for some bugs, we can perform what we call reverse execution synthesis. RES is a technique that takes a coredump obtained after a failure and automatically computes the suffix of an execution that leads to that coredump.</p>
+Heterogeneous computing systems that mix traditional CPUs with GPUs, FPGAs, and ASICs are becoming increasingly relevant. These systems come with a new set of challenges for developers such as non-uniformity in system development and unpredictable performance and energy behavior. Tackling the challenges will require rethinking the system stack and abstractions. This project will take an interdisciplinary approach to attack these imminent challenges. Ideal candidates for this project should be kernel ninjas comfortable with driver development. FPGA and/or GPU programming experience is a big plus.
+  
+  </div>
+      </div>
+      <div class="colleft">
+          <div class="panel">
+<b> Hardware-assisted software analysis: </b>
 
-<p>We initially proposed the idea of failure sketches in our <a href="http://dslab.epfl.ch/pubs/failure-sketches.pdf"> HotOS’15 paper</a>, where we validated the feasibility of failure sketching using a hardware simulator.</p>
+Software analysis techniques such as symbolic execution and model checking rely on exploring the state space of a program for various purposes such as determining the inputs that cause certain program paths to execute, or to find bugs in code. These analyses employ various state space exploration strategies, which ultimately determine their effectiveness and resource usage. In this project we will explore whether existing and novel hardware support could improve state space exploration effectiveness and efficiency. Ideal candidates for this project will have a mixed programming languages and system development background and a strong mathematical inclination.   
+  
+  </div>
+      </div>
+      <div class="colright">
+          <div class="panel">
+<b> Testing and debugging event-driven systems: </b>
 
-<p>Our <a href="http://dslab.epfl.ch/pubs/gist.pdf">SOSP’15 paper</a> presents the detailed design and formalization of our failure sketching technique. We report on our prototype implementation called Gist that uses real hardware (<a href="https://software.intel.com/en-us/blogs/2013/09/18/processor-tracing">Intel Processor Trace</a>). We evaluated the prototype on real-world systems, and described the insights we gained from the design and implementation effort.</p>
-
-<p>More recently, together with <a href="http://cseweb.ucsd.edu/~cpereira/">Cristiano Pereira</a> and <a href="https://sites.google.com/site/gillespokam/home">Gilles Pokam</a> from Intel, I am looking into using failure sketches and hardware tracing for security auditing.</p>
-
-<h4 id="racemob-detecting-in-production-data-races">RaceMob: Detecting In-Production Data Races</h4>
-
-<p>Some of the worst concurrency problems in multithreaded systems today are due to data races—these bugs can have messy consequences, and they are hard to diagnose and fix. To avoid the introduction of such bugs, system developers need discipline and good data race detectors; today, even if they have the former, they lack the latter.</p>
-
-<p>RaceMob is a new data race detector that has both low overhead and good accuracy. RaceMob starts by detecting potential races statically (hence it has few false negatives), and then dynamically validates whether these are true races (hence has few false positives). It achieves low runtime overhead and a high degree of realism by combining real-user crowdsourcing with a new on-demand dynamic data race validation technique.</p>
-
-<p>We discussed our initial ideas of crowdsourcing data race detection in our <a href="http://dslab.epfl.ch/pubs/cord-camera-ready.pdf">HotDep’12 paper</a>. Our <a href="http://dslab.epfl.ch/pubs/RaceMob.pdf">SOSP’13 paper</a> presents the design and implementation of our crowdsourced data race detector RaceMob, as well as a comprehensive evaluation of RaceMob’s effectiveness, efficiency, and scalability.</p>
-
-<p>RaceMob users experience an average runtime overhead of about 2%, which is orders of magnitude less than the overhead of modern dynamic data race detectors. To the best of our knowledge, RaceMob is the first data race detector that can both be used always-on in production and provides good accuracy.</p>
-
-<h4 id="portend-classifying-data-races-according-to-their-consequences">Portend: Classifying Data Races According to Their Consequences</h4>
-
-<p>Data races are one of the main causes of concurrency problems in multithreaded programs. Whether all data races are bad, or some are harmful and others are harmless, is still the subject of vigorous scientific debate. What is clear, however, is that today’s code has many data races, and fixing data races without introducing bugs is time consuming. Therefore, it is important to efficiently identify data races in code and understand their consequences to prioritize their resolution.</p>
-
-<p>In our <a href="http://dslab.epfl.ch/pubs/portend.pdf">ASPLOS’12 paper</a>, we presented Portend, a tool that not only detects races but also automatically classifies them based on their potential consequences: Could they lead to crashes or hangs? Could their effects be visible outside the program? Do they appear to be harmless?</p>
-
-<p>Because data races and their effects are closely related to the underlying languages’ or hardware’s memory model, we explored the consequences of data races under weak memory models in our <a href="http://dslab.epfl.ch/pubs/portend+.pdf">TOPLAS’15 paper</a>. In this work, we showed that modeling the effect of the memory model, leads to a more accurate classification of data races.</p>
-
-<p>Overall, Portend achieves high accuracy (99%) by efficiently analyzing multiple paths and multiple thread schedules in combination, taking into account the effects of the underlying memory model, and by performing symbolic comparison between program outputs.</p>
-
-<h4 id="bfs-efficient-tracing-of-cold-code-via-bias-free-sampling">BfS: Efficient Tracing of Cold Code via Bias-Free Sampling</h4>
-
-<p>Bugs often lurk in code that is infrequently executed (i.e., cold code), so testing and debugging requires tracing such code. Alas, the location of cold code is generally not known a priori and, by definition, cold code is elusive during execution. Thus, programs either incur unnecessary runtime overhead to “catch” cold code, or they must employ sampling, in which case many executions are required to sample the cold code even once.</p>
-
-<p>Together with <a href="http://research.microsoft.com/en-us/people/madanm/">Madan Musuvathi</a> and <a href="http://research.microsoft.com/en-us/people/tball/">Tom Ball</a> of Microsoft Research, we introduced a technique called bias-free sampling (BfS) in our <a href="http://dslab.epfl.ch/pubs/bfs.pdf">Usenix ATC’14 paper</a>, in which the machine instructions of a dynamic execution are sampled independently of their execution frequency by using breakpoints. The BfS overhead is therefore independent of a program’s runtime behavior and is fully predictable: it is merely a function of program size. In our paper, we present the theory and implementation of BfS for both managed and unmanaged code, as well as both kernel and user mode. We later BfS’s breakpoint-based sampling strategy for Gist’s data flow monitoring.</p>
-
-<p>We designed BfS to operate directly on binaries. We ran BfS on a total of 679 programs (all Windows system binaries, Z3, SPECint suite, and on several C# benchmarks), and BfS incurred performance overheads of just 1–6%.</p>
+Event-driven systems communicate  heavily with each other, users, and various devices. These systems have become widespread due to the proliferation of mobile platforms, Web 2.0 applications, and Internet of Things (IoT) devices. Event-driven systems, especially web and mobile applications, are often built by developers with little programming experience, especially in reasoning about concurrency, which results in buggy code. In this project, develop techniques and tools for finding programming errors in event-driven systems. Ideal candidates should have excellent Java programming skills and strong mathematical skills. Familiarity with Android is a big plus.
+  
+  </div>
+      </div>
+  </div>
 
 </div>
 

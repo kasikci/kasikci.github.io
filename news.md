@@ -3,9 +3,7 @@ layout: page
 title: News
 ---
 
-### News
-<hr>
-
+* I will give a keynote speech at the [Workshop on Resilient Systems](https://cfaed.tu-dresden.de/research-program/resilience/workshop-on-resilient-systems/about) at the Center for Advancing Electronics at [TU Dresden](https://tu-dresden.de/?set_language=en) (Apr. 2017)
 * I received the [Patrick Denantes Memorial Prize](http://research-office.epfl.ch/financements/internal-non-profit/distinctions/denantes) for the best PhD thesis in the Department of Information and Communication Sciences at EPFL (Dec. 2016)
 * I received the [Roger Needham PhD Award](http://www.eurosys.org/awards/needham-award) for the best PhD thesis in computer systems in Europe (Apr. 2016)
 * I will serve as a reviewer for ACM Transactions on Software Engineering and Methodology [TOSEM](http://tosem.acm.org/). (Aug. 2015)
