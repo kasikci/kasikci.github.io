@@ -17,7 +17,7 @@ Please note that the name of this course is "Advanced Operating Systems" for his
 
 The formal prerequisite for this course is [EECS 482](https://web.eecs.umich.edu/~pmchen/eecs482/) (Introduction to Operating Systems) or equivalent from another university. Further background in computer networks, databases, and programming languages can be helpful. The students should be highly motivated to pursue systems research.
 
- If in doubt about the requirements, please check with the <a href="mailto:someone@example.com?Subject=Hello%20again" target="_top">instructor</a>.
+ If in doubt about the requirements, please check with the <a href="mailto:barisk@umich.edu?Subject=[EECS 582]%20Question" target="_top">instructor</a>.
 
 <!---## Format
 
