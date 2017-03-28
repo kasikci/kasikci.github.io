@@ -7,7 +7,7 @@ title: Teaching
 
 ## Course Description
 
-Building a large modern computer system entails understanding the complex interactions between multiple layers in the computing stack such as applications, runtimes, operating systems, and hardware. Building large systems is different than building algorithms: systems are more complex, and their requirements are less well-defined. Good system designers understand the right trade-offs between performance, utility, usability, and reliability. 
+Building a large computer system requires understanding the complex interactions between multiple layers in the computing stack such as applications, runtimes, the operating system, and hardware. Building large systems is different than building algorithms: systems are more complex, and their requirements are less well-defined. Good system designers understand the right trade-offs between performance, utility, usability, and reliability. 
 
 In this course, we will study successful modern and classical computer systems and distil principles for building such systems. We will focus on which design decisions the designers faced, and why they made the choices that led them to successful system designs. The study of these systems and principles will prepare students for future computer systems research. 
 
