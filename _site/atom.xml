@@ -4,11 +4,7 @@
  <title>Baris Kasikci's Home Page</title>
  <link href="/atom.xml" rel="self"/>
  <link href="/"/>
-<<<<<<< Updated upstream
- <updated>2017-03-28T13:06:32+01:00</updated>
-=======
- <updated>2017-07-05T20:36:09+01:00</updated>
->>>>>>> Stashed changes
+ <updated>2017-07-08T13:41:33+01:00</updated>
  <id></id>
  <author>
    <name>Baris Kasikci</name>
@@ -51,7 +47,8 @@ I will be starting as an assistant professor of EECS at the University of Michig
    <updated>2015-08-08T00:00:00+01:00</updated>
    <id>/2015/08/08/news</id>
    <content type="html">&lt;ul&gt;
-  &lt;li&gt;I received an outstanding reviewer award for serving at the PC of WWW’17&lt;/li&gt;
+  &lt;li&gt;I will serve as a reviewer in the Extended Review Committee of ASPLOS 2018 (Jul. 2017)&lt;/li&gt;
+  &lt;li&gt;I received an outstanding reviewer award for serving in the PC of WWW’17 (Jul. 2017)&lt;/li&gt;
   &lt;li&gt;I will give a keynote speech at the &lt;a href=&quot;https://cfaed.tu-dresden.de/research-program/resilience/workshop-on-resilient-systems/about&quot;&gt;Workshop on Resilient Systems&lt;/a&gt; at the Center for Advancing Electronics at &lt;a href=&quot;https://tu-dresden.de/?set_language=en&quot;&gt;TU Dresden&lt;/a&gt; (Apr. 2017)&lt;/li&gt;
   &lt;li&gt;I received the &lt;a href=&quot;http://research-office.epfl.ch/financements/internal-non-profit/distinctions/denantes&quot;&gt;Patrick Denantes Memorial Prize&lt;/a&gt; for the best PhD thesis in the Department of Information and Communication Sciences at EPFL (Dec. 2016)&lt;/li&gt;
   &lt;li&gt;I received the &lt;a href=&quot;http://www.eurosys.org/awards/needham-award&quot;&gt;Roger Needham PhD Award&lt;/a&gt; for the best PhD thesis in computer systems in Europe (Apr. 2016)&lt;/li&gt;
