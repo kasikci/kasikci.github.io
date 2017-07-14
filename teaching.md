@@ -6,7 +6,7 @@ title: Teaching
 # EECS 582: Advanced Operating Systems (F'17)
 
 <p class="message">
-<b>Students asking about the course capacity:</b> Please enroll in the waiting list and show up to the first day of class where we'll discuss the course content in detail. This will help you understand if the EECS 582 is suited for you. Note that the primary audience for this course is graduate students interested in systems research.
+<b>Students asking about the course capacity:</b> Please enroll in the waiting list and show up to the first day of class where we'll discuss the course content in detail. This will help you understand if EECS 582 is suited for you. Note that the primary audience for this course is graduate students interested in systems research.
  </p>
 
 
@@ -20,7 +20,7 @@ Please note that the name of this course is "Advanced Operating Systems" for his
   
 ## Prerequisites
 
-The formal prerequisite for this course is [EECS 482](https://web.eecs.umich.edu/~pmchen/eecs482/) (Introduction to Operating Systems) or equivalent from another university. Further background in computer networks, databases, and programming languages can be helpful. The students should be highly motivated to pursue systems research.
+The formal prerequisite for this course is [EECS 482](https://web.eecs.umich.edu/~pmchen/eecs482/) (Introduction to Operating Systems) or equivalent from another university. Further background in computer networks, databases, and programming languages will be helpful. The students should be highly motivated to pursue systems research.
 
  If in doubt about the requirements, please check with the <a href="mailto:barisk@umich.edu?Subject=[EECS 582]%20Question" target="_top">instructor</a>.
 
