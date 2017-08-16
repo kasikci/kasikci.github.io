@@ -12,11 +12,10 @@ tagline:
 description:      'I am interested in making computer systems more reliable and secure'
 url:              
 baseurl:          /
-#http://web.eecs.umich.edu/~barisk/
 
 author:
   name:           Baris Kasikci
-  url:            bariskasikci.net
+  url:            bariskasikci.org
 
 gems: [jekyll-paginate]
 paginate: 5
