@@ -8,22 +8,23 @@ permalink:        pretty
 
 # Setup
 title:            Baris Kasikci's Home Page
-tagline:
+tagline:          
 description:      'I am interested in making computer systems more reliable and secure'
-url:
+url:              
 baseurl:          /
+#http://web.eecs.umich.edu/~barisk/
 
 author:
-name:           Baris Kasikci
-url:            bariskasikci.net
+  name:           Baris Kasikci
+  url:            bariskasikci.net
 
 gems: [jekyll-paginate]
 paginate: 5
 paginate_path: "page:num"
-#paginate:       5
+#paginate:	  5
 
 # Custom vars
-version:
+version:          
 
 github:
-  repo:   
+  repo:           
