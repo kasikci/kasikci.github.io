@@ -1,5 +1,5 @@
 # Dependencies
-# markdown:       redcarpet
+# markdown:         redcarpet
 highlighter:      rouge
 
 # Permalinks
@@ -11,11 +11,11 @@ title:            Baris Kasikci's Home Page
 tagline:          
 description:      'I am interested in making computer systems more reliable and secure'
 url:              
-baseurl:	  
+baseurl:          http://web.eecs.umich.edu/~barisk/
 
 author:
   name:           Baris Kasikci
-  url:            bariskasikci.org
+  url:            bariskasikci.net
 
 gems: [jekyll-paginate]
 paginate: 5

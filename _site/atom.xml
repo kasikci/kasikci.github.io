@@ -4,7 +4,7 @@
  <title>Baris Kasikci's Home Page</title>
  <link href="/atom.xml" rel="self"/>
  <link href="/"/>
- <updated>2017-08-16T17:15:53+01:00</updated>
+ <updated>2017-08-02T14:44:56-04:00</updated>
  <id></id>
  <author>
    <name>Baris Kasikci</name>
@@ -15,14 +15,14 @@
  <entry>
    <title></title>
    <link href="/2015/08/10/"/>
-   <updated>2015-08-10T00:00:00+01:00</updated>
+   <updated>2015-08-10T00:00:00-04:00</updated>
    <id>/2015/08/</id>
    <content type="html">&lt;p class=&quot;message&quot;&gt;
-I will be starting as an assistant professor of EECS at the University of Michigan in Fall 2017. &lt;b&gt;I am looking for creative and motivated students to work with. If you know how to hack, check out my &lt;a href=&quot;research&quot;&gt;research interests&lt;/a&gt;. &lt;/b&gt;&lt;/p&gt;
+I will be starting as an assistant professor of EECS at the University of Michigan in Fall 2017. &lt;b&gt;I am looking for creative and motivated students to work with. If you know how to hack, check out my &lt;a href=&quot;http://web.eecs.umich.edu/~barisk/research&quot;&gt;research interests&lt;/a&gt;. &lt;/b&gt;&lt;/p&gt;
 
 &lt;p class=&quot;message&quot;&gt;
 
- &lt;a href=&quot;teaching&quot;&gt; &lt;b&gt; EECS 582: Advanced Operating Systems &lt;/b&gt; &lt;/a&gt;
+ &lt;a href=&quot;http://web.eecs.umich.edu/~barisk/teaching&quot;&gt; &lt;b&gt; EECS 582: Advanced Operating Systems &lt;/b&gt; &lt;/a&gt;
  &lt;/p&gt;
 </content>
  </entry>
@@ -30,20 +30,20 @@ I will be starting as an assistant professor of EECS at the University of Michig
  <entry>
    <title>Bio</title>
    <link href="/2015/08/09/bio/"/>
-   <updated>2015-08-09T00:00:00+01:00</updated>
+   <updated>2015-08-09T00:00:00-04:00</updated>
    <id>/2015/08/09/bio</id>
    <content type="html">&lt;p&gt;I am a researcher in the &lt;a href=&quot;https://www.microsoft.com/en-us/research/group/cambridge-systems-and-networking/&quot;&gt;Systems and Networking Group&lt;/a&gt; at Microsoft Research Cambridge. I completed my Ph.D. in the Dependable Systems Laboratory &lt;a href=&quot;http://dslab.epfl.ch/&quot;&gt;(DSLAB)&lt;/a&gt; at EPFL, advised by &lt;a href=&quot;http://people.epfl.ch/george.candea&quot;&gt;George Candea&lt;/a&gt;. My research is centered around developing techniques, tools, and environments that help developers build more reliable, secure, and efficient software. I am interested in finding solutions that allow programmers to better reason about their code, and that efficiently detect bugs, classify them, and diagnose their root cause.  I am also interested in system support for emerging hardware platforms, efficient runtime instrumentation, hardware and runtime support for enhancing system security, and program analysis.&lt;/p&gt;
 
 &lt;p&gt;I am the recipient of the 2016 &lt;a href=&quot;http://www.eurosys.org/awards/needham-award&quot;&gt;Roger Needham PhD Award&lt;/a&gt; for the best PhD thesis in computer systems in Europe and the 2016 Patrick Denantes Memorial Prize for best PhD thesis in the Department of Information and Communication Sciences at EPFL. I am one of the four recipients of the &lt;a href=&quot;https://labs.vmware.com/academic/vmware-2014-2015-graduate-fellowships&quot; target=&quot;_top&quot;&gt;VMware 2014-2015 Graduate Fellowship&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;During my Ph.D., I interned at Microsoft Research, VMware, and Intel. Before starting my Ph.D., I worked as a software engineer for four years, mainly developing real-time embedded systems software. More details can be found in my &lt;a href=&quot;public/cv.pdf&quot;&gt;CV&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;During my Ph.D., I interned at Microsoft Research, VMware, and Intel. Before starting my Ph.D., I worked as a software engineer for four years, mainly developing real-time embedded systems software. More details can be found in my &lt;a href=&quot;http://web.eecs.umich.edu/~barisk/public/cv.pdf&quot;&gt;CV&lt;/a&gt;.&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>News</title>
    <link href="/2015/08/08/news/"/>
-   <updated>2015-08-08T00:00:00+01:00</updated>
+   <updated>2015-08-08T00:00:00-04:00</updated>
    <id>/2015/08/08/news</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;I will serve as a reviewer in the Extended Review Committee of ASPLOS 2018 (Jul. 2017)&lt;/li&gt;
@@ -54,7 +54,7 @@ I will be starting as an assistant professor of EECS at the University of Michig
   &lt;li&gt;Our &lt;a href=&quot;http://dslab.epfl.ch/pubs/gist.pdf&quot;&gt;paper&lt;/a&gt; on automated root cause diagnosis will be presented at &lt;a href=&quot;http://www.ssrc.ucsc.edu/sosp15/&quot;&gt;SOSP’15&lt;/a&gt; (Oct. 2015)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;a href=&quot;news&quot;&gt;more…&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://web.eecs.umich.edu/~barisk/news&quot;&gt;more…&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
