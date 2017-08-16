@@ -18,6 +18,14 @@ In this course, we will study successful modern and classical computer systems a
 
 Please note that the name of this course is "Advanced Operating Systems" for historical reasons. The course is not just about advanced topics in operating systems, but about advanced topics in general computer systems.
   
+## Tentative Schedule
+
+  | Date | Topic | Required Reading | Optional Material |
+  |----|----|----|----|
+  | Sep 6 | Welcome to EECS 582 | [How to Read a Paper]({{site.baseurl}}eecs582/how-to-read-a-paper.pdf) **(No review)** <br/> [Strong Inference]({{site.baseurl}}eecs582/strong-inference.pdf) **(No review)** | You and Your Research [[1]](https://www.youtube.com/watch?v=a1zDuOPkMSw),[[2]](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html) |
+  | Sep 8 | **No Class** <br/> Reading Papers and Writing Reviews| - | - |
+  | Sep 11 | No review <br/> Systems Approach |-|-|
+
 ## Prerequisites
 
 The formal prerequisite for this course is [EECS 482](https://web.eecs.umich.edu/~pmchen/eecs482/) (Introduction to Operating Systems) or equivalent from another university. Further background in computer networks, databases, and programming languages will be helpful. The students should be highly motivated to pursue systems research.
