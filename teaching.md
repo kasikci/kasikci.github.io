@@ -6,9 +6,12 @@ title: Teaching
 # EECS 582: Advanced Operating Systems (F'17)
 
 <p class="message">
+<b>Preliminary schedule is <a href="https://docs.google.com/document/d/1ivyY0K5SXft3vrOkL1QTNoZJ7xTQMHC0Zp9hZpTFtpU/edit">online</a> </b>
+</p>
+
+<p class="message">
 <b>Students asking about the course capacity:</b> Please enroll in the waiting list and show up to the first day of class where we'll discuss the course content in detail. This will help you understand if EECS 582 is suited for you. Note that the primary audience for this course is graduate students interested in systems research.
  </p>
-
 
 ## Course Description
 
@@ -33,9 +36,8 @@ We will conduct this course as a seminar course, where we read seminal papers ab
   
 ## Tentative Schedule and Format
 
-Please see the schedule from last year's offering: [EECS (F'16)](http://www.mosharaf.com/eecs582-f16/)
+Please see the preliminary [schedule](https://docs.google.com/document/d/1ivyY0K5SXft3vrOkL1QTNoZJ7xTQMHC0Zp9hZpTFtpU/edit?usp=sharing).  Please read the assigned papers for the first lecture before coming to class.
 
-The reading material is subject to change, but we will follow the same basic structure for the the course.
   
 <!---
 During my PhD, I TAed for the following courses:
