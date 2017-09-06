@@ -3,6 +3,8 @@ layout: page
 title: News
 ---
 
+* Our paper on diagnosing concurrency bugs in production systems will be presented at [SOSP'17](https://www.sigops.org/sosp/sosp17/) (Aug. 2017)
+* I will serve as a reviewer in the program committee of ICDCS (Aug. 2017)
 * I will serve as a reviewer in the Extended Review Committee of ASPLOS 2018 (Jul. 2017)
 * I received an outstanding reviewer award for serving in the PC of WWW'17 (Jul. 2017)
 * I will give a keynote speech at the [Workshop on Resilient Systems](https://cfaed.tu-dresden.de/research-program/resilience/workshop-on-resilient-systems/about) at the Center for Advancing Electronics at [TU Dresden](https://tu-dresden.de/?set_language=en) (Apr. 2017)
