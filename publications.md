@@ -6,7 +6,7 @@ title: Publications
 ### Conference Papers
 <hr>
 
-1. Lazy Diagnosis of In-Production Concurrency Bugs (to appear) <b> Baris Kasikci </b>, Weidong Cui, Xinyang Ge, Ben Niu. *Symposium on Operating Systems Principles*, Shanghai, China, Oct 2017
+1. [Lazy Diagnosis of In-Production Concurrency Bugs]({{ site.baseurl }}public/snorlax.pdf) <b> Baris Kasikci </b>, Weidong Cui, Xinyang Ge, Ben Niu. *Symposium on Operating Systems Principles*, Shanghai, China, Oct 2017
 
 2. [Failure Sketching: A Technique for Automated Root Cause Diagnosis of In-Production Failures](http://dslab.epfl.ch/pubs/gist.pdf) [<a href="https://www.youtube.com/watch?v=99hXVFe33w8&index=12&list=PLn0nrSd4xjjZKGRyWz0be6a1513z7L6hM">talk video</a> | <a href="{{ site.baseurl }}public/gist-slides.pdf">slides</a>] <br>
 <b> Baris Kasikci </b>, Benjamin Schubert, Cristiano Pereira, Gilles Pokam, George Candea. <br>

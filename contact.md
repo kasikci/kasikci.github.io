@@ -5,24 +5,22 @@ title: Contact
 
 
 <hr>
-
-barisk@microsoft.com
-<br>
 barisk@umich.edu
-    
 <hr>
 
-Microsoft Research
+EECS
 <br>
-21 Station Road
+University of Michigan
 <br>
-Cambridge, CB1 2FB
+4816 BBB
 <br>
-United Kingdom
-
+2260 Hayward Street
+<br>
+Ann Arbor, MI 48109
+<br>
 <hr>
 
-+44 (1223) 479756
++1 (734) 763-1560
 
 <hr>
 
