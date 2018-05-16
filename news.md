@@ -3,7 +3,6 @@ layout: page
 title: News
 ---
 
-* Awarded an Intel Grant for Research on Automated Performance Optimization of Emerging Apps (Sep. 2017)
 * Awarded an Azure for Research [Grant](https://www.microsoft.com/en-us/research/academic-program/microsoft-azure-for-research/) (Sep. 2017)
 * Our paper on diagnosing concurrency bugs in production systems will be presented at [SOSP'17](https://www.sigops.org/sosp/sosp17/) (Aug. 2017)
 * I will serve as a reviewer in the program committee of ICDCS (Aug. 2017)

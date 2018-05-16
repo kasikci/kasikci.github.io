@@ -31,6 +31,8 @@
  * Update the foundational and global aspects of the page.
  */
 
+.col-md-4 {width: 50%}
+
 html {
   font-family: "Open Sans",sans-serif;
 }
@@ -128,7 +130,7 @@ a.sidebar-nav-item:focus {
 
 @media (min-width: 48em) {
   .content {
-    max-width: 55rem;
+    max-width: 64rem;
     margin-left: 20rem;
     margin-right: 2rem;
   }
