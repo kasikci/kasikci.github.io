@@ -3,13 +3,7 @@ layout: page
 title: Teaching
 ---
 
-# EECS 482: Introduction to Operating Systems (W'18)
-
-EECS 482 is an introductory course on operating systems at the senior undergraduate or first-year graduate level. The objective of the course is to teach the issues involved in the design and implementation of modern operating systems. The concepts in this course are applicable to many operating systems and hardware platforms. We will discuss examples that are drawn from historically significant and modern operating systems including MULTICS, UNIX, Mach, and Windows. We will cover topics such as processes and threads, concurrency and synchronization, CPU scheduling, virtual memory management, communication in distributed systems, secondary-storage management, and file systems.
-
-For details, please visit EECS 482 [course webpage](http://web.eecs.umich.edu/~harshavm/eecs482/).
-
-# EECS 582: Advanced Operating Systems (F'17)
+# EECS 582: Advanced Operating Systems (F'18)
 
 <!---
 <p class="message">
@@ -44,8 +38,13 @@ We will conduct this course as a seminar course, where we read seminal papers ab
   
 ## Tentative Schedule and Format
 
-Please see the preliminary [schedule](https://docs.google.com/document/d/1ivyY0K5SXft3vrOkL1QTNoZJ7xTQMHC0Zp9hZpTFtpU/edit?usp=sharing).  Please read the assigned papers for the first lecture before coming to class.
+Please see the preliminary [schedule](https://docs.google.com/document/d/1Y3JlYiAKSvbtcusIA4axZAZbvLcUsy3qkrCkEatS53M/edit?usp=sharing).  Please read the assigned papers for the first lecture before coming to class.
 
+# EECS 482: Introduction to Operating Systems (W'18)
+
+EECS 482 is an introductory course on operating systems at the senior undergraduate or first-year graduate level. The objective of the course is to teach the issues involved in the design and implementation of modern operating systems. The concepts in this course are applicable to many operating systems and hardware platforms. We will discuss examples that are drawn from historically significant and modern operating systems including MULTICS, UNIX, Mach, and Windows. We will cover topics such as processes and threads, concurrency and synchronization, CPU scheduling, virtual memory management, communication in distributed systems, secondary-storage management, and file systems.
+
+For details, please visit EECS 482 [course webpage](http://web.eecs.umich.edu/~harshavm/eecs482/).
   
 <!---
 During my PhD, I TAed for the following courses:

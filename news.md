@@ -3,6 +3,12 @@ layout: page
 title: News
 ---
 
+* Our paper on reverse debugging failures in deployed systems will be presented at OSDI 2019
+* I will serve as the poster session chair at [SoCC](https://acmsocc.github.io/2018/posters.html) together with Peter Alvaro. Please submit your posters! (July 2018)
+* I will serve in the [EuroSYS 2019](https://www.eurosys2019.org/) PC (May 2018) 
+* Organizing the [3rd Workshop on System Software for Trusted Execution](https://systex18.ibr.cs.tu-bs.de/) (SysTEX 2018) with [Mark Silberstein](https://sites.google.com/site/silbersteinmark/) (May. 2018)
+* Awarded a Michigan Cambridge Research Initiative Grant, Looking forward to working with [Nada Amin](http://lampwww.epfl.ch/~amin/cv/) (May. 2018)
+* Our paper on lightweight OS containers will appear at [Usenix ATC 2018](https://www.usenix.org/conference/atc18/presentation/thalheim) (April 2018)
 * Awarded an Azure for Research [Grant](https://www.microsoft.com/en-us/research/academic-program/microsoft-azure-for-research/) (Sep. 2017)
 * Our paper on diagnosing concurrency bugs in production systems will be presented at [SOSP'17](https://www.sigops.org/sosp/sosp17/) (Aug. 2017)
 * I will serve as a reviewer in the program committee of ICDCS (Aug. 2017)
