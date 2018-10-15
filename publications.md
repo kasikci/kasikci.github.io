@@ -6,13 +6,13 @@ title: Publications
 ### Conference Papers
 <hr>
 
-1. REPT: Reverse Debugging of Failures in Deployed Software, Weidong Cui, Xinyang Ge, <b> Baris Kasikci </b>, Ben Niu, Upamanyu Sharma, Ruoyu Wang, Insu Yun, *Symposium on Operating Systems Design and Implementation ([**OSDI**](https://www.usenix.org/conference/osdi18))*, Carlsbad, CA, Oct 2018
+1. [REPT: Reverse Debugging of Failures in Deployed Software, Weidong Cui, Xinyang Ge]({{ site.baseurl }}public/rept.pdf), <b> Baris Kasikci </b>, Ben Niu, Upamanyu Sharma, Ruoyu Wang, Insu Yun, *Symposium on Operating Systems Design and Implementation ([**OSDI**](https://www.usenix.org/conference/osdi18))*, **Best Paper Award** Carlsbad, CA, Oct 2018
 
-1. Foreshadow: Extracting the Keys to the Intel SGX Kingdom with Transient Out-of-Order Execution, Jo Van Bulck, Marina Minkin, Ofir Weisse, Daniel Genkin, <b>Baris Kasikci</b>, Frank Piessens, Mark Silberstein, Thomas F. Wenisch, Yuval Yarom, Raoul Strackx, *USENIX Security Symposium ([**Usenix Security**](https://www.usenix.org/conference/usenixsecurity18))*, Baltimore, MD, August 2018
+1. [Foreshadow: Extracting the Keys to the Intel SGX Kingdom with Transient Out-of-Order Execution](https://foreshadowattack.eu/foreshadow.pdf), Jo Van Bulck, Marina Minkin, Ofir Weisse, Daniel Genkin, <b>Baris Kasikci</b>, Frank Piessens, Mark Silberstein, Thomas F. Wenisch, Yuval Yarom, Raoul Strackx, *USENIX Security Symposium ([**Usenix Security**](https://www.usenix.org/conference/usenixsecurity18))*, Baltimore, MD, August 2018
 
 1. [Cntr: Lightweight OS Containers]({{ site.baseurl }}public/cntr.pdf), Jörg Thalheim, Pramod Bhatotia, Pedro Fonseca, and <b> Baris Kasikci </b>, *USENIX Annual Technical Conference ([**Usenix ATC**](https://www.usenix.org/conference/atc18))*, Boston, MA, June 2018
 
-1. [Lazy Diagnosis of In-Production Concurrency Bugs]({{ site.baseurl }}public/snorlax.pdf) <b> Baris Kasikci </b>, Weidong Cui, Xinyang Ge, Ben Niu. *Symposium on Operating Systems Principles*, Shanghai, China, Oct 2017
+1. [Lazy Diagnosis of In-Production Concurrency Bugs]({{ site.baseurl }}public/snorlax.pdf) <b> Baris Kasikci </b>, Weidong Cui, Xinyang Ge, Ben Niu. *Symposium on Operating Systems Principles ([**SOSP**](https://www.sigops.org/sosp/sosp17/index.html))*, Shanghai, China, Oct 2017
 
 1. [Failure Sketching: A Technique for Automated Root Cause Diagnosis of In-Production Failures](http://dslab.epfl.ch/pubs/gist.pdf) [<a href="https://www.youtube.com/watch?v=99hXVFe33w8&index=12&list=PLn0nrSd4xjjZKGRyWz0be6a1513z7L6hM">talk video</a> | <a href="{{ site.baseurl }}public/gist-slides.pdf">slides</a>] <br>
 <b> Baris Kasikci </b>, Benjamin Schubert, Cristiano Pereira, Gilles Pokam, George Candea. <br>
