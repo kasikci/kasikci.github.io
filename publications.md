@@ -6,9 +6,17 @@ title: Publications
 ### Conference Papers
 <hr>
 
-1. [REPT: Reverse Debugging of Failures in Deployed Software, Weidong Cui, Xinyang Ge]({{ site.baseurl }}public/rept.pdf), <b> Baris Kasikci </b>, Ben Niu, Upamanyu Sharma, Ruoyu Wang, Insu Yun, *Symposium on Operating Systems Design and Implementation ([**OSDI**](https://www.usenix.org/conference/osdi18))*, **Best Paper Award** Carlsbad, CA, Oct 2018
+1. [NDA: Preventing Speculative Execution Attacksat Their Source]({{ site.baseurl }}public/bda.pdf) [<a href="{{ site.baseurl }}public/nda.bib">bib</a>], Ofir Weisse, Ian Neal, Kevin Loughlin, Thomas Wenisch, <b> Baris Kasikci </b>, *International Symposium on Microarchitecture ([**MICRO**](https://www.microarch.org/micro52/))*, Columbus, OH, Oct 2019.
 
-1. [Foreshadow: Extracting the Keys to the Intel SGX Kingdom with Transient Out-of-Order Execution](https://foreshadowattack.eu/foreshadow.pdf), Jo Van Bulck, Marina Minkin, Ofir Weisse, Daniel Genkin, <b>Baris Kasikci</b>, Frank Piessens, Mark Silberstein, Thomas F. Wenisch, Yuval Yarom, Raoul Strackx, *USENIX Security Symposium ([**Usenix Security**](https://www.usenix.org/conference/usenixsecurity18))*, Baltimore, MD, August 2018
+1. I4: Incremental Inference of Inductive Invariants for Verification of Distributed Protocols Haojun Ma, Aman Goel, Jean-Baptiste Jeannin, Manos Kapritsos, <b> Baris Kasikci </b>, Karem Sakallah. *Symposium on Operating Systems Principles ([**SOSP**](https://sosp19.rcs.uwaterloo.ca/))*, Canada, Oct 2019
+
+1. [Huron: Hybrid False Sharing Detection and Repair]({{ site.baseurl }}public/huron.pdf) [<a href="https://github.com/efeslab/huron">code</a>], Tanvir Ahmed Khan, Yifan Zhao, Gilles Pokam, Barzan Mozafari, <b> Baris Kasikci </b>, Conference on Programming Language Design and Implementation ([**PLDI**](https://conf.researchr.org/home/pldi-2019)), Phoenix, AZ, June 2019
+
+1. [Morpheus: A Vulnerability-Tolerant Secure Architecture Based on Ensembles of Moving Target Defenses with Churn]({{ site.baseurl }}public/morpheus.pdf) [<a href="https://www.youtube.com/watch?v=G04pYcp3p5o">lightning talk</a>] , International Conference on Architectural Support for Programming Languages and Operating Systems ([**ASPLOS**](https://asplos-conference.org/)), Mark Gallagher, Lauren Biernacki, Shibo Chen, Zelalem Birhanu Aweke, SalessawiFerede Yitbarek, Misisker Tadesse Aga, Austin Harris, Zhixing Xu, <b> Baris Kasikci </b>, Valeria Bertacco, Sharad Malik, Mohit Tiwari, Todd Austin, Providence, RI, April 2019
+
+1. [REPT: Reverse Debugging of Failures in Deployed Software]({{ site.baseurl }}public/rept.pdf), Weidong Cui, Xinyang Ge, <b> Baris Kasikci </b>, Ben Niu, Upamanyu Sharma, Ruoyu Wang, Insu Yun, *Symposium on Operating Systems Design and Implementation ([**OSDI**](https://www.usenix.org/conference/osdi18))*, **Best Paper Award** Carlsbad, CA, Oct 2018
+
+1. [Foreshadow: Extracting the Keys to the Intel SGX Kingdom with Transient Out-of-Order Execution](https://foreshadowattack.eu/foreshadow.pdf), Jo Van Bulck, Marina Minkin, Ofir Weisse, Daniel Genkin, <b>Baris Kasikci</b>, Frank Piessens, Mark Silberstein, Thomas F. Wenisch, Yuval Yarom, Raoul Strackx, *USENIX Security Symposium ([**Usenix Security**](https://www.usenix.org/conference/usenixsecurity18))*, **IEEE Micro Top Pick**, Baltimore, MD, August 2018
 
 1. [Cntr: Lightweight OS Containers]({{ site.baseurl }}public/cntr.pdf), Jörg Thalheim, Pramod Bhatotia, Pedro Fonseca, and <b> Baris Kasikci </b>, *USENIX Annual Technical Conference ([**Usenix ATC**](https://www.usenix.org/conference/atc18))*, Boston, MA, June 2018
 
@@ -33,12 +41,15 @@ title: Publications
 ### Journal Papers
 <hr>
 
-1. [Automated Classification of Data Races for Both Strong and Weak Memory Models](http://dslab.epfl.ch/pubs/portend+.pdf) <br>
-<b>Baris Kasikci</b>, Cristian Zamfir, and George Candea <br>
-*ACM Transactions of Programming Languages and Systems* ([**TOPLAS**](http://toplas.acm.org/))
+1. [Breaking Virtual Memory Protection and the SGX Ecosystem with Foreshadow]({{ site.baseurl }}public/foreshadow-toppick.pdf), Jo Van Bulck, Marina Minkin, Ofir Weisse, Daniel Genkin, <b>Baris Kasikci</b>, Frank Piessens, Mark Silberstein, Thomas F. Wenisch, Yuval Yarom, Raoul Strackx, *IEEE Micro Top Picks*, 2019
+
+
+1. [Automated Classification of Data Races for Both Strong and Weak Memory Models](http://dslab.epfl.ch/pubs/portend+.pdf), <b>Baris Kasikci</b>, Cristian Zamfir, and George Candea, *ACM Transactions of Programming Languages and Systems* ([**TOPLAS**](http://toplas.acm.org/)), 2015
 
 ### Workshop Papers
 <hr>
+
+1. [I4: Incremental Inference of Inductive Invariants]({{ site.baseurl }}public/i4-hotos.pdf), Haojun Ma, Aman Goel, Jean Baptistte Jeannin, Manos Kapritsos, <b> Baris Kasikci </b>, Karem Sakallah, *Workshop on Hot Topics in Operating Systems* ([**HotOS**](https://hotos19.sigops.org/)), Bertinoro, Italy, May 2019
 
 1. [HASE: Hardware-Assisted Symbolic Execution](https://docs.google.com/presentation/d/1QeJtKAtLsBbpX9U-llUe_zOLeJpCCq-p8frFMmj9cd4/edit#slide=id.p) Jörg Thalheim, Pramod Bhatotia, Pedro Fonseca, and <b> Baris Kasikci </b>, *KLEE Symposium*, London, UK, April 2018
 

@@ -1,0 +1,36 @@
+- What kind of projects tend to get funded more these days (especially in systems)
+  - I see in SOSP/OSDI that reliability takes up most of the conference.
+
+- How does a panel look like? Who forms the panel? Are they all systems researchers? 
+  - I hope to serve by not actually submitting a proposal the next cycle of CNS. Would it be possible for me to serve? I am not sure how to demonstrate that I am willing to do this.
+
+- How much preliminary result to include? Does work in submission qualify as preliminary results? What is a good balance?
+  - SATC: “The proposal explains the preliminary results. However, the preliminary results are really very preliminary” -> 13 different applications performance analysis 3 graphs ~ a page or two of material.
+  - More recent CSR had fewer preliminary results but that was praised.
+  -> Really hard to know what’s expected.
+
+- Prior work? How much of prior work is ok to reiterate?
+
+- Usually how to manage paper submissions and grant submissions  
+
+- Expectations regarding outreach?
+
+- Expectations regarding content?
+  - CRII: “Beyond the impact of the technology itself, there is little evidence that the educational, dissemination, and outreach activities will extend much beyond what is typically expected of faculty members at most institutions as a part of their normal responsibilities as academic professionals.” (Is this regardless of the funding amounts?)
+  - CRII: “There is little evidence of innovation in the outreach and educational activities.”
+  - CRII: "The project is extraordinarily ambitious (holistic modifications across the domains of programming languages, compilers, OS and architecture) and risky”
+    - > We already one of the major pillars published at PLDI. How to convince reviewers that we are capable of doing ambitious things?
+  - CRII: Data management plan is not good. Details of open source arrangements not clear. Does this refer to licenses?
+
+- Even though I haven’t managed to get a project funded, I think the reviews overall have been useful for me in many cases. There are certain cases, however, I do not know how to interpret or respond in response to the reviews.
+   -> The PI is not familiar with performance problems in the real world.
+   -> While the PI has an extremely impressive publication record given that he has recently completed his PhD, all of his papers appear to be about performance monitoring and debugging problems. Although the PI has experience modifying binaries to support performance monitoring, it does not appear that he has published any papers that involved implementing compiler optimizations. Yet a significant portion of his proposed research involves implementing ambitious compiler optimizations both statically and dynamically.
+
+- Should I think of CAREER as a single PhD topic doable by a single student or multiple projects that are partially supported? 
+
+
+
+
+
+
+
