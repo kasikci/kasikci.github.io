@@ -6,6 +6,8 @@ title: Publications
 ### Conference Papers
 <hr>
 
+1. I-SPY: Context-Driven Conditional Instruction Prefetchingwith Coalescing, Tanvir Ahmed Khan, Akshitha Sriraman, Joseph Devietti, Gilles Pokam, Heiner Litz, <b> Baris Kasikci </b>, *International Symposium on Microarchitecture ([**MICRO**](https://www.microarch.org/micro53/))*, Athens, Greece, Oct 2020.
+
 1. [A Hypervisor for Shared-Memory FPGA Platforms]({{ site.baseurl }}public/optimus.pdf), Jiacheng Ma, Gefei Zuo, Kevin Loughlin, Xiaohe Cheng, Yanqiang Liu, Abel Mulugeta Eneyew, Zhengwei Qi, <b> Baris Kasikci </b>, *International Conference on Architectural Support for Programming Languages and
 Operating Systems ([**ASPLOS**](https://asplos-conference.org/))*, Lausanne, Switzerland, Mar 2020.
 
