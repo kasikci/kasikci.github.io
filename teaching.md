@@ -3,7 +3,7 @@ layout: page
 title: Teaching
 ---
 
-# EECS 582: Advanced Operating Systems (F'18)
+# EECS 582: Advanced Operating Systems (W'20)
 
 <!---
 <p class="message">
@@ -25,9 +25,9 @@ Please note that the name of this course is "Advanced Operating Systems" for his
   
 ## Prerequisites
 
-The formal prerequisite for this course is [EECS 482](https://web.eecs.umich.edu/~pmchen/eecs482/) (Introduction to Operating Systems) or equivalent from another university. Further background in computer networks, databases, and programming languages will be helpful. The students should be highly motivated to pursue systems research.
+The formal prerequisite for this course is EECS 482 (Introduction to Operating Systems) or equivalent from another university. Further background in computer networks, databases, and programming languages will be helpful. The students should be highly motivated to pursue systems research.
 
- If in doubt about the requirements, please check with the <a href="mailto:barisk@umich.edu?Subject=[EECS 582]%20Question" target="_top">instructor</a>.
+If in doubt about the requirements, please check with the <a href="mailto:barisk@umich.edu?Subject=[EECS 582]%20Question" target="_top">instructor</a>.
 
 <!---## Format
 
@@ -38,7 +38,7 @@ We will conduct this course as a seminar course, where we read seminal papers ab
   
 ## Tentative Schedule and Format
 
-Please see the preliminary [schedule](https://docs.google.com/document/d/1Y3JlYiAKSvbtcusIA4axZAZbvLcUsy3qkrCkEatS53M/edit?usp=sharing).  Please read the assigned papers for the first lecture before coming to class.
+Please see the preliminary [schedule](https://docs.google.com/document/d/17mxnKaPQOh4-BzaLK3jax_aQgPA1nZPTwYxPaX37UHM/edit?usp=sharing). Please read the assigned papers for the first lecture before coming to class.
 
 # EECS 482: Introduction to Operating Systems (W'18)
 

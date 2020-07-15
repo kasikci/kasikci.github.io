@@ -6,8 +6,9 @@ title: Research
 <p class="message">
 To get a general idea about my research interests, see my recent <a href="{{ site.baseurl }}public/research-statement.pdf"><b>research statement</b></a>.<br>
 
-If interested in the below active projects, please read <a href="{{ site.baseurl }}work-with-me"><b>this</b></a>.
-  
+If you are interested in workiing with me, please read <a href="{{ site.baseurl }}work-with-me"><b>this</b></a>.
+
+<!--  
 </p>
 
  <div class="row">
@@ -58,3 +59,4 @@ Event-driven systems communicate  heavily with each other, users, and various de
   </div>
       </div>
   </div>
+-->

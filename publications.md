@@ -6,9 +6,12 @@ title: Publications
 ### Conference Papers
 <hr>
 
-1. [NDA: Preventing Speculative Execution Attacksat Their Source]({{ site.baseurl }}public/bda.pdf) [<a href="{{ site.baseurl }}public/nda.bib">bib</a>], Ofir Weisse, Ian Neal, Kevin Loughlin, Thomas Wenisch, <b> Baris Kasikci </b>, *International Symposium on Microarchitecture ([**MICRO**](https://www.microarch.org/micro52/))*, Columbus, OH, Oct 2019.
+1. [A Hypervisor for Shared-Memory FPGA Platforms]({{ site.baseurl }}public/optimus.pdf), Jiacheng Ma, Gefei Zuo, Kevin Loughlin, Xiaohe Cheng, Yanqiang Liu, Abel Mulugeta Eneyew, Zhengwei Qi, <b> Baris Kasikci </b>, *International Conference on Architectural Support for Programming Languages and
+Operating Systems ([**ASPLOS**](https://asplos-conference.org/))*, Lausanne, Switzerland, Mar 2020.
 
-1. I4: Incremental Inference of Inductive Invariants for Verification of Distributed Protocols Haojun Ma, Aman Goel, Jean-Baptiste Jeannin, Manos Kapritsos, <b> Baris Kasikci </b>, Karem Sakallah. *Symposium on Operating Systems Principles ([**SOSP**](https://sosp19.rcs.uwaterloo.ca/))*, Canada, Oct 2019
+1. [NDA: Preventing Speculative Execution Attacks at Their Source]({{ site.baseurl }}public/nda.pdf), Ofir Weisse, Ian Neal, Kevin Loughlin, Thomas Wenisch, <b> Baris Kasikci </b>, *International Symposium on Microarchitecture ([**MICRO**](https://www.microarch.org/micro52/))*, **IEEE Micro Top Pick Honorable Mention**, Columbus, OH, Oct 2019.
+
+1. [I4: Incremental Inference of Inductive Invariants for Verification of Distributed Protocols]({{ site.baseurl }}public/i4.pdf) Haojun Ma, Aman Goel, Jean-Baptiste Jeannin, Manos Kapritsos, <b> Baris Kasikci </b>, Karem Sakallah. *Symposium on Operating Systems Principles ([**SOSP**](https://sosp19.rcs.uwaterloo.ca/))*, Canada, Oct 2019
 
 1. [Huron: Hybrid False Sharing Detection and Repair]({{ site.baseurl }}public/huron.pdf) [<a href="https://github.com/efeslab/huron">code</a>], Tanvir Ahmed Khan, Yifan Zhao, Gilles Pokam, Barzan Mozafari, <b> Baris Kasikci </b>, Conference on Programming Language Design and Implementation ([**PLDI**](https://conf.researchr.org/home/pldi-2019)), Phoenix, AZ, June 2019
 
