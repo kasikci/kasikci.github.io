@@ -3,11 +3,11 @@ layout: page
 title: Teaching
 ---
 
-# EECS 582: Advanced Operating Systems (F'20)
+# EECS 582: Advanced Operating Systems (W'20)
 
 <!---
 <p class="message">
-<b>Preliminary schedule and instructions for joining the first lecture (over Zoom) is <a href="https://docs.google.com/document/d/1ivyY0K5SXft3vrOkL1QTNoZJ7xTQMHC0Zp9hZpTFtpU/edit">online</a> </b>
+<b>Preliminary schedule is <a href="https://docs.google.com/document/d/1ivyY0K5SXft3vrOkL1QTNoZJ7xTQMHC0Zp9hZpTFtpU/edit">online</a> </b>
 </p>
 
 <p class="message">
@@ -38,7 +38,7 @@ We will conduct this course as a seminar course, where we read seminal papers ab
   
 ## Tentative Schedule and Format
 
-Please see the preliminary [schedule](https://docs.google.com/document/d/17mxnKaPQOh4-BzaLK3jax_aQgPA1nZPTwYxPaX37UHM/edit?usp=sharing) for details on the first lecture (over Zoom).
+Please see the preliminary [schedule](https://docs.google.com/document/d/17mxnKaPQOh4-BzaLK3jax_aQgPA1nZPTwYxPaX37UHM/edit?usp=sharing). Please read the assigned papers for the first lecture before coming to class.
 
 # EECS 482: Introduction to Operating Systems (W'18)
 
