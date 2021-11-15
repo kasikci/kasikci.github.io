@@ -3,7 +3,7 @@ layout: page
 title: Teaching
 ---
 
-# EECS 582: Advanced Operating Systems (F'20)
+# EECS 582: Advanced Operating Systems (F'21)
 
 <!---
 <p class="message">
@@ -38,9 +38,9 @@ We will conduct this course as a seminar course, where we read seminal papers ab
   
 ## Tentative Schedule and Format
 
-Please see the preliminary [schedule](https://docs.google.com/document/d/17mxnKaPQOh4-BzaLK3jax_aQgPA1nZPTwYxPaX37UHM/edit?usp=sharing) for details on the first lecture (over Zoom).
+Please see the preliminary [schedule](https://docs.google.com/document/d/1rUSse9iZuXt-EDJ55BSS8HURAQ47tLGUKj02IX4vvbA/edit?usp=sharing) for details on the first lecture.
 
-# EECS 482: Introduction to Operating Systems (W'18)
+# EECS 482: Introduction to Operating Systems (W'21)
 
 EECS 482 is an introductory course on operating systems at the senior undergraduate or first-year graduate level. The objective of the course is to teach the issues involved in the design and implementation of modern operating systems. The concepts in this course are applicable to many operating systems and hardware platforms. We will discuss examples that are drawn from historically significant and modern operating systems including MULTICS, UNIX, Mach, and Windows. We will cover topics such as processes and threads, concurrency and synchronization, CPU scheduling, virtual memory management, communication in distributed systems, secondary-storage management, and file systems.
 

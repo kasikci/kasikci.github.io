@@ -6,18 +6,23 @@ title: Publications
 ### Conference Papers
 <hr>
 
-1. [DOLMA: Securing Speculation with the Principle of Transient Non-Observability]({{site.baseurl}}public/dolma.pdf). Kevin Loughlin, Ian Neal, Jiacheng Ma, Elisa Tsai, Ofir Weisse, Satish Narayanasamy, <b> Baris
-Kasikci </b>. *USENIX Security Symposium ([**USENIX Security**](https://www.usenix.org/conference/usenixsecurity21))*, Aug 2021
+1. Debugging in the Brave New World of Heterogeneous Systems. Jiacheng Ma, Gefei Zuo, Kevin Loughlin, Andrew Quinn, <b> Baris Kasikci </b>. *International Conference on Architectural Support for Programming Languages and Operating Systems (to appear) ([**ASPLOS**](https://asplos-conference.org/))*. Feb 2022
 
-1. DMon: Efficient Detection and Correction of Data Locality Problems using Selective Profiling. Tanvir Ahmed Khan, Ian Neal, Gilles Pokam, Barzan Mozafari, <b> Baris Kasikci </b>. *Symposium on Operating Systems Design and Implementation ([**OSDI**](https://www.usenix.org/conference/osdi21))*. Online, July 2021
+1. [Twig: Profile-Guided BTB Prefetching for Data Center Applications]({{site.baseurl}}public/twig.pdf). Tanvir Ahmed Khan, Nathan Brown, Akshitha Sriraman, Niranjan Soundararajan, Rakesh Kumar, Joseph Devietti, Sreenivas Subramoney, Gilles Pokam, Heiner Litz, <b> Baris Kasikci </b>. *International Symposium on Microarchitecture ([**MICRO**](https://www.microarch.org/micro53/))*, Oct 2021
 
-1. Reproducing Production Failures with Execution Reconstruction. Gefei Zuo, Jiacheng Ma, Andrew Quinn, Pramod Bhatotia, Pedro Fonseca, and <b> Baris Kasikci </b>. (to appear) Conference on Programming Language Design and Implementation ([**PLDI**](https://conf.researchr.org/home/pldi-2021)). Online, June 2021 
+1. [PDede: Partitioned, Deduplicated, Delta Branch Target Buffer]({{site.baseurl}}public/pdede.pdf). Niranjan Soundararajan, Peter Braun, Tanvir Ahmed Khan, <b> Baris Kasikci </b>, Heiner Litz, Sreenivas Subramoney. *International Symposium on Microarchitecture ([**MICRO**](https://www.microarch.org/micro54/))*, Oct 2021
 
-1. Ripple: Profile-Guided Instruction CacheReplacement for Data Center Applications. Tanvir Ahmed Khan, Dexin Zhang, Akshitha Sriraman, Joseph Devietti, Gilles Pokam, Heiner Litz, <b> Baris Kasikci </b>. (to appear) International Symposium on Computer Architecture ([**ISCA**](https://iscaconf.org/isca2021/)). Online, June 2021 
+1. [DOLMA: Securing Speculation with the Principle of Transient Non-Observability]({{site.baseurl}}public/dolma.pdf). Kevin Loughlin, Ian Neal, Jiacheng Ma, Elisa Tsai, Ofir Weisse, Satish Narayanasamy, <b> Baris Kasikci </b>. *USENIX Security Symposium ([**USENIX Security**](https://www.usenix.org/conference/usenixsecurity21))*, Aug 2021
 
-1. IGOR: Accelerating Byzantine Fault Tolerance for Real-Time Systems with Eager Execution. Andrew Loveless, Ron Dreslinski, <b> Baris Kasikci </b>, Linh Phan. Real-Time and Embedded Technology and Applications Symposium ([**RTAS**](http://2021.rtas.org/)), May 2021
+1. [DMon: Efficient Detection and Correction of Data Locality Problems using Selective Profiling]({{ site.baseurl }}public/dmon.pdf). Tanvir Ahmed Khan, Ian Neal, Gilles Pokam, Barzan Mozafari, <b> Baris Kasikci </b>. *Symposium on Operating Systems Design and Implementation ([**OSDI**](https://www.usenix.org/conference/osdi21))*. Online, July 2021
 
-1. HIPPOCRATES: Healing Persistent Memory Bugs Without Doing Any Harm. Ian Neal, Andrew Quinn, <b> Baris Kasikci </b>. *International Conference on Architectural Support for Programming Languages and Operating Systems ([**ASPLOS**](https://asplos-conference.org/))*. April 2021
+1. [Reproducing Production Failures with Execution Reconstruction]({{ site.baseurl }}public/er.pdf). Gefei Zuo, Jiacheng Ma, Andrew Quinn, Pramod Bhatotia, Pedro Fonseca, and <b> Baris Kasikci </b>. Conference on Programming Language Design and Implementation ([**PLDI**](https://conf.researchr.org/home/pldi-2021)). Online, June 2021
+
+1. [Ripple: Profile-Guided Instruction Cache Replacement for Data Center Applications]({{ site.baseurl }}public/ripple.pdf). Tanvir Ahmed Khan, Dexin Zhang, Akshitha Sriraman, Joseph Devietti, Gilles Pokam, Heiner Litz, <b> Baris Kasikci </b>. International Symposium on Computer Architecture ([**ISCA**](https://iscaconf.org/isca2021/)). Online, June 2021
+
+1. [IGOR: Accelerating Byzantine Fault Tolerance for Real-Time Systems with Eager Execution]({{ site.baseurl }}public/igor.pdf). Andrew Loveless, Ron Dreslinski, <b> Baris Kasikci </b>, Linh Phan. Real-Time and Embedded Technology and Applications Symposium ([**RTAS**](http://2021.rtas.org/)), May 2021
+
+1. [HIPPOCRATES: Healing Persistent Memory Bugs Without Doing Any Harm]({{ site.baseurl }}public/hippocrates.pdf). Ian Neal, Andrew Quinn, <b> Baris Kasikci </b>. *International Conference on Architectural Support for Programming Languages and Operating Systems ([**ASPLOS**](https://asplos-conference.org/))*. April 2021
 
 1. [Rethinking File Mapping Structures for Persistent Memory]({{ site.baseurl }}public/pm-indexing.pdf). Ian Neal, Gefei Zuo, Eric Shiple, Tanvir Ahmed Khan, Youngjin Kwon, Simon Peter, <b> Baris Kasikci </b>. *USENIX Conference on File and Storage Technologies ([**FAST**](https://www.usenix.org/conference/fast21))*. Feb 2021
 
@@ -70,6 +75,8 @@ Operating Systems ([**ASPLOS**](https://asplos-conference.org/))*. Mar 2020
 
 ### Workshop Papers
 <hr>
+
+1. [Stop! Hammer Time: Rethinking Our Approach to Rowhammer Mitigations]({{ site.baseurl }}public/hammertime.pdf), Kevin Loughlin, Stefan Saroiu, Alec Wolman, <b> Baris Kasikci </b>. *Workshop on Hot Topics in Operating Systems* ([**HotOS**](https://sigops.org/s/conferences/hotos/2021/)). Jun 2021
 
 1. [I4: Incremental Inference of Inductive Invariants]({{ site.baseurl }}public/i4-hotos.pdf), Haojun Ma, Aman Goel, Jean Baptistte Jeannin, Manos Kapritsos, <b> Baris Kasikci </b>, Karem Sakallah, *Workshop on Hot Topics in Operating Systems* ([**HotOS**](https://hotos19.sigops.org/)). May 2019
 
