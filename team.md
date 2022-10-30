@@ -3,6 +3,10 @@ layout: page
 title: Team
 ---
 
+**Postdocs**: 
+
+[Dr .Shuwen Deng](https://caslab.csl.yale.edu/~shuwen/)
+
 **PhD students**: 
 
 [Tanvir Ahmed Khan](http://web.eecs.umich.edu/~takh/) 
@@ -25,6 +29,8 @@ title: Team
 
 [Shixin Song](https://zhizhuoxin.github.io/)
 
+[Haoyang Zhang](https://hieronzhang.github.io/)
+
 **Honorary group members**: 
 
 [Dr. Akshitha Sriraman](https://akshithasriraman.eecs.umich.edu/) (Assistant Professor, CMU)
@@ -33,4 +39,4 @@ title: Team
 
 [Dr. Ofir Weisse](http://www.ofirweisse.com/) (Google)
 
-[Dr. Andrew Quinn](https://arquinn.github.io/) (Assitant Professor, UCSC)
+[Dr. Andrew Quinn](https://arquinn.github.io/) (Assistant Professor, UCSC)
