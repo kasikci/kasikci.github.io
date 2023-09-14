@@ -3,7 +3,13 @@ layout: page
 title: News
 ---
 
-* Whisper won the best paper award at [MICRO'22](https://www.microarch.org/micro55/)! Congrats, [Tanvir](https://web.eecs.umich.edu/~takh/) (Oct 2022)!
+* Tanvir defended his Ph.D. thesis and joined Columbia University as a tenure-track assistant professor. Congrats, [Tanvir](https://web.eecs.umich.edu/~takh/)!
+* Ian defended his Ph.D. thesis and joined Veridise as a research engineer. Congrats [Ian](https://about.iangneal.io/)!
+* Andrew defended his Ph.D. thesis and joined NASA. Congrats, [Andrew](http://andrewloveless.com/)!
+* Tanvir wins the [Towner Prize](https://cse.engin.umich.edu/stories/tanvir-ahmed-khan-earns-towner-prize-for-outstanding-phd-research) for outstanding Ph.D. research. Congrats, [Tanvir](https://web.eecs.umich.edu/~takh/)!
+* VIDI is accepted to [ASPLOS'23](https://asplos-conference.org/). Congrats [Gefei](https://web.eecs.umich.edu/~gefeizuo/) and [Jiacheng](https://jcma.me/)!
+* OCOLOS is recognized with an [**IEEE MICRO Top Pick**]()! Congrats, [Yuxuan](https://fling.seas.upenn.edu/~zyuxuan/dynamic/wordpress/) and [Tanvir](https://web.eecs.umich.edu/~takh/) (Jan 2023)!
+* Whisper won the best paper award at [**MICRO'22**](https://www.microarch.org/micro55/)! Congrats, [Tanvir](https://web.eecs.umich.edu/~takh/) (Oct 2022)!
 * Kan Zhu, undergraduate researcher, won the ACM Student Research Competition at MICRO'22, Congrats, Kan (Oct 2022)! 
 * Whisper and OCOLOS are accepted to appear at MICRO'22. Congrats [Tanvir](https://web.eecs.umich.edu/~takh/) and Yuxuan (Jul 2022)!
 * OmniTable is accepted at OSDI'22. Congrats [Andrew](https://arquinn.github.io/) (Mar 2022)!
@@ -12,7 +18,7 @@ title: News
 * MOESI-prime and Thermometer accepted at ISCA'22. Congrats [Kevin](https://www.kevinloughlin.org) and [Shixin](https://zhizhuoxin.github.io/)! (Mar 2022)
 * Ian won the Richard and Eleanor Towner Prize for Distinguished Academic Achievement Award! Congrats [Ian](https://about.iangneal.io/)! (Feb 2022)
 * Our work on profile-guided software prefetching got accepted to appear at [EuroSys'22](https://2022.eurosys.org/calls/call-for-papers/) (Jan 2022)
-* Honored to be named [Morris Wellman Professor](https://cse.engin.umich.edu/stories/baris-kasikci-named-morris-wellman-professor) (Dec 2021)
+* Honored to be named [**Morris Wellman Professor**](https://cse.engin.umich.edu/stories/baris-kasikci-named-morris-wellman-professor) (Dec 2021)
 * Our work on debugging in heterogeneous systems got accepted to appear at ASPLOS'22! Congrats, [Jiacheng](https://jcma.me/)! (Nov 2021)
 * I delivered the keynote speech at IEEE [CITS](http://atc.udg.edu/CITS2021/). (Nov 2021)
 * Shixin Song won the first place at the ACM Student Research Competition at MICRO'21. Congrats [Shixin](https://zhizhuoxin.github.io/)! (OCt 2021)

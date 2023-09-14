@@ -59,7 +59,7 @@ html {
   text-align: center;
   padding: 2rem 1rem;
   color: rgba(255,255,255,.68);
-  background-color: #202020;
+  background-color: #4b2e83; /*202020*/
 }
 @media (min-width: 48em) {
   .sidebar {
@@ -243,14 +243,25 @@ a.sidebar-nav-item:focus {
   color: #aa759f;
 }
 
+
 /* Brown */
-.theme-base-0f .sidebar {
+/*.theme-base-0f .sidebar {
   background-color: #8f5536;
 }
 .theme-base-0f .content a,
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
+}*/
+
+/* UW Purple */
+.theme-base-ef .sidebar {
+  background-color: #4b2e83;
 }
+.theme-base-ef .content a,
+.theme-base-ef .related-posts li a:hover {
+  color: #4b2e83;
+}
+
 
 .message {
   font-size: 18px

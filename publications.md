@@ -6,9 +6,18 @@ title: Publications
 ### Conference Papers
 <hr>
 
-1. [Whisper: Profile-Guided Branch Misprediction Elimination for Data Center Applications]({{site.baseurl}}public/whisper.pdf). Tanvir Ahmed Khan, Muhammed Ugur, Krishnendra Nathella, Dam Sunwoo, Heiner Litz, Daniel A Jiménez, and <b> Baris Kasikci </b>. In Proceedings of the 55th International Symposium on Microarchitecture ([**MICRO**](https://www.microarch.org/micro55/)), **Best Paper Award** Oct 2022 <img src="/~barisk/public/award.png" style="width:15px;height:20px;">.
+1. [Siloz: Leveraging DRAM Subarray Groups to Prevent Inter-VM Rowhammer]() Kevin Loughlin, Jonah Rosenblum, Stefan Saroiu, Alec Wolman, Dimitrios Skarlatos, <b> Baris Kasikci </b>. *Symposium on Operating Systems Principles (to appear) ([**SOSP**](https://sosp2023.mpi-sws.org/))*. Oct 2023
 
-1. [OCOLOS: Online COde Layout OptimizationS]({{site.baseurl}}public/ocolos.pdf). Yuxuan Zhang, Tanvir Ahmed Khan, Gilles Pokam, <b> Baris Kasikci </b>, Heiner Litz, and Joseph Devietti. In Proceedings of the 55th International Symposium on Microarchitecture ([**MICRO**](https://www.microarch.org/micro55/)), Oct, 2022.
+1. [CrossTalk: Making Low-Latency Fault Tolerance Cheap by
+Exploiting Redundant Network](). Andrew Loveless, Linh Thi Xuan Phan, Lisa Erickson, Ronald Dreslinski, and <b> Baris Kasikci </b>. [International Conference on Embedded Software ([**EMSOFT**](https://esweek.org/emsoft/)), Sep 2023.
+
+1. [PCspooF: Compromising the Safety of Time-Triggered Ethernet]({{site.baseurl}}public/pcspoof.pdf). Andrew Loveless, Linh Thi Xuan Phan, Ronald Dreslinski, and <b> Baris Kasikci </b>. IEEE Symposium on Security and Privacy ([**IEEE S&P**](https://www.ieee-security.org/TC/SP2023/)), May 2023.
+
+1. [Vidi: Record Replay for Reconfigurable Hardware]({{site.baseurl}}public/vidi.pdf). Gefei Zuo, Jiacheng Ma, Andrew Quinn, <b> Baris Kasikci </b>. *International Conference on Architectural Support for Programming Languages and Operating Systems ([**ASPLOS**](https://asplos-conference.org/))*. Mar 2023
+
+1. [Whisper: Profile-Guided Branch Misprediction Elimination for Data Center Applications]({{site.baseurl}}public/whisper.pdf). Tanvir Ahmed Khan, Muhammed Ugur, Krishnendra Nathella, Dam Sunwoo, Heiner Litz, Daniel A Jiménez, and <b> Baris Kasikci </b>. International Symposium on Microarchitecture ([**MICRO**](https://www.microarch.org/micro55/)), **Best Paper Award** Oct 2022 <img src="/~barisk/public/award.png" style="width:15px;height:20px;">. 
+
+1. [OCOLOS: Online COde Layout OptimizationS]({{site.baseurl}}public/ocolos.pdf). Yuxuan Zhang, Tanvir Ahmed Khan, Gilles Pokam, <b> Baris Kasikci </b>, Heiner Litz, and Joseph Devietti. International Symposium on Microarchitecture ([**MICRO**](https://www.microarch.org/micro55/)). **IEEE Micro Top Pick**. Oct 2022. <img src="/~barisk/public/award.png" style="width:15px;height:20px;">.
 
 1. [Transcendent Debugging the OmniTable Way]({{site.baseurl}}public/omnitable.pdf). Andrew Quinn, Michael Cafarella, Jason Flinn, <b> Baris Kasikci</b>. Symposium on Operating Systems Design and Implementation. ([**OSDI**](https://www.usenix.org/conference/osdi22)). Carlsbad. Jul 2022
 

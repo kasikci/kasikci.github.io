@@ -5,7 +5,7 @@ title: Team
 
 **Postdocs**: 
 
-[Dr .Shuwen Deng](https://caslab.csl.yale.edu/~shuwen/)
+[Dr. Shuwen Deng](https://caslab.csl.yale.edu/~shuwen/)
 
 **PhD students**: 
 
@@ -16,8 +16,6 @@ title: Team
 [Andrew Loveless](http://andrewloveless.com/) 
 
 [Jiacheng Ma](https://jcma.me/) 
-
-[Sara Mahdizadeh Shahri](https://smahdizadeh.github.io/) 
 
 [Marina Minkin](https://web.eecs.umich.edu/~minkin/) 
 
