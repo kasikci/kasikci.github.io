@@ -1,0 +1,31 @@
+# Dependencies
+# markdown:         redcarpet
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+# relative_permalinks: true
+
+# Setup
+title:            Baris Kasikci's Home Page
+tagline:
+description:      'I am interested in making computer systems more reliable, secure, and efficient'
+#url:		  https://web.eecs.umich.edu
+baseurl:          /~barisk/
+
+#
+
+author:
+  name:           Baris Kasikci
+  url:            https://web.eecs.umich.edu/~barisk
+
+plugins: [jekyll-paginate]
+paginate: 5
+paginate_path: "page:num"
+#paginate:        5
+
+# Custom vars
+version:
+
+github:
+  repo:

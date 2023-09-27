@@ -1,7 +1,6 @@
 # Ignore docs files
 _gh_pages
 .ruby-version
-_config.yml
 
 # Numerous always-ignore extensions
 *.diff
