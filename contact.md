@@ -5,7 +5,7 @@ title: Contact
 
 
 <hr>
-barisk@umich.edu
+baris@umich.edu
 <hr>
 
 EECS
@@ -28,4 +28,5 @@ Ann Arbor, MI 48109
 <a href="https://www.linkedin.com/pub/baris-kasikci/10/76a/761">
 <img src="{{ site.baseurl }}public/linkedin-logo.jpg" alt="My LinkedIn profile" width="42" height="45" border="0">
 </a>
-</p>
+</p>B
+

@@ -10,14 +10,14 @@ permalink:        pretty
 title:            Baris Kasikci's Home Page
 tagline:
 description:      'I am interested in making computer systems more reliable, secure, and efficient'
-#url:		  https://web.eecs.umich.edu
-baseurl:          /~barisk/
+#url:		  https://homes.cs.washington.edu/
+baseurl:          /~baris/
 
 #
 
 author:
   name:           Baris Kasikci
-  url:            https://web.eecs.umich.edu/~barisk
+  url:            https://homes.cs.washington.edu/~baris
 
 plugins: [jekyll-paginate]
 paginate: 5

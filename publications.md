@@ -6,10 +6,10 @@ title: Publications
 ### Conference Papers
 <hr>
 
-1. [Siloz: Leveraging DRAM Subarray Groups to Prevent Inter-VM Rowhammer]() Kevin Loughlin, Jonah Rosenblum, Stefan Saroiu, Alec Wolman, Dimitrios Skarlatos, <b> Baris Kasikci </b>. *Symposium on Operating Systems Principles (to appear) ([**SOSP**](https://sosp2023.mpi-sws.org/))*. Oct 2023
+1. [Siloz: Leveraging DRAM Subarray Groups to Prevent Inter-VM Rowhammer]({{site.baseurl}}public/siloz.pdf) Kevin Loughlin, Jonah Rosenblum, Stefan Saroiu, Alec Wolman, Dimitrios Skarlatos, <b> Baris Kasikci </b>. *Symposium on Operating Systems Principles (to appear) ([**SOSP**](https://sosp2023.mpi-sws.org/))*. Oct 2023
 
 1. [CrossTalk: Making Low-Latency Fault Tolerance Cheap by
-Exploiting Redundant Network](). Andrew Loveless, Linh Thi Xuan Phan, Lisa Erickson, Ronald Dreslinski, and <b> Baris Kasikci </b>. [International Conference on Embedded Software ([**EMSOFT**](https://esweek.org/emsoft/)), Sep 2023.
+Exploiting Redundant Network]({{site.baseurl}}public/crosstalk.pdf). Andrew Loveless, Linh Thi Xuan Phan, Lisa Erickson, Ronald Dreslinski, and <b> Baris Kasikci </b>. [International Conference on Embedded Software ([**EMSOFT**](https://esweek.org/emsoft/)), Sep 2023.
 
 1. [PCspooF: Compromising the Safety of Time-Triggered Ethernet]({{site.baseurl}}public/pcspoof.pdf). Andrew Loveless, Linh Thi Xuan Phan, Ronald Dreslinski, and <b> Baris Kasikci </b>. IEEE Symposium on Security and Privacy ([**IEEE S&P**](https://www.ieee-security.org/TC/SP2023/)), May 2023.
 
