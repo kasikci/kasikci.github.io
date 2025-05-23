@@ -4,12 +4,21 @@ title: News
 ---
 
 
+* Our group received an AMD Faculty Award to expand our work on efficient LLM serving (Nov 2024)!
+* [Matthew]() received an NSF gradaute fellowship! (Sep 2024)
+* Our group received an OCP Award to pursue work on silent data corruptions (Jul 2024)!
+* [Gefei](https://web.eecs.umich.edu/~gefeizuo/) defended his Ph.D. thesis and joined Meta. Congrats, Gefei! (Jul 2024)  
+* [Tanvir] receives the 2024 ACM [**SIGARCH & IEEE CS TCCA Outstanding Dissertation Award**](https://www.ee.columbia.edu/news/prof-tanvir-ahmed-khan-receives-2024-acm-sigarch-ieee-cs-tcca-outstanding-dissertation-award). (Jul 2024)  
+* Our group received an Amazon Research Award! (May 2024)
+* Our group received a Google Faculty Award! (Mar 2023)
 * [Jiacheng](https://jcma.me/) defended his Ph.D. thesis and joined AMD. Congrats, Jiacheng! (Feb 2024)
 * [Kevin](https://www.kevinloughlin.org/) defended his Ph.D. thesis and joined Google. Congrats, Kevin! (Sep 2023)
 * [Tanvir](https://web.eecs.umich.edu/~takh/) defended his Ph.D. thesis and joined Columbia University as a tenure-track assistant professor. Congrats, [Tanvir](https://web.eecs.umich.edu/~takh/) (Jan 2024)!
 * Ian defended his Ph.D. thesis and joined Veridise as a research engineer. Congrats [Ian](https://about.iangneal.io/)!
 * Andrew defended his Ph.D. thesis and joined NASA. Congrats, [Andrew](http://andrewloveless.com/)!
-* Tanvir wins the [Towner Prize](https://cse.engin.umich.edu/stories/tanvir-ahmed-khan-earns-towner-prize-for-outstanding-phd-research) for outstanding Ph.D. research. Congrats, [Tanvir](https://web.eecs.umich.edu/~takh/)!
+* Our group received a Google Faculty Award! (Sep 2023)
+* [Shuwen](http://web.ee.tsinghua.edu.cn/shuwen_deng/en/index.htm) completed her postdoc in our group and joined Tsighua Univeristy as an assitant professor! (Jun 2023)
+* Tanvir wins the [Towner Prize](https://cse.engin.umich.edu/stories/tanvir-ahmed-khan-earns-towner-prize-for-outstanding-phd-research) for outstanding Ph.D. research. Congrats, [Tanvir](https://web.eecs.umich.edu/~takh/)! (Jun 2023)
 * VIDI is accepted to [ASPLOS'23](https://asplos-conference.org/). Congrats [Gefei](https://web.eecs.umich.edu/~gefeizuo/) and [Jiacheng](https://jcma.me/)!
 * OCOLOS is recognized with an [**IEEE MICRO Top Pick**]()! Congrats, [Yuxuan](https://fling.seas.upenn.edu/~zyuxuan/dynamic/wordpress/) and [Tanvir](https://web.eecs.umich.edu/~takh/) (Jan 2023)!
 * Whisper won the best paper award at [**MICRO'22**](https://www.microarch.org/micro55/)! Congrats, [Tanvir](https://web.eecs.umich.edu/~takh/) (Oct 2022)!

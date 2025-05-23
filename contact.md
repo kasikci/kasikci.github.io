@@ -5,22 +5,22 @@ title: Contact
 
 
 <hr>
-baris@umich.edu
+baris@cs.washington.edu
 <hr>
 
 EECS
 <br>
-University of Michigan
+University of Washington
 <br>
-4753 BBB
+CSE 532 (Allen Center)
 <br>
-2260 Hayward Street
+185 E Stevens Way NE
 <br>
-Ann Arbor, MI 48109
+Seattle, WA, 98195
 <br>
 <hr>
 
-+1 (734) 763-1560
+(206) 221-7792
 
 <hr>
 
@@ -28,5 +28,5 @@ Ann Arbor, MI 48109
 <a href="https://www.linkedin.com/pub/baris-kasikci/10/76a/761">
 <img src="{{ site.baseurl }}public/linkedin-logo.jpg" alt="My LinkedIn profile" width="42" height="45" border="0">
 </a>
-</p>B
+</p>
 
