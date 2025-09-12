@@ -3,9 +3,9 @@ layout: page
 title: News
 ---
 
-
+* [FlashInfer](https://arxiv.org/abs/2501.01005) won a Best Paper Award at MLSys'25! Congrats [Zihao](https://homes.cs.washington.edu/~zhye/) and the team!
 * Our group received an AMD Faculty Award to expand our work on efficient LLM serving (Nov 2024)!
-* [Matthew]() received an NSF gradaute fellowship! (Sep 2024)
+* [Matthew](https://homes.cs.washington.edu/~mgiordan/) received an NSF gradaute fellowship! (Sep 2024)
 * Our group received an OCP Award to pursue work on silent data corruptions (Jul 2024)!
 * [Gefei](https://web.eecs.umich.edu/~gefeizuo/) defended his Ph.D. thesis and joined Meta. Congrats, Gefei! (Jul 2024)  
 * [Tanvir] receives the 2024 ACM [**SIGARCH & IEEE CS TCCA Outstanding Dissertation Award**](https://www.ee.columbia.edu/news/prof-tanvir-ahmed-khan-receives-2024-acm-sigarch-ieee-cs-tcca-outstanding-dissertation-award). (Jul 2024)  
