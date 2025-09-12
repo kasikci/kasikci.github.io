@@ -6,6 +6,8 @@ title: Publications
 ### Conference Papers
 <hr>
 
+1. Mitigating Application Resource Overload with Targeted Task Cancellation. Yigong Hu, Zeyin Zhang, Yicheng Liu, Yile Gu, Shuangyu Lei, <b>Baris Kasikci</b>, Peng Huang. *Symposium on Operating Systems Principles* ([**SOSP**](https://sosp2025.sigops.org/)). Oct 2025
+
 1. [NanoFlow: Towards Optimal Large Language Model Serving Throughput](https://arxiv.org/abs/2408.12757v2). Kan Zhu, Yufei Gao, Yilong Zhao, Liangyu Zhao, Gefei Zuo, Yile Gu, Dedong Xie, Tian Tang, Qinyu Xu, Zihao Ye, Keisuke Kamahori, Chien-Yu Lin, Ziren Wang, Stephanie Wang, Arvind Krishnamurthy, <b>Baris Kasikci</b>. *Symposium on Operating Systems Design and Implementation* ([**OSDI**](https://www.usenix.org/conference/osdi25)). Jul 2025
 
 1. [FlashInfer: Efficient and Customizable Attention Engine for LLM Inference Serving](https://arxiv.org/abs/2501.01005). Zihao Ye, Lequn Chen, Ruihang Lai, Wuwei Lin, Yineng Zhang, Stephanie Wang, Tianqi Chen, <b>Baris Kasikci</b>, Vinod Grover, Arvind Krishnamurthy, Luis Ceze. *Annual Conference on Machine Learning and Systems* ([**MLSys**](https://mlsys.org/)). **Best Paper Award** May 2025. <img src="/~baris/public/award.png" style="width:15px;height:20px;">
