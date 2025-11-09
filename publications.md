@@ -6,7 +6,13 @@ title: Publications
 ### Conference Papers
 <hr>
 
-1. Mitigating Application Resource Overload with Targeted Task Cancellation Yigong Hu, Zeyin Zhang, Yicheng Liu, Yile Gu, Shuangyu Lei, <b>Baris Kasikci</b>, Peng Huang. *Symposium on Operating Systems Principles* ([**SOSP**](https://sosp2025.sigops.org/)). Oct 2025
+1. PASS: A Power Adaptive Storage Server. Dedong Xie, Theano Stavrinos, Jonggyu Park, Simon Peter, <b>Baris Kasikci</b>, Thomas E. Anderson. *European Conference on Computer Systems* ([**EuroSys**](https://2026.eurosys.org/)). Apr 2026
+
+1. BlendServe: Optimizing Offline Inference with Resource-Aware Batching. Yilong Zhao, Shuo Yang, Kan Zhu, Lianmin Zheng, <b>Baris Kasikci</b>, Yifan Qiao, Yang Zhou, Jiarong Xing, Ion Stoica. *International Conference on Architectural Support for Programming Languages and Operating Systems* ([**ASPLOS**](https://www.asplos-conference.org/asplos2026/)). Mar 2026
+
+1. [LiteASR: Efficient Automatic Speech Recognition with Low-Rank Approximation](https://arxiv.org/abs/2502.20583). Keisuke Kamahori, Jungo Kasai, Noriyuki Kojima, <b>Baris Kasikci</b>. *Conference on Empirical Methods in Natural Language Processing* ([**EMNLP**](https://2025.emnlp.org/)). Nov 2025
+
+1. [Mitigating Application Resource Overload with Targeted Task Cancellation](https://dl.acm.org/doi/pdf/10.1145/3731569.3764835). Yigong Hu, Zeyin Zhang, Yicheng Liu, Yile Gu, Shuangyu Lei, <b>Baris Kasikci</b>, Peng Huang. *Symposium on Operating Systems Principles* ([**SOSP**](https://dl.acm.org/doi/proceedings/10.1145/3731569)). Oct 2025
 
 1. [NanoFlow: Towards Optimal Large Language Model Serving Throughput](https://arxiv.org/abs/2408.12757v2). Kan Zhu, Yufei Gao, Yilong Zhao, Liangyu Zhao, Gefei Zuo, Yile Gu, Dedong Xie, Tian Tang, Qinyu Xu, Zihao Ye, Keisuke Kamahori, Chien-Yu Lin, Ziren Wang, Stephanie Wang, Arvind Krishnamurthy, <b>Baris Kasikci</b>. *Symposium on Operating Systems Design and Implementation* ([**OSDI**](https://www.usenix.org/conference/osdi25)). Jul 2025
 
