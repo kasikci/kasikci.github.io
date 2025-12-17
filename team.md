@@ -23,13 +23,7 @@ title: The Efeslab Team
 
 [Keisuke Kamahori](http://kamahori.org/)
 
-[Katie Lim](https://homes.cs.washington.edu/~katielim/)
-
-[Marina Minkin](https://web.eecs.umich.edu/~minkin/) 
-
 [Haoran Peng](https://hurrypeng.cc/)
-
-[Tian Tang](https://tang-t21.github.io/)
 
 [Dedong Xie](https://ddxxdd-code.github.io/)
 
@@ -68,3 +62,7 @@ title: The Efeslab Team
 [Dr. Jiacheng Ma](https://jcma.me/) (AMD)
 
 [Dr. Gefei Zuo](https://web.eecs.umich.edu/~gefeizuo/) (Meta)
+
+[Dr. Katie Lim](https://homes.cs.washington.edu/~katielim/) (Oxide Computer Company)
+
+[Dr. Marina Minkin](https://web.eecs.umich.edu/~minkin/) (Stealth)

@@ -20,6 +20,8 @@ title: Publications
 
 1. [Fiddler: CPU-GPU Orchestration for Fast Inference of Mixture-of-Experts Models](https://arxiv.org/pdf/2402.07033). Keisuke Kamahori, Tian Tang, Yile Gu, Kan Zhu, <b>Baris Kasikci</b>. *International Conference on Learning Representations* ([**ICLR**](https://iclr.cc/)). Apr 2025
 
+1. [Scalable and Accurate Application-Level Crash-Consistency Testing via Representative Testing](https://dl.acm.org/doi/10.1145/3720431). Yile Gu, Ian Neal, Jiexiao Xu, Shaun Christopher Lee, Ayman Said, Musa Haydar, Jacob Van Geffen, Rohan Kadekodi, Andrew Quinn, <b>Baris Kasikci</b>. *ACM SIGPLAN Conference on Object-Oriented Programming, Systems, Languages, and Applications* ([**OOPSLA**](https://2025.splashcon.org/track/splash-2025-oopsla)). Apr 2025
+
 1. [Palermo: Improving the Performance of Oblivious Memory using Protocol-Hardware Co-Design](https://arxiv.org/pdf/2411.05400). Haojie Ye, Yuchen Xia, Yuhan Chen, Kuan-Yu Chen, Yichao Yuan, Shuwen Deng, <b>Baris Kasikci</b>, Trevor Mudge, Nishil Talati. *International Symposium on High-Performance Computer Architecture* ([**HPCA**](https://hpca-conf.org/2025/)). Mar 2025
 
 1. From Optimal to Practical: Efficient Micro-op Cache Replacement Policies for Data Center Applications. Kan Zhu, Yilong Zhao, Yufei Gao, Peter Braun, Tanvir Ahmed Khan, Heiner Litz, <b>Baris Kasikci</b>, Shuwen Deng. *International Symposium on High-Performance Computer Architecture* ([**HPCA**](https://hpca-conf.org/2025/)). Mar 2025
