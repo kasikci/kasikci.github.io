@@ -6,7 +6,17 @@ title: Publications
 ### Conference Papers
 <hr>
 
+1. Accelerating Large-Scale Reasoning Model Inference with Sparse Self-Speculative Decoding. Yilong Zhao, Jiaming Tang, Kan Zhu, Zihao Ye, Chi-Chih Chang, Chaofan Lin, Jongseok Park, Guangxuan Xiao, Mohamed S. Abdelfattah, Mingyu Gao, <b>Baris Kasikci</b>, Song Han, Ion Stoica. *Annual Conference on Machine Learning and Systems* ([**MLSys**](https://mlsys.org/)). May 2026
+
+1. RagInfer: Efficient Retrieval-Augmented Generation Inference with Lookahead Retrieval. Chien-Yu Lin, Keisuke Kamahori, Yiyu Liu, Xiaoxiang Shi, Madhav Kashyap, Yile Gu, Rulin Shao, Zihao Ye, Kan Zhu, Rohan Kadekodi, Stephanie Wang, Arvind Krishnamurthy, Luis Ceze, <b>Baris Kasikci</b>. *Annual Conference on Machine Learning and Systems* ([**MLSys**](https://mlsys.org/)). May 2026
+
+1. SchedFlow: Transparent and Flexible Intra-Device Parallelism via Programmable Operator Scheduling. Yi Pan, Yile Gu, Jinbin Luo, Yibo Wu, Ziren Wang, Hongtao Zhang, Ziyi Xu, Shengkai Lin, <b>Baris Kasikci</b>, Stephanie Wang. *Annual Conference on Machine Learning and Systems* ([**MLSys**](https://mlsys.org/)). May 2026
+
+1. Unleashing Scalable Context Parallelism for Foundation Models Pre-Training via FCP. Yilong Zhao, Xiaonan Nie, Kan Zhu, Shuang Ma, Zhichao Lai, Hongxiang Hao, Yang Zhou, <b>Baris Kasikci</b>, Ion Stoica. *Annual Conference on Machine Learning and Systems* ([**MLSys**](https://mlsys.org/)). May 2026
+
 1. PASS: A Power Adaptive Storage Server. Dedong Xie, Theano Stavrinos, Jonggyu Park, Simon Peter, <b>Baris Kasikci</b>, Thomas E. Anderson. *European Conference on Computer Systems* ([**EuroSys**](https://2026.eurosys.org/)). Apr 2026
+
+1. Tactic: Adaptive Sparse Attention with Clustering and Distribution Fitting for Long-Context LLMs. Kan Zhu, Tian Tang, Qinyu Xu, Yile Gu, Zhichen Zeng, Rohan Kadekodi, Liangyu Zhao, Ang Li, Arvind Krishnamurthy, <b>Baris Kasikci</b>. *International Conference on Learning Representations* ([**ICLR**](https://iclr.cc/)). Apr 2026
 
 1. BlendServe: Optimizing Offline Inference with Resource-Aware Batching. Yilong Zhao, Shuo Yang, Kan Zhu, Lianmin Zheng, <b>Baris Kasikci</b>, Yifan Qiao, Yang Zhou, Jiarong Xing, Ion Stoica. *International Conference on Architectural Support for Programming Languages and Operating Systems* ([**ASPLOS**](https://www.asplos-conference.org/asplos2026/)). Mar 2026
 
@@ -25,6 +35,8 @@ title: Publications
 1. [Palermo: Improving the Performance of Oblivious Memory using Protocol-Hardware Co-Design](https://arxiv.org/pdf/2411.05400). Haojie Ye, Yuchen Xia, Yuhan Chen, Kuan-Yu Chen, Yichao Yuan, Shuwen Deng, <b>Baris Kasikci</b>, Trevor Mudge, Nishil Talati. *International Symposium on High-Performance Computer Architecture* ([**HPCA**](https://hpca-conf.org/2025/)). Mar 2025
 
 1. From Optimal to Practical: Efficient Micro-op Cache Replacement Policies for Data Center Applications. Kan Zhu, Yilong Zhao, Yufei Gao, Peter Braun, Tanvir Ahmed Khan, Heiner Litz, <b>Baris Kasikci</b>, Shuwen Deng. *International Symposium on High-Performance Computer Architecture* ([**HPCA**](https://hpca-conf.org/2025/)). Mar 2025
+
+1. GadgetMeter: Quantitatively and Accurately Gauging the Exploitability of Speculative Gadgets. Qi Ling, Yujun Liang, Yi Ren, <b>Baris Kasikci</b>, Shuwen Deng. *Network and Distributed System Security Symposium* ([**NDSS**](https://www.ndss-symposium.org/)). Feb 2025
 
 1. [Beehive: A Flexible Network Stack for Direct-Attached Accelerators](https://arxiv.org/pdf/2403.14770). Katie Lim, Matthew Giordano, Theano Stavrinos, Jacob Nelson, Irene Zhang, <b>Baris Kasikci</b>, Thomas Anderson. *International Symposium on Microarchitecture* ([**MICRO**](https://microarch.org/micro57/index.php)). Nov 2024
 
