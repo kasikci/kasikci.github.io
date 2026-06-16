@@ -3,6 +3,10 @@ layout: page
 title: News
 ---
 
+* [Team UW SyFI wins three awards at the FlashInfer AI Kernel Generation Contest at MLSys 2026!](https://syfi.cs.washington.edu/blog/2026-05-28-mlsys-kernel-contest) (May 28, 2026)
+* [Introducing VibeServe: let AI agents write your LLM serving stack end-to-end](https://syfi.cs.washington.edu/blog/2026-05-12-introducing-vibeserve) (May 12, 2026)
+* [VoxServe now supports serving Qwen3-TTS. Give it a try!](https://vox-serve.github.io/2026/02/09/qwen3-tts-support.html) (Feb 9, 2026)
+* [Our works have been accepted to MLSys 2026 (DynaFlow, FCP, FlashInfer-Bench, SparseSpec, TeleRAG) and ICLR 2026 (Tactic)!](https://syfi.cs.washington.edu/blog/2026-01-31-syfi-january-2026) (Jan 29, 2026)
 * [FlashInfer](https://arxiv.org/abs/2501.01005) won a Best Paper Award at MLSys'25! Congrats [Zihao](https://homes.cs.washington.edu/~zhye/) and the team!
 * Our group received an AMD Faculty Award to expand our work on efficient LLM serving (Nov 2024)!
 * [Matthew](https://homes.cs.washington.edu/~mgiordan/) received an NSF gradaute fellowship! (Sep 2024)
