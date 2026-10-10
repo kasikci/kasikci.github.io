@@ -6,6 +6,14 @@ title: Publications
 ### Conference Papers
 <hr>
 
+1. [eDiff: Optimizing Energy Efficiency of ML Systems via Differential Energy Debugging](https://arxiv.org/abs/2512.08365). Yi Pan, Wenbo Qian, Dedong Xie, Ruiyan Hu, Yigong Hu, <b>Baris Kasikci</b>. *USENIX Symposium on Networked Systems Design and Implementation* ([**NSDI**](https://www.usenix.org/conference/nsdi27)). May 2027
+
+1. [M*: A Modular, Extensible, Serving System for Multimodal Models](https://arxiv.org/abs/2606.12688) [<a href="https://github.com/mstar-project/mstar/">code</a>]. Atindra Jha, Naomi Sagan, Keisuke Kamahori, Irmak Sivgin, Rohan Sanda, Steven Gao, Mark Horowitz, Luke Zettlemoyer, Olivia Hsu, Jure Leskovec, <b>Baris Kasikci</b>, Stephanie Wang. *Conference on Neural Information Processing Systems* ([**NeurIPS**](https://neurips.cc/Conferences/2026)). Dec 2026
+
+1. [ConsumerBench: Benchmarking Generative AI Applications on End-User Devices](https://arxiv.org/abs/2506.17538). Yile Gu, Rohan Kadekodi, Hoang Nguyen, Keisuke Kamahori, Yiyu Liu, <b>Baris Kasikci</b>. *Conference on Language Modeling* ([**COLM**](https://colmweb.org/)). Oct 2026
+
+1. Tools--A Characterization of Google Workload Traces. Matthew Giordano, Akanksha Jain, Enrico Deiana, Derek Bruening, Abhinav Sharma, Ibrahim Hur, Parthasarathy Ranganathan, Thomas Anderson, <b>Baris Kasikci</b>. *IEEE International Symposium on Workload Characterization* ([**IISWC**](https://iiswc.org/iiswc2026/)). Sep 2026
+
 1. [Finding NEMO: Nimble and Expressive Memory Observability]({{ site.baseurl }}public/nemo.pdf). Shihang Li, Matthew Giordano, Tushar Garg, Rohan Kadekodi, Daniel S. Berger, <b>Baris Kasikci</b>, Thomas Anderson, Simon Peter. *Symposium on Operating Systems Design and Implementation* ([**OSDI**](https://www.usenix.org/conference/osdi26)). Jul 2026
 
 1. [Diagnosing Performance Issues in Application-Defined Resources]({{ site.baseurl }}public/gigiprofiler.pdf). Yigong Hu, You-Liang Huang, Haodong Zheng, Yicheng Liu, Dedong Xie, <b>Baris Kasikci</b>. *Symposium on Operating Systems Design and Implementation* ([**OSDI**](https://www.usenix.org/conference/osdi26)). Jul 2026

@@ -3,6 +3,8 @@ layout: page
 title: News
 ---
 
+* I received the inaugural [**ACM SIGOPS Rising Star Award**](https://www.sigops.org/the-rising-star-award/) (Oct 2026)!
+* New papers accepted at NSDI 2027 (eDiff), NeurIPS 2026 (M*), COLM 2026 (ConsumerBench), and IISWC 2026 (Tools--A Characterization of Google Workload Traces) (Sep 2026)!
 * [Team UW SyFI wins three awards at the FlashInfer AI Kernel Generation Contest at MLSys 2026!](https://syfi.cs.washington.edu/blog/2026-05-28-mlsys-kernel-contest) (May 28, 2026)
 * [Introducing VibeServe: let AI agents write your LLM serving stack end-to-end](https://syfi.cs.washington.edu/blog/2026-05-12-introducing-vibeserve) (May 12, 2026)
 * [VoxServe now supports serving Qwen3-TTS. Give it a try!](https://vox-serve.github.io/2026/02/09/qwen3-tts-support.html) (Feb 9, 2026)
