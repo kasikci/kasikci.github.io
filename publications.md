@@ -36,7 +36,7 @@ title: Publications
 
 1. [BlendServe: Optimizing Offline Inference with Resource-Aware Batching]({{ site.baseurl }}public/blendserve.pdf). Yilong Zhao, Shuo Yang, Kan Zhu, Lianmin Zheng, <b>Baris Kasikci</b>, Yifan Qiao, Yang Zhou, Jiarong Xing, Ion Stoica. *International Conference on Architectural Support for Programming Languages and Operating Systems* ([**ASPLOS**](https://www.asplos-conference.org/asplos2026/)). Mar 2026
 
-1. [Snap & Replay: A New Way to Analyze uarch-Scale Performance Bottlenecks for ML Accelerators]({{ site.baseurl }}public/snap-and-replay.pdf). Ioannis Zarkadas, Amanda Tomlinson, Asaf Cidon, <b>Baris Kasikci</b>, Ofir Weisse. *ACM Symposium on Cloud Computing* ([**SoCC**]). Nov 2025
+1. [Snap & Replay: A New Way to Analyze uarch-Scale Performance Bottlenecks for ML Accelerators]({{ site.baseurl }}public/snap-and-replay.pdf). Ioannis Zarkadas, Amanda Tomlinson, Asaf Cidon, <b>Baris Kasikci</b>, Ofir Weisse. *ACM Symposium on Cloud Computing* ([**SoCC**](https://acmsocc.org/2025/)). Nov 2025
 
 1. [LiteASR: Efficient Automatic Speech Recognition with Low-Rank Approximation]({{ site.baseurl }}public/liteasr.pdf). Keisuke Kamahori, Jungo Kasai, Noriyuki Kojima, <b>Baris Kasikci</b>. *Conference on Empirical Methods in Natural Language Processing* ([**EMNLP**](https://2025.emnlp.org/)). Nov 2025
 
@@ -58,15 +58,15 @@ title: Publications
 
 1. [Beehive: A Flexible Network Stack for Direct-Attached Accelerators]({{ site.baseurl }}public/beehive.pdf). Katie Lim, Matthew Giordano, Theano Stavrinos, Jacob Nelson, Irene Zhang, <b>Baris Kasikci</b>, Thomas Anderson. *International Symposium on Microarchitecture* ([**MICRO**](https://microarch.org/micro57/index.php)). Nov 2024
 
-1. [Understanding the Host Network]({{ site.baseurl }}public/host-network.pdf). Midhul Vuppalapati, Saksham Agarwal, Henry Schuh, <b>Baris Kasikci</b>, Arvind Krishnamurthy, Rachit Agarwal. *SIGCOMM* ([**SIGCOMM**](https://dl.acm.org/doi/proceedings/10.1145/3603269)). **Best Student Paper Award**. Aug 2024. <img src="/~baris/public/award.png" style="width:15px;height:20px;">
+1. [Understanding the Host Network]({{ site.baseurl }}public/host-network.pdf). Midhul Vuppalapati, Saksham Agarwal, Henry Schuh, <b>Baris Kasikci</b>, Arvind Krishnamurthy, Rachit Agarwal. *ACM SIGCOMM Conference* ([**SIGCOMM**](https://dl.acm.org/doi/proceedings/10.1145/3603269)). **Best Student Paper Award**. Aug 2024. <img src="/~baris/public/award.png" style="width:15px;height:20px;">
 
-1. [Quest: Query-Aware Sparsity for Efficient Long-Context LLM Inference]({{ site.baseurl }}public/quest.pdf). Jiaming Tang, Yilong Zhao, Kan Zhu, Guangxuan Xiao, <b>Baris Kasikci</b>, Song Han. *International Conference on Machine Learning* ([**ICML**](https://icml.cc/Conferences/2024)). July 2024
+1. [Quest: Query-Aware Sparsity for Efficient Long-Context LLM Inference]({{ site.baseurl }}public/quest.pdf). Jiaming Tang, Yilong Zhao, Kan Zhu, Guangxuan Xiao, <b>Baris Kasikci</b>, Song Han. *International Conference on Machine Learning* ([**ICML**](https://icml.cc/Conferences/2024)). Jul 2024
 
 1. [UDP: Utility-Driven Fetch Directed Instruction Prefetching]({{ site.baseurl }}public/udp.pdf). Surim Oh, Mingsheng Xu, Tanvir Ahmed Khan, <b>Baris Kasikci</b>, Heiner Litz. *International Symposium on Computer Architecture* ([**ISCA**](https://iscaconf.org/isca2024/)). Jun 2024
 
-1. [ZipChannel: Cache Side-Channel Vulnerabilities in Compression Algorithms]({{ site.baseurl }}public/zipchannel.pdf). Marina Minkin, <b>Baris Kasikci</b>. *International Conference on Dependable Systems and Networks* ([**DSN**](https://dsn2024uq.github.io/)). June 2024
+1. [ZipChannel: Cache Side-Channel Vulnerabilities in Compression Algorithms]({{ site.baseurl }}public/zipchannel.pdf). Marina Minkin, <b>Baris Kasikci</b>. *IEEE/IFIP International Conference on Dependable Systems and Networks* ([**DSN**](https://dsn2024uq.github.io/)). Jun 2024
 
-1. [Atom: Low-bit Quantization for Efficient and Accurate LLM Serving]({{ site.baseurl }}public/atom.pdf). Kan Zhu, Zihao Ye, Lequn Chen, Size Zheng, Luis Ceze, Arvind Krishnamurthy, Tianqi Chen, <b>Baris Kasikci</b>. *Conference on Machine Learning and Systems* ([**MLSys**](https://mlsys.org/)). May 2024
+1. [Atom: Low-bit Quantization for Efficient and Accurate LLM Serving]({{ site.baseurl }}public/atom.pdf). Kan Zhu, Zihao Ye, Lequn Chen, Size Zheng, Luis Ceze, Arvind Krishnamurthy, Tianqi Chen, <b>Baris Kasikci</b>. *Annual Conference on Machine Learning and Systems* ([**MLSys**](https://mlsys.org/)). May 2024
 
 1. [Proactive Runtime Detection of Aging-Related Silent Data Corruptions: A Bottom-Up Approach]({{ site.baseurl }}public/vega.pdf). Jiacheng Ma, Majd Ganaiem, Madeline Burbage, Theo Gregersen, Rachel McAmis, Freddy Gabbay, <b>Baris Kasikci</b>. *International Conference on Architectural Support for Programming Languages and Operating Systems* ([**ASPLOS**](https://asplos-conference.org/)). Apr 2024
 
@@ -116,9 +116,9 @@ title: Publications
 
 1. [Rethinking File Mapping Structures for Persistent Memory]({{ site.baseurl }}public/pm-indexing.pdf). Ian Neal, Gefei Zuo, Eric Shiple, Tanvir Ahmed Khan, Youngjin Kwon, Simon Peter, <b>Baris Kasikci</b>. *USENIX Conference on File and Storage Technologies* ([**FAST**](https://www.usenix.org/conference/fast21)). Feb 2021
 
-1. [Morpheus II: A RISC-V Security Extension for Protecting Vulnerable Software and Hardware]({{ site.baseurl }}public/morpheus-ii.pdf). Austin Harris, Tarunesh Verma, Shijia Wei, Lauren Biernacki, Alex Kisil, Misiker Tadesse Aga, Valeria Bertacco, <b>Baris Kasikci</b>, Mohit Tiwari, Todd Austin. *IEEE Hot Chips Symposium* ([**Hot Chips**]). 2021
+1. [Morpheus II: A RISC-V Security Extension for Protecting Vulnerable Software and Hardware]({{ site.baseurl }}public/morpheus-ii.pdf). Austin Harris, Tarunesh Verma, Shijia Wei, Lauren Biernacki, Alex Kisil, Misiker Tadesse Aga, Valeria Bertacco, <b>Baris Kasikci</b>, Mohit Tiwari, Todd Austin. *IEEE Hot Chips Symposium* ([**Hot Chips**](https://hotchips.org/archives/)). 2021
 
-1. [Holistic Defenses Against Microarchitectural Attacks]({{ site.baseurl }}public/holistic-defenses.pdf). <b>Baris Kasikci</b>, Kevin Loughlin. *SPIE Disruptive Technologies in Information Sciences V* ([**SPIE**]). 2021
+1. [Holistic Defenses Against Microarchitectural Attacks]({{ site.baseurl }}public/holistic-defenses.pdf). <b>Baris Kasikci</b>, Kevin Loughlin. *SPIE Disruptive Technologies in Information Sciences V* ([**SPIE**](https://spie.org/)). 2021
 
 1. [Agamotto: How Persistent is your Persistent Memory Application?]({{ site.baseurl }}public/agamotto.pdf). Ian Neal, Ben Reeves, Ben Stoler, Andrew Quinn, Youngjin Kwon, Simon Peter, <b>Baris Kasikci</b>. *Symposium on Operating Systems Design and Implementation* ([**OSDI**](https://www.usenix.org/conference/osdi20)). **IEEE Micro Top Pick Honorable Mention**. Nov 2020. <img src="/~baris/public/award.png" style="width:15px;height:20px;">
 
@@ -126,7 +126,7 @@ title: Publications
 
 1. [A Hypervisor for Shared-Memory FPGA Platforms]({{ site.baseurl }}public/optimus.pdf). Jiacheng Ma, Gefei Zuo, Kevin Loughlin, Xiaohe Cheng, Yanqiang Liu, Abel Mulugeta Eneyew, Zhengwei Qi, <b>Baris Kasikci</b>. *International Conference on Architectural Support for Programming Languages and Operating Systems* ([**ASPLOS**](https://asplos-conference.org/)). Mar 2020
 
-1. [CPU Microarchitectural Performance Characterization of Cloud Video Transcoding]({{ site.baseurl }}public/video-transcoding.pdf). Yuhan Chen, Jingyuan Zhu, Tanvir Ahmed Khan, <b>Baris Kasikci</b>. *IEEE International Symposium on Workload Characterization* ([**IISWC**]). 2020
+1. [CPU Microarchitectural Performance Characterization of Cloud Video Transcoding]({{ site.baseurl }}public/video-transcoding.pdf). Yuhan Chen, Jingyuan Zhu, Tanvir Ahmed Khan, <b>Baris Kasikci</b>. *IEEE International Symposium on Workload Characterization* ([**IISWC**](https://iiswc.org/iiswc2020/)). 2020
 
 1. [NDA: Preventing Speculative Execution Attacks at Their Source]({{ site.baseurl }}public/nda.pdf). Ofir Weisse, Ian Neal, Kevin Loughlin, Thomas Wenisch, <b>Baris Kasikci</b>. *International Symposium on Microarchitecture* ([**MICRO**](https://www.microarch.org/micro52/)). **IEEE Micro Top Pick Honorable Mention**. Oct 2019. <img src="/~baris/public/award.png" style="width:15px;height:20px;">
 
@@ -134,7 +134,7 @@ title: Publications
 
 1. [Huron: Hybrid False Sharing Detection and Repair]({{ site.baseurl }}public/huron.pdf) [<a href="https://github.com/efeslab/huron">code</a>]. Tanvir Ahmed Khan, Yifan Zhao, Gilles Pokam, Barzan Mozafari, <b>Baris Kasikci</b>. *Conference on Programming Language Design and Implementation* ([**PLDI**](https://conf.researchr.org/home/pldi-2019)). Jun 2019
 
-1. [Morpheus: A Vulnerability-Tolerant Secure Architecture Based on Ensembles of Moving Target Defenses with Churn]({{ site.baseurl }}public/morpheus.pdf) [<a href="https://www.youtube.com/watch?v=G04pYcp3p5o">talk</a>]. Mark Gallagher, Lauren Biernacki, Shibo Chen, Zelalem Birhanu Aweke, Salessawi Ferede Yitbarek, Misiker Tadesse Aga, Austin Harris, Zhixing Xu, <b>Baris Kasikci</b>, Valeria Bertacco, Sharad Malik, Mohit Tiwari, Todd Austin. *International Conference on Architectural Support for Programming Languages and Operating Systems* ([**ASPLOS**](https://asplos-conference.org/)). April 2019
+1. [Morpheus: A Vulnerability-Tolerant Secure Architecture Based on Ensembles of Moving Target Defenses with Churn]({{ site.baseurl }}public/morpheus.pdf) [<a href="https://www.youtube.com/watch?v=G04pYcp3p5o">talk</a>]. Mark Gallagher, Lauren Biernacki, Shibo Chen, Zelalem Birhanu Aweke, Salessawi Ferede Yitbarek, Misiker Tadesse Aga, Austin Harris, Zhixing Xu, <b>Baris Kasikci</b>, Valeria Bertacco, Sharad Malik, Mohit Tiwari, Todd Austin. *International Conference on Architectural Support for Programming Languages and Operating Systems* ([**ASPLOS**](https://asplos-conference.org/)). Apr 2019
 
 1. [REPT: Reverse Debugging of Failures in Deployed Software]({{ site.baseurl }}public/rept.pdf). Weidong Cui, Xinyang Ge, <b>Baris Kasikci</b>, Ben Niu, Upamanyu Sharma, Ruoyu Wang, Insu Yun. *Symposium on Operating Systems Design and Implementation* ([**OSDI**](https://www.usenix.org/conference/osdi18)). **Best Paper Award** Oct 2018. <img src="/~baris/public/award.png" style="width:15px;height:20px;">
 
@@ -155,11 +155,11 @@ title: Publications
 ### Journal Papers
 <hr>
 
-1. [One Profile Fits All: Profile-Guided Linux Kernel Optimizations for Data Center Applications]({{ site.baseurl }}public/one-profile-fits-all.pdf). Muhammed Ugur, Cheng Jiang, Alex Erf, Tanvir Ahmed Khan, <b>Baris Kasikci</b>. *ACM SIGOPS Operating Systems Review* ([**OSR**]). 2023
+1. [One Profile Fits All: Profile-Guided Linux Kernel Optimizations for Data Center Applications]({{ site.baseurl }}public/one-profile-fits-all.pdf). Muhammed Ugur, Cheng Jiang, Alex Erf, Tanvir Ahmed Khan, <b>Baris Kasikci</b>. *ACM SIGOPS Operating Systems Review* ([**OSR**](https://dl.acm.org/journal/sigops)). 2023
 
-1. [Software-Driven Security Attacks: From Vulnerability Sources to Durable Hardware Defenses]({{ site.baseurl }}public/software-driven-security-attacks.pdf). Lauren Biernacki, Mark Gallagher, Zhixing Xu, Misiker Tadesse Aga, Austin Harris, Shijia Wei, Mohit Tiwari, <b>Baris Kasikci</b>, Sharad Malik, Todd Austin. *ACM Journal on Emerging Technologies in Computing Systems* ([**JETC**]). 2021
+1. [Software-Driven Security Attacks: From Vulnerability Sources to Durable Hardware Defenses]({{ site.baseurl }}public/software-driven-security-attacks.pdf). Lauren Biernacki, Mark Gallagher, Zhixing Xu, Misiker Tadesse Aga, Austin Harris, Shijia Wei, Mohit Tiwari, <b>Baris Kasikci</b>, Sharad Malik, Todd Austin. *ACM Journal on Emerging Technologies in Computing Systems* ([**JETC**](https://dl.acm.org/journal/jetc)). 2021
 
-1. [Breaking Virtual Memory Protection and the SGX Ecosystem with Foreshadow]({{ site.baseurl }}public/foreshadow-toppick.pdf). Jo Van Bulck, Marina Minkin, Ofir Weisse, Daniel Genkin, <b>Baris Kasikci</b>, Frank Piessens, Mark Silberstein, Thomas F. Wenisch, Yuval Yarom, Raoul Strackx. *IEEE Micro Top Picks* ([**IEEE Micro**]). 2019
+1. [Breaking Virtual Memory Protection and the SGX Ecosystem with Foreshadow]({{ site.baseurl }}public/foreshadow-toppick.pdf). Jo Van Bulck, Marina Minkin, Ofir Weisse, Daniel Genkin, <b>Baris Kasikci</b>, Frank Piessens, Mark Silberstein, Thomas F. Wenisch, Yuval Yarom, Raoul Strackx. *IEEE Micro Top Picks* ([**IEEE Micro**](https://www.computer.org/csdl/magazine/mi)). 2019
 
 1. [Automated Classification of Data Races for Both Strong and Weak Memory Models]({{ site.baseurl }}public/portend-plus.pdf). <b>Baris Kasikci</b>, Cristian Zamfir, George Candea. *ACM Transactions of Programming Languages and Systems* ([**TOPLAS**](http://toplas.acm.org/)). 2015
 
@@ -167,9 +167,9 @@ title: Publications
 <hr>
 
 1. [Apiary: An OS for the Modern FPGA]({{ site.baseurl }}public/apiary.pdf). Katie Lim, Matthew Giordano, Irene Zhang, <b>Baris Kasikci</b>, Thomas Anderson. *Workshop on Hot Topics in Operating Systems* ([**HotOS**](https://sigops.org/s/conferences/hotos/2021/)). May 2025
-1. [Can Storage Devices Be Power Adaptive?]({{ site.baseurl }}public/power-adaptive-storage-devices.pdf). Dedong Xie, Theano Stavrinos, Kan Zhu, Simon Peter, <b>Baris Kasikci</b>, Thomas Anderson. *Workshop on Hot Topics in Storage and File Systems* ([**HotStorage**](https://www.hotstorage.org/2024/)). July 2024
-1. [Software-Defined Memory Controllers: An Idea Whose Time Has Come]({{ site.baseurl }}public/software-defined-memory-controllers.pdf). Kevin Loughlin, Stefan Saroiu, Alec Wolman, <b>Baris Kasikci</b>. *Wild and Crazy Ideas Session, ACM International Conference on Architectural Support for Programming Languages and Operating Systems* ([**WACI**]). 2022
-1. [Tolerate Silent Data Errors with Coded Computation]({{ site.baseurl }}public/coded-computation.pdf). Gefei Zuo, Jiacheng Ma, Andrew Quinn, <b>Baris Kasikci</b>. *Workshop on Data Integrity and Secure Cloud Computing* ([**Data Integrity and Secure Cloud Computing**]). 2022
+1. [Can Storage Devices Be Power Adaptive?]({{ site.baseurl }}public/power-adaptive-storage-devices.pdf). Dedong Xie, Theano Stavrinos, Kan Zhu, Simon Peter, <b>Baris Kasikci</b>, Thomas Anderson. *Workshop on Hot Topics in Storage and File Systems* ([**HotStorage**](https://www.hotstorage.org/2024/)). Jul 2024
+1. [Software-Defined Memory Controllers: An Idea Whose Time Has Come]({{ site.baseurl }}public/software-defined-memory-controllers.pdf). Kevin Loughlin, Stefan Saroiu, Alec Wolman, <b>Baris Kasikci</b>. *Wild and Crazy Ideas Session, ACM International Conference on Architectural Support for Programming Languages and Operating Systems* ([**WACI**](https://asplos-conference.org/asplos2022/index.html%3Fp%3D3378.html)). 2022
+1. [Tolerate Silent Data Errors with Coded Computation]({{ site.baseurl }}public/coded-computation.pdf). Gefei Zuo, Jiacheng Ma, Andrew Quinn, <b>Baris Kasikci</b>. *Workshop on Data Integrity and Secure Cloud Computing* ([**DISCC**](https://research.ibm.com/publications/1st-workshop-on-data-integrity-and-secure-cloud-computing-discc-2022)). 2022
 1. [Stop! Hammer Time: Rethinking Our Approach to Rowhammer Mitigations]({{ site.baseurl }}public/hammertime.pdf). Kevin Loughlin, Stefan Saroiu, Alec Wolman, <b>Baris Kasikci</b>. *Workshop on Hot Topics in Operating Systems* ([**HotOS**](https://sigops.org/s/conferences/hotos/2021/)). Jun 2021
 1. [I4: Incremental Inference of Inductive Invariants]({{ site.baseurl }}public/i4-hotos.pdf). Haojun Ma, Aman Goel, Jean-Baptiste Jeannin, Manos Kapritsos, <b>Baris Kasikci</b>, Karem Sakallah. *Workshop on Hot Topics in Operating Systems* ([**HotOS**](https://hotos19.sigops.org/)). May 2019
 1. [HASE: Hardware-Assisted Symbolic Execution]({{ site.baseurl }}public/hase-slides.pdf). Jörg Thalheim, Pramod Bhatotia, Pedro Fonseca, <b>Baris Kasikci</b>. *KLEE Workshop* ([**KLEE Workshop**](https://srg.doc.ic.ac.uk/klee18/)). Apr 2018
@@ -177,4 +177,4 @@ title: Publications
 1. [Lockout: Efficient Testing for Deadlock Bugs]({{ site.baseurl }}public/lockout.pdf) [<a href="{{ site.baseurl }}public/lockout-slides.pdf">slides</a>]. Ali Kheradmand, <b>Baris Kasikci</b>, George Candea. *Workshop on Determinism and Correctness in Parallel Programming* ([**WoDet**](http://wodet.cs.washington.edu/)). Mar 2014
 1. [Automated Debugging for Arbitrarily Long Executions]({{ site.baseurl }}public/res.pdf) [<a href="{{ site.baseurl }}public/res-slides.pdf">slides</a>]. Cristian Zamfir, <b>Baris Kasikci</b>, Johannes Kinder, Edouard Bugnion, George Candea. *Workshop on Hot Topics in Operating Systems* ([**HotOS**](https://www.usenix.org/conference/hotos13)). May 2013
 1. [CoRD: A Collaborative Framework for Distributed Data Race Detection]({{ site.baseurl }}public/cord.pdf) [<a href="{{ site.baseurl }}public/cord-slides.pdf">slides</a>]. <b>Baris Kasikci</b>, Cristian Zamfir, George Candea. *Workshop on Hot Topics in System Dependability* ([**HotDep**](http://sigops.org/sosp/sosp13/hotdep.html)). Oct 2012
-1. [Scalable Modeling of Software Product Line Variability]({{ site.baseurl }}public/scalable-modeling.pdf). <b>Baris Kasikci</b>, Semih Bilgen. *Workshop on Scalable Modeling Techniques for Software Product Lines* ([**SPLC**]). 2009
+1. [Scalable Modeling of Software Product Line Variability]({{ site.baseurl }}public/scalable-modeling.pdf). <b>Baris Kasikci</b>, Semih Bilgen. *Workshop on Scalable Modeling Techniques for Software Product Lines* ([**SPLC**](https://splc.net/)). 2009
