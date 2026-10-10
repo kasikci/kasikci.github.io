@@ -12,7 +12,7 @@ title: Publications
 
 1. [ConsumerBench: Benchmarking Generative AI Applications on End-User Devices](https://arxiv.org/abs/2506.17538). Yile Gu, Rohan Kadekodi, Hoang Nguyen, Keisuke Kamahori, Yiyu Liu, <b>Baris Kasikci</b>. *Conference on Language Modeling* ([**COLM**](https://colmweb.org/)). Oct 2026
 
-1. Tools--A Characterization of Google Workload Traces. Matthew Giordano, Akanksha Jain, Enrico Deiana, Derek Bruening, Abhinav Sharma, Ibrahim Hur, Parthasarathy Ranganathan, Thomas Anderson, <b>Baris Kasikci</b>. *IEEE International Symposium on Workload Characterization* ([**IISWC**](https://iiswc.org/iiswc2026/)). Sep 2026
+1. <span id="tools-2026"></span>Tools--A Characterization of Google Workload Traces. Matthew Giordano, Akanksha Jain, Enrico Deiana, Derek Bruening, Abhinav Sharma, Ibrahim Hur, Parthasarathy Ranganathan, Thomas Anderson, <b>Baris Kasikci</b>. *IEEE International Symposium on Workload Characterization* ([**IISWC**](https://iiswc.org/iiswc2026/)). Sep 2026
 
 1. [Finding NEMO: Nimble and Expressive Memory Observability]({{ site.baseurl }}public/nemo.pdf). Shihang Li, Matthew Giordano, Tushar Garg, Rohan Kadekodi, Daniel S. Berger, <b>Baris Kasikci</b>, Thomas Anderson, Simon Peter. *Symposium on Operating Systems Design and Implementation* ([**OSDI**](https://www.usenix.org/conference/osdi26)). Jul 2026
 
