@@ -13,7 +13,7 @@ title: The Efeslab Team
       
 [Maddie Burbage](https://maddieburbage.github.io/)
 
-[Yufei Gao]()
+[Yufei Gao](https://maryyufei21.github.io/)
 
 [Steven Gao](https://stevengao.net/)
 
@@ -31,11 +31,11 @@ title: The Efeslab Team
 
 **Master's and Undergraduate Students**: 
 
-[Zhan Jin]()
+Zhan Jin
 
 [Yi Pan](https://conless.dev/)
 
-[Ziren Wang]()
+Ziren Wang
 
 **Former Postdocs**
 
@@ -51,7 +51,7 @@ title: The Efeslab Team
 
 [Dr. Akshitha Sriraman](https://akshithasriraman.eecs.umich.edu/) (Assistant Professor, CMU)
 
-[Dr. Tanvir Ahmed Khan](http://web.eecs.umich.edu/~takh/) (Assistant Professor, Columbia University) 
+[Dr. Tanvir Ahmed Khan](https://takhandipu.github.io/) (Assistant Professor, Columbia University)
 
 [Dr. Kevin Loughlin](https://www.kevinloughlin.org/) (Google)
 

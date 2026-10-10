@@ -12,39 +12,39 @@ title: News
 * I received the [**DSN Rising Star in Dependability Award**](https://dsn2025.github.io/awards_rs.html) for contributions to dependable systems with influence on industry practice (Jun 2025)!
 * [FlashInfer](https://arxiv.org/abs/2501.01005) won a Best Paper Award at MLSys'25! Congrats [Zihao](https://homes.cs.washington.edu/~zhye/) and the team!
 * Our group received an AMD Faculty Award to expand our work on efficient LLM serving (Nov 2024)!
-* [Matthew](https://homes.cs.washington.edu/~mgiordan/) received an NSF gradaute fellowship! (Sep 2024)
+* [Matthew](https://homes.cs.washington.edu/~mgiordan/) received an NSF Graduate Research Fellowship! (Sep 2024)
 * Our group received an OCP Award to pursue work on silent data corruptions (Jul 2024)!
 * [Gefei](https://web.eecs.umich.edu/~gefeizuo/) defended his Ph.D. thesis and joined Meta. Congrats, Gefei! (Jul 2024)  
-* [Tanvir] receives the 2024 ACM [**SIGARCH & IEEE CS TCCA Outstanding Dissertation Award**](https://www.ee.columbia.edu/news/prof-tanvir-ahmed-khan-receives-2024-acm-sigarch-ieee-cs-tcca-outstanding-dissertation-award). (Jul 2024)  
+* [Tanvir](https://takhandipu.github.io/) received the 2024 ACM [**SIGARCH & IEEE CS TCCA Outstanding Dissertation Award**](https://www.ee.columbia.edu/news/prof-tanvir-ahmed-khan-receives-2024-acm-sigarch-ieee-cs-tcca-outstanding-dissertation-award). (Jul 2024)
 * Our group received an Amazon Research Award! (May 2024)
 * Our group received a Google Faculty Award! (Mar 2023)
 * [Jiacheng](https://jcma.me/) defended his Ph.D. thesis and joined AMD. Congrats, Jiacheng! (Feb 2024)
 * [Kevin](https://www.kevinloughlin.org/) defended his Ph.D. thesis and joined Google. Congrats, Kevin! (Sep 2023)
-* [Tanvir](https://web.eecs.umich.edu/~takh/) defended his Ph.D. thesis and joined Columbia University as a tenure-track assistant professor. Congrats, [Tanvir](https://web.eecs.umich.edu/~takh/) (Jan 2024)!
+* [Tanvir](https://takhandipu.github.io/) defended his Ph.D. thesis and joined Columbia University as a tenure-track assistant professor. Congrats, [Tanvir](https://takhandipu.github.io/)! (Jan 2024)
 * Ian defended his Ph.D. thesis and joined Veridise as a research engineer. Congrats [Ian](https://about.iangneal.io/)!
 * Andrew defended his Ph.D. thesis and joined NASA. Congrats, [Andrew](http://andrewloveless.com/)!
 * Our group received a Google Faculty Award! (Sep 2023)
-* [Shuwen](http://web.ee.tsinghua.edu.cn/shuwen_deng/en/index.htm) completed her postdoc in our group and joined Tsighua Univeristy as an assitant professor! (Jun 2023)
-* Tanvir wins the [Towner Prize](https://cse.engin.umich.edu/stories/tanvir-ahmed-khan-earns-towner-prize-for-outstanding-phd-research) for outstanding Ph.D. research. Congrats, [Tanvir](https://web.eecs.umich.edu/~takh/)! (Jun 2023)
+* [Shuwen](https://caslab.csl.yale.edu/~shuwen/) completed her postdoc in our group and joined Tsinghua University as an assistant professor! (Jun 2023)
+* Tanvir wins the [Towner Prize](https://cse.engin.umich.edu/stories/tanvir-ahmed-khan-earns-towner-prize-for-outstanding-phd-research) for outstanding Ph.D. research. Congrats, [Tanvir](https://takhandipu.github.io/)! (Jun 2023)
 * VIDI is accepted to [ASPLOS'23](https://asplos-conference.org/). Congrats [Gefei](https://web.eecs.umich.edu/~gefeizuo/) and [Jiacheng](https://jcma.me/)!
-* OCOLOS is recognized with an [**IEEE MICRO Top Pick**]()! Congrats, [Yuxuan](https://fling.seas.upenn.edu/~zyuxuan/dynamic/wordpress/) and [Tanvir](https://web.eecs.umich.edu/~takh/) (Jan 2023)!
-* Whisper won the best paper award at [**MICRO'22**](https://www.microarch.org/micro55/)! Congrats, [Tanvir](https://web.eecs.umich.edu/~takh/) (Oct 2022)!
-* Kan Zhu, undergraduate researcher, won the ACM Student Research Competition at MICRO'22, Congrats, Kan (Oct 2022)! 
-* Whisper and OCOLOS are accepted to appear at MICRO'22. Congrats [Tanvir](https://web.eecs.umich.edu/~takh/) and Yuxuan (Jul 2022)!
+* [OCOLOS]({{ site.baseurl }}public/ocolos.pdf) was recognized as an **IEEE Micro Top Pick**! Congrats, [Yuxuan](https://fling.seas.upenn.edu/~zyuxuan/dynamic/wordpress/) and [Tanvir](https://takhandipu.github.io/)! (Jan 2023)
+* Whisper won the best paper award at [**MICRO'22**](https://www.microarch.org/micro55/)! Congrats, [Tanvir](https://takhandipu.github.io/) (Oct 2022)!
+* Kan Zhu, an undergraduate researcher, won the ACM Student Research Competition at MICRO'22. Congrats, Kan! (Oct 2022)
+* Whisper and OCOLOS are accepted to appear at MICRO'22. Congrats, [Tanvir](https://takhandipu.github.io/) and Yuxuan! (Jul 2022)
 * OmniTable is accepted at OSDI'22. Congrats [Andrew](https://arquinn.github.io/) (Mar 2022)!
 * Sift is accepted to Usenix ATC'22. Congrats Haojun (Apr 2022)!
-* Tanvir won the [**Rackham Doctoral Fellowship**](https://cse.engin.umich.edu/stories/tanvir-ahmed-khan-awarded-rackham-predoctoral-fellowship/). Congrats [Tanvir](https://web.eecs.umich.edu/~takh/) (Mar 2022)! 
+* Tanvir won the [**Rackham Doctoral Fellowship**](https://cse.engin.umich.edu/stories/tanvir-ahmed-khan-awarded-rackham-predoctoral-fellowship/). Congrats, [Tanvir](https://takhandipu.github.io/)! (Mar 2022)
 * MOESI-prime and Thermometer accepted at ISCA'22. Congrats [Kevin](https://www.kevinloughlin.org) and [Shixin](https://zhizhuoxin.github.io/)! (Mar 2022)
 * Ian won the Richard and Eleanor Towner Prize for Distinguished Academic Achievement Award! Congrats [Ian](https://about.iangneal.io/)! (Feb 2022)
 * Our work on profile-guided software prefetching got accepted to appear at [EuroSys'22](https://2022.eurosys.org/calls/call-for-papers/) (Jan 2022)
 * Honored to be named [**Morris Wellman Professor**](https://cse.engin.umich.edu/stories/baris-kasikci-named-morris-wellman-professor) (Dec 2021)
 * Our work on debugging in heterogeneous systems got accepted to appear at ASPLOS'22! Congrats, [Jiacheng](https://jcma.me/)! (Nov 2021)
 * I delivered the keynote speech at IEEE [CITS](http://atc.udg.edu/CITS2021/). (Nov 2021)
-* Shixin Song won the first place at the ACM Student Research Competition at MICRO'21. Congrats [Shixin](https://zhizhuoxin.github.io/)! (OCt 2021)
+* Shixin Song won first place at the ACM Student Research Competition at MICRO'21. Congrats, [Shixin](https://zhizhuoxin.github.io/)! (Oct 2021)
 * Kevin Loughlin won a [**Google Fellowship**](https://research.google/outreach/phd-fellowship/recipients/). Congrats [Kevin](https://www.kevinloughlin.org/)! (Sep 2021).
 * Andrew Quinn defended his PhD thesis and joined UCSC as an assistant professor. Congrats, [Andrew](https://arquinn.github.io/)! (Sep 2021)
 * Our group was awarded a [Google gift](https://cse.engin.umich.edu/stories/google-award-to-make-widely-used-software-testing-technique-more-effective) for our work on failure reproduction. (Aug 2021)
-* Twig and PDede are accepted to appear at [**MICRO'21**](https://www.microarch.org/micro54/). Congrats [Tanvir](https://web.eecs.umich.edu/~takh/), [Akshitha](https://akshithasriraman.eecs.umich.edu/), and Nathan! (Jul 2021)
+* Twig and PDede are accepted to appear at [**MICRO'21**](https://www.microarch.org/micro54/). Congrats, [Tanvir](https://takhandipu.github.io/), [Akshitha](https://akshithasriraman.eecs.umich.edu/), and Nathan! (Jul 2021)
 * I was awarded a [**Microsoft Research Faculty Fellowship**](https://www.microsoft.com/en-us/research/academic-program/faculty-fellowship/#!fellows). Thanks, Microsoft! (Jun 2021)
 * I gave an invited talk at VMware as part of the Early Career Grant awardee talk series (Jun 2021)
 * I gave an invited talk at Intel as part of the Intel/NSF FoMR program talk series (Jun 2021)
@@ -53,18 +53,18 @@ title: News
 * I will serve on the [**ASPLOS'22**](https://asplos-conference.org/) and [**PLDI'22**](https://conf.researchr.org/home/pldi-2022) PCs. (May 2021)
 * Marina Minkin won a [**Facebook Fellowship**](https://research.fb.com/fellows/minkin-marina/). Congrats [Marina](https://web.eecs.umich.edu/~minkin/)! (April 2021)
 * Our paper on rethinking Rowhammer mitigations is accepted to [**HotOS'21**](https://sigops.org/s/conferences/hotos/2021/). Congrats [Kevin](https://www.kevinloughlin.org/)! (Mar 2021).
-* DMon is accepted to appear at [**OSDI'21**](https://www.usenix.org/conference/osdi21). Congrats [Tanvir](https://web.eecs.umich.edu/~takh/)! (Mar 2021).¯
-* Ripple is accepted to appear at [**ISCA'21**](https://iscaconf.org/isca2021/). Congrats [Tanvir](https://web.eecs.umich.edu/~takh/)! (Jul 2020).
-* ER is accepted to appear at [**PLDI'21**](https://conf.researchr.org/home/pldi-2021). Congrats [Gefei](https://web.eecs.umich.edu/~gefeizuo/)
+* DMon is accepted to appear at [**OSDI'21**](https://www.usenix.org/conference/osdi21). Congrats, [Tanvir](https://takhandipu.github.io/)! (Mar 2021)
+* Ripple is accepted to appear at [**ISCA'21**](https://iscaconf.org/isca2021/). Congrats, [Tanvir](https://takhandipu.github.io/)! (Mar 2021)
+* ER is accepted to appear at [**PLDI'21**](https://conf.researchr.org/home/pldi-2021). Congrats, [Gefei](https://web.eecs.umich.edu/~gefeizuo/)! (Mar 2021)
 * IGOR  is accepted to appear at  [**RTAS'21**](http://2021.rtas.org/). Congrats, [Andrew](http://andrewloveless.com/)! (Jan 2021)
 * [Agamotto](https://web.eecs.umich.edu/~barisk/public/agamotto.pdf) is recognized with a IEEE MICRO Top Pick Honorable Mention! Congrats, [Ian](https://about.iangneal.io/)! (Jan 2021)
 * I and [Eddie Kohler](http://www.read.seas.harvard.edu/~kohler/) will co-chair [**HotOS'21**](https://sigops.org/s/conferences/hotos/2021/). HotOS is awesome! Here is the [CFP](https://sigops.org/s/conferences/hotos/2021/) (Dec 2020)
 * Our work on rethinking indexing structures for persistent memory systems has been accepted to FAST'21! Congrats, [Ian](https://about.iangneal.io/)!  (Dec 2020)
 * Hippocrates is accepted to appear at [**ASPLOS'21**](https://asplos-conference.org/)! (Nov 2020) Congrats, [Ian](https://about.iangneal.io/)!
 * I was awarded an [**Intel Rising Star Faculty Award**](https://www.intel.com/content/www/us/en/research/blogs/intel-rising-stars-awards-2020.html), Thanks Intel! (Oct 2020)
-* [DOLMA](public/dolma.pdf) is accepted to appear at [**USENIX Security'21**](https://www.usenix.org/conference/usenixsecurity21) (Sep 2020)
+* [DOLMA]({{ site.baseurl }}public/dolma.pdf) is accepted to appear at [**USENIX Security'21**](https://www.usenix.org/conference/usenixsecurity21). (Sep 2020)
 * Agamotto is accepted to appear at [**OSDI'20**](https://www.usenix.org/conference/osdi20)! Congrats, [Ian](https://about.iangneal.io/)! (Sep 2020)
-* [I-SPY](https://web.eecs.umich.edu/~barisk/public/ispy.pdf) is accepted to [MICRO'20](https://www.microarch.org/micro53/) Congrats, [Tanvir](https://web.eecs.umich.edu/~takh/)! (Jul 2020)
+* [I-SPY]({{ site.baseurl }}public/ispy.pdf) is accepted to [MICRO'20](https://www.microarch.org/micro53/). Congrats, [Tanvir](https://takhandipu.github.io/)! (Jul 2020)
 * I, Manos Kapritsos, Kevin Leach, and Wes Weimer were awarded a [**DARPA grant**](https://news.engin.umich.edu/2020/08/1-8m-darpa-project-aims-to-protect-cars-trucks-and-spacecraft-from-hackers/) for assured patching. Thanks DARPA! (Jul 2020)
 * I and Joe Devietti were awarded an [**NSF/Intel joint grant**](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2010810). Thanks NSF and Intel! (Jul 2020)
 * I will serve in the [**OSDI'21**](https://www.usenix.org/conference/osdi21), [**ASPLOS'21**](https://asplos-conference.org/) and [**EuroSys'21**](https://2021.eurosys.org/) PCs. (Jul 2020)
@@ -74,11 +74,11 @@ title: News
 * Andrew Loveless and Kevin Loughlin won [**NSF Graduate Research Fellowships**](https://cse.engin.umich.edu/stories/nine-cse-graduate-students-recognized-by-nsf-graduate-research-fellowship-program)! Congrats, [Andrew](http://andrewloveless.com/) and [Kevin](https://www.kevinloughlin.org/)! (March 2020)
 * Undergraduate researcher Nathan Brown wins [**first place in ACM Student Research Competition**](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2010810). Congrats Nathan! (March 2020)
 * I was awarded a [**Google Faculty Research Award**](https://ai.googleblog.com/2020/02/announcing-2019-google-faculty-research.html). (March 2020)
-* [NDA](public/nda.pdf) is recognized with a [**IEEE Micro Top Pick Honorable Mention**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9099646). Congrats, [Ofir](https://www.ofirweisse.com/)! (Jan 2020)
+* [NDA]({{ site.baseurl }}public/nda.pdf) is recognized with a [**IEEE Micro Top Pick Honorable Mention**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9099646). Congrats, [Ofir](https://www.ofirweisse.com/)! (Jan 2020)
 * I was awarded an [**SRC grant**](https://www.srcinc.com/) for designing a new Web Benchmarking Suite with [David Brooks](http://www.eecs.harvard.edu/~dbrooks/) and [Tim Rogers](https://engineering.purdue.edu/tgrogers/). Thanks SRC!
 * I will serve in the [**OSDI'20**](https://www.usenix.org/conference/osdi20) and [**USENIX ATC'20**](https://www.usenix.org/conference/atc20) PCs. (Jul 2019)
 * I and Irene Zhang will organize the [**EuroSys'21 Doctoral Workshop**](https://2021.eurosys.org/) (Jul 2019).
-* [NDA](public/nda.pdf), our design that stops speculative execution attacks at their source is accepted to [**MICRO 2019**](https://www.microarch.org/micro52/). Congrats, [Ofir](https://www.ofirweisse.com/)! (Jul 2019) 
+* [NDA]({{ site.baseurl }}public/nda.pdf), our design that stops speculative execution attacks at their source, is accepted to [**MICRO 2019**](https://www.microarch.org/micro52/). Congrats, [Ofir](https://www.ofirweisse.com/)! (Jul 2019)
 * [I4](https://web.eecs.umich.edu/~barisk/public/i4.pdf), our work on fully-automatic verification of distributed systems protocols is accepted to appear at [**SOSP 2019**](https://sosp19.rcs.uwaterloo.ca/) (Jul 2019)
 * I and [Andrew Baumann](https://www.microsoft.com/en-us/research/people/baumann/#!publications) will [**co-chair VEE 2020**](https://conf.researchr.org/home/vee-2020). VEE is a great interdisciplinary conference. Please submit!
 * I, Vijay Chidambaram, and Supreeth Shastri will [**organize the first artifact evaluation track at SOSP 2019**](https://sysartifacts.github.io/sosp2019/). This is a first for a major systems venue, and we are very excited.
@@ -108,4 +108,4 @@ title: News
 * I will serve as a reviewer for ACM Transactions on Software Engineering [**TSE**](http://www.computer.org/web/tse). (Jul 2015)
 * Our [paper](http://dslab.epfl.ch/pubs/failure-sketches.pdf) on failure sketches will be presented at [**HotOS**'15](https://www.usenix.org/conference/hotos15). (May 2015)
 * I will be spending the summer at Intel working together with [Cristiano Pereira](http://cseweb.ucsd.edu/~cpereira/) and [Gilles Pokam](https://sites.google.com/site/gillespokam/home) on new techniques for automated debugging and security applications of hardware tracing. (Apr 2015)
-* Our [paper](http://dslab.epfl.ch/pubs/gist.pdf) on automated root cause diagnosis will be appear at [**SOSP'15**](http://www.ssrc.ucsc.edu/sosp15/) (Oct 2015)
+* Our [paper](http://dslab.epfl.ch/pubs/gist.pdf) on automated root cause diagnosis appeared at [**SOSP'15**](http://www.ssrc.ucsc.edu/sosp15/) (Oct 2015)
