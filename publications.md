@@ -8,7 +8,7 @@ title: Publications
 
 1. [eDiff: Optimizing Energy Efficiency of ML Systems via Differential Energy Debugging](https://arxiv.org/abs/2512.08365). Yi Pan, Wenbo Qian, Dedong Xie, Ruiyan Hu, Yigong Hu, <b>Baris Kasikci</b>. *USENIX Symposium on Networked Systems Design and Implementation* ([**NSDI**](https://www.usenix.org/conference/nsdi27)). May 2027
 
-1. [M*: A Modular, Extensible, Serving System for Multimodal Models](https://arxiv.org/abs/2606.12688) [<a href="https://github.com/mstar-project/mstar/">code</a>]. Atindra Jha, Naomi Sagan, Keisuke Kamahori, Irmak Sivgin, Rohan Sanda, Steven Gao, Mark Horowitz, Luke Zettlemoyer, Olivia Hsu, Jure Leskovec, <b>Baris Kasikci</b>, Stephanie Wang. *Conference on Neural Information Processing Systems* ([**NeurIPS**](https://neurips.cc/Conferences/2026)). Dec 2026
+1. [M\*: A Modular, Extensible, Serving System for Multimodal Models](https://arxiv.org/abs/2606.12688) [<a href="https://github.com/mstar-project/mstar/">code</a>]. Atindra Jha, Naomi Sagan, Keisuke Kamahori, Irmak Sivgin, Rohan Sanda, Steven Gao, Mark Horowitz, Luke Zettlemoyer, Olivia Hsu, Jure Leskovec, <b>Baris Kasikci</b>, Stephanie Wang. *Conference on Neural Information Processing Systems* ([**NeurIPS**](https://neurips.cc/Conferences/2026)). Dec 2026
 
 1. [ConsumerBench: Benchmarking Generative AI Applications on End-User Devices](https://arxiv.org/abs/2506.17538). Yile Gu, Rohan Kadekodi, Hoang Nguyen, Keisuke Kamahori, Yiyu Liu, <b>Baris Kasikci</b>. *Conference on Language Modeling* ([**COLM**](https://colmweb.org/)). Oct 2026
 
