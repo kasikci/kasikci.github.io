@@ -19,7 +19,7 @@ title: The Efeslab Team
 
 [Matthew Giordano](https://homes.cs.washington.edu/~mgiordan/)
 
-[Michael Gu](https://ikace.github.io/)
+[Yile (Michael) Gu](https://ikace.github.io/)
 
 [Keisuke Kamahori](http://kamahori.org/)
 

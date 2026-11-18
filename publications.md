@@ -10,7 +10,7 @@ title: Publications
 
 1. [M\*: A Modular, Extensible, Serving System for Multimodal Models](https://arxiv.org/abs/2606.12688) [<a href="https://github.com/mstar-project/mstar/">code</a>]. Atindra Jha, Naomi Sagan, Keisuke Kamahori, Irmak Sivgin, Rohan Sanda, Steven Gao, Mark Horowitz, Luke Zettlemoyer, Olivia Hsu, Jure Leskovec, <b>Baris Kasikci</b>, Stephanie Wang. *Conference on Neural Information Processing Systems* ([**NeurIPS**](https://neurips.cc/Conferences/2026)). Dec 2026
 
-1. [ConsumerBench: Benchmarking Generative AI Applications on End-User Devices](https://arxiv.org/abs/2506.17538). Yile Gu, Rohan Kadekodi, Hoang Nguyen, Keisuke Kamahori, Yiyu Liu, <b>Baris Kasikci</b>. *Conference on Language Modeling* ([**COLM**](https://colmweb.org/)). Oct 2026
+1. [ConsumerBench: Benchmarking Generative AI Applications on End-User Devices](https://arxiv.org/abs/2506.17538). Yile (Michael) Gu, Rohan Kadekodi, Hoang Nguyen, Keisuke Kamahori, Yiyu Liu, <b>Baris Kasikci</b>. *Conference on Language Modeling* ([**COLM**](https://colmweb.org/)). Oct 2026
 
 1. <span id="tools-2026"></span>Tools--A Characterization of Google Workload Traces. Matthew Giordano, Akanksha Jain, Enrico Deiana, Derek Bruening, Abhinav Sharma, Ibrahim Hur, Parthasarathy Ranganathan, Thomas Anderson, <b>Baris Kasikci</b>. *IEEE International Symposium on Workload Characterization* ([**IISWC**](https://iiswc.org/iiswc2026/)). Sep 2026
 
@@ -18,21 +18,21 @@ title: Publications
 
 1. [Diagnosing Performance Issues in Application-Defined Resources]({{ site.baseurl }}public/gigiprofiler.pdf). Yigong Hu, You-Liang Huang, Haodong Zheng, Yicheng Liu, Dedong Xie, <b>Baris Kasikci</b>. *Symposium on Operating Systems Design and Implementation* ([**OSDI**](https://www.usenix.org/conference/osdi26)). Jul 2026
 
-1. [Ekka: Automated Diagnosis of Silent Errors in LLM Inference]({{ site.baseurl }}public/ekka.pdf). Yile Gu, Zhen Zhang, Shaowei Zhu, Xinwei Fu, Jun Wu, Yida Wang, <b>Baris Kasikci</b>. *International Conference on Machine Learning* ([**ICML**](https://icml.cc/Conferences/2026)). Jul 2026
+1. [Ekka: Automated Diagnosis of Silent Errors in LLM Inference]({{ site.baseurl }}public/ekka.pdf). Yile (Michael) Gu, Zhen Zhang, Shaowei Zhu, Xinwei Fu, Jun Wu, Yida Wang, <b>Baris Kasikci</b>. *International Conference on Machine Learning* ([**ICML**](https://icml.cc/Conferences/2026)). Jul 2026
 
 1. [Hayroll: A Modular Wrapper for Translating C Macros and Conditional Compilation to Rust]({{ site.baseurl }}public/hayroll.pdf). Haoran Peng, <b>Baris Kasikci</b>, Gilbert Bernstein, Michael D. Ernst. *Conference on Programming Language Design and Implementation* ([**PLDI**](https://pldi26.sigplan.org/)). Jun 2026
 
 1. [Accelerating Large-Scale Reasoning Model Inference with Sparse Self-Speculative Decoding]({{ site.baseurl }}public/sparsespec.pdf). Yilong Zhao, Jiaming Tang, Kan Zhu, Zihao Ye, Chi-Chih Chang, Chaofan Lin, Jongseok Park, Guangxuan Xiao, Mohamed S. Abdelfattah, Mingyu Gao, <b>Baris Kasikci</b>, Song Han, Ion Stoica. *Annual Conference on Machine Learning and Systems* ([**MLSys**](https://mlsys.org/)). May 2026
 
-1. [RagInfer: Efficient Retrieval-Augmented Generation Inference with Lookahead Retrieval]({{ site.baseurl }}public/raginfer.pdf). Chien-Yu Lin, Keisuke Kamahori, Yiyu Liu, Xiaoxiang Shi, Madhav Kashyap, Yile Gu, Rulin Shao, Zihao Ye, Kan Zhu, Rohan Kadekodi, Stephanie Wang, Arvind Krishnamurthy, Luis Ceze, <b>Baris Kasikci</b>. *Annual Conference on Machine Learning and Systems* ([**MLSys**](https://mlsys.org/)). May 2026
+1. [RagInfer: Efficient Retrieval-Augmented Generation Inference with Lookahead Retrieval]({{ site.baseurl }}public/raginfer.pdf). Chien-Yu Lin, Keisuke Kamahori, Yiyu Liu, Xiaoxiang Shi, Madhav Kashyap, Yile (Michael) Gu, Rulin Shao, Zihao Ye, Kan Zhu, Rohan Kadekodi, Stephanie Wang, Arvind Krishnamurthy, Luis Ceze, <b>Baris Kasikci</b>. *Annual Conference on Machine Learning and Systems* ([**MLSys**](https://mlsys.org/)). May 2026
 
-1. [DynaFlow: Transparent and Flexible Intra-Device Parallelism via Programmable Operator Scheduling]({{ site.baseurl }}public/dynaflow.pdf). Yi Pan, Yile Gu, Jinbin Luo, Yibo Wu, Ziren Wang, Hongtao Zhang, Ziyi Xu, Shengkai Lin, <b>Baris Kasikci</b>, Stephanie Wang. *Annual Conference on Machine Learning and Systems* ([**MLSys**](https://mlsys.org/)). May 2026
+1. [DynaFlow: Transparent and Flexible Intra-Device Parallelism via Programmable Operator Scheduling]({{ site.baseurl }}public/dynaflow.pdf). Yi Pan, Yile (Michael) Gu, Jinbin Luo, Yibo Wu, Ziren Wang, Hongtao Zhang, Ziyi Xu, Shengkai Lin, <b>Baris Kasikci</b>, Stephanie Wang. *Annual Conference on Machine Learning and Systems* ([**MLSys**](https://mlsys.org/)). May 2026
 
 1. [Unleashing Scalable Context Parallelism for Foundation Models Pre-Training via FCP]({{ site.baseurl }}public/fcp.pdf). Yilong Zhao, Xiaonan Nie, Kan Zhu, Shuang Ma, Zhichao Lai, Hongxiang Hao, Yang Zhou, <b>Baris Kasikci</b>, Ion Stoica. *Annual Conference on Machine Learning and Systems* ([**MLSys**](https://mlsys.org/)). May 2026
 
 1. [PASS: A Power Adaptive Storage Server]({{ site.baseurl }}public/pass.pdf). Dedong Xie, Theano Stavrinos, Jonggyu Park, Simon Peter, <b>Baris Kasikci</b>, Thomas E. Anderson. *European Conference on Computer Systems* ([**EuroSys**](https://2026.eurosys.org/)). Apr 2026
 
-1. [Tactic: Adaptive Sparse Attention with Clustering and Distribution Fitting for Long-Context LLMs]({{ site.baseurl }}public/tactic.pdf). Kan Zhu, Tian Tang, Qinyu Xu, Yile Gu, Zhichen Zeng, Rohan Kadekodi, Liangyu Zhao, Ang Li, Arvind Krishnamurthy, <b>Baris Kasikci</b>. *International Conference on Learning Representations* ([**ICLR**](https://iclr.cc/)). Apr 2026
+1. [Tactic: Adaptive Sparse Attention with Clustering and Distribution Fitting for Long-Context LLMs]({{ site.baseurl }}public/tactic.pdf). Kan Zhu, Tian Tang, Qinyu Xu, Yile (Michael) Gu, Zhichen Zeng, Rohan Kadekodi, Liangyu Zhao, Ang Li, Arvind Krishnamurthy, <b>Baris Kasikci</b>. *International Conference on Learning Representations* ([**ICLR**](https://iclr.cc/)). Apr 2026
 
 1. [BlendServe: Optimizing Offline Inference with Resource-Aware Batching]({{ site.baseurl }}public/blendserve.pdf). Yilong Zhao, Shuo Yang, Kan Zhu, Lianmin Zheng, <b>Baris Kasikci</b>, Yifan Qiao, Yang Zhou, Jiarong Xing, Ion Stoica. *International Conference on Architectural Support for Programming Languages and Operating Systems* ([**ASPLOS**](https://www.asplos-conference.org/asplos2026/)). Mar 2026
 
@@ -40,15 +40,15 @@ title: Publications
 
 1. [LiteASR: Efficient Automatic Speech Recognition with Low-Rank Approximation]({{ site.baseurl }}public/liteasr.pdf). Keisuke Kamahori, Jungo Kasai, Noriyuki Kojima, <b>Baris Kasikci</b>. *Conference on Empirical Methods in Natural Language Processing* ([**EMNLP**](https://2025.emnlp.org/)). Nov 2025
 
-1. [Mitigating Application Resource Overload with Targeted Task Cancellation]({{ site.baseurl }}public/targeted-task-cancellation.pdf). Yigong Hu, Zeyin Zhang, Yicheng Liu, Yile Gu, Shuangyu Lei, <b>Baris Kasikci</b>, Peng Huang. *Symposium on Operating Systems Principles* ([**SOSP**](https://dl.acm.org/doi/proceedings/10.1145/3731569)). Oct 2025
+1. [Mitigating Application Resource Overload with Targeted Task Cancellation]({{ site.baseurl }}public/targeted-task-cancellation.pdf). Yigong Hu, Zeyin Zhang, Yicheng Liu, Yile (Michael) Gu, Shuangyu Lei, <b>Baris Kasikci</b>, Peng Huang. *Symposium on Operating Systems Principles* ([**SOSP**](https://dl.acm.org/doi/proceedings/10.1145/3731569)). Oct 2025
 
-1. [NanoFlow: Towards Optimal Large Language Model Serving Throughput]({{ site.baseurl }}public/nanoflow.pdf). Kan Zhu, Yufei Gao, Yilong Zhao, Liangyu Zhao, Gefei Zuo, Yile Gu, Dedong Xie, Tian Tang, Qinyu Xu, Zihao Ye, Keisuke Kamahori, Chien-Yu Lin, Ziren Wang, Stephanie Wang, Arvind Krishnamurthy, <b>Baris Kasikci</b>. *Symposium on Operating Systems Design and Implementation* ([**OSDI**](https://www.usenix.org/conference/osdi25)). Jul 2025
+1. [NanoFlow: Towards Optimal Large Language Model Serving Throughput]({{ site.baseurl }}public/nanoflow.pdf). Kan Zhu, Yufei Gao, Yilong Zhao, Liangyu Zhao, Gefei Zuo, Yile (Michael) Gu, Dedong Xie, Tian Tang, Qinyu Xu, Zihao Ye, Keisuke Kamahori, Chien-Yu Lin, Ziren Wang, Stephanie Wang, Arvind Krishnamurthy, <b>Baris Kasikci</b>. *Symposium on Operating Systems Design and Implementation* ([**OSDI**](https://www.usenix.org/conference/osdi25)). Jul 2025
 
 1. [FlashInfer: Efficient and Customizable Attention Engine for LLM Inference Serving]({{ site.baseurl }}public/flashinfer.pdf). Zihao Ye, Lequn Chen, Ruihang Lai, Wuwei Lin, Yineng Zhang, Stephanie Wang, Tianqi Chen, <b>Baris Kasikci</b>, Vinod Grover, Arvind Krishnamurthy, Luis Ceze. *Annual Conference on Machine Learning and Systems* ([**MLSys**](https://mlsys.org/)). **Best Paper Award** May 2025. <img src="/~baris/public/award.png" style="width:15px;height:20px;">
 
-1. [Fiddler: CPU-GPU Orchestration for Fast Inference of Mixture-of-Experts Models]({{ site.baseurl }}public/fiddler.pdf). Keisuke Kamahori, Tian Tang, Yile Gu, Kan Zhu, <b>Baris Kasikci</b>. *International Conference on Learning Representations* ([**ICLR**](https://iclr.cc/)). Apr 2025
+1. [Fiddler: CPU-GPU Orchestration for Fast Inference of Mixture-of-Experts Models]({{ site.baseurl }}public/fiddler.pdf). Keisuke Kamahori, Tian Tang, Yile (Michael) Gu, Kan Zhu, <b>Baris Kasikci</b>. *International Conference on Learning Representations* ([**ICLR**](https://iclr.cc/)). Apr 2025
 
-1. [Scalable and Accurate Application-Level Crash-Consistency Testing via Representative Testing]({{ site.baseurl }}public/crash-consistency-testing.pdf). Yile Gu, Ian Neal, Jiexiao Xu, Shaun Christopher Lee, Ayman Said, Musa Haydar, Jacob Van Geffen, Rohan Kadekodi, Andrew Quinn, <b>Baris Kasikci</b>. *ACM SIGPLAN Conference on Object-Oriented Programming, Systems, Languages, and Applications* ([**OOPSLA**](https://2025.splashcon.org/track/splash-2025-oopsla)). Apr 2025
+1. [Scalable and Accurate Application-Level Crash-Consistency Testing via Representative Testing]({{ site.baseurl }}public/crash-consistency-testing.pdf). Yile (Michael) Gu, Ian Neal, Jiexiao Xu, Shaun Christopher Lee, Ayman Said, Musa Haydar, Jacob Van Geffen, Rohan Kadekodi, Andrew Quinn, <b>Baris Kasikci</b>. *ACM SIGPLAN Conference on Object-Oriented Programming, Systems, Languages, and Applications* ([**OOPSLA**](https://2025.splashcon.org/track/splash-2025-oopsla)). Apr 2025
 
 1. [Palermo: Improving the Performance of Oblivious Memory using Protocol-Hardware Co-Design]({{ site.baseurl }}public/palermo.pdf). Haojie Ye, Yuchen Xia, Yuhan Chen, Kuan-Yu Chen, Yichao Yuan, Shuwen Deng, <b>Baris Kasikci</b>, Trevor Mudge, Nishil Talati. *International Symposium on High-Performance Computer Architecture* ([**HPCA**](https://hpca-conf.org/2025/)). Mar 2025
 
